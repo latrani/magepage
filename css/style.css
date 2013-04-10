@@ -1,0 +1,54 @@
+img {
+  border: 0;
+}
+
+.pagelist {
+  margin-left: 1em;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+div.c1 {
+  text-align: center
+}
+
+.footer address {
+  display: inline;
+  font-style: normal;
+}
+
+#blueribbon {
+  float: right;
+}
+
+.remote-tree {
+    list-style-image: url(../bilder/b_cone.gif);
+}
+
+.remote-leaf {
+    list-style-image: url(../bilder/b_sphere.gif);
+}
+
+.remote-text {
+    list-style-image: url(../bilder/b_oct.gif);
+}
+
+.remote-file {
+    list-style-image: url(../bilder/b_ico.gif);
+}
+
+.local-tree {
+    list-style-image: url(../bilder/r_cone.gif);
+}
+
+.local-leaf {
+    list-style-image: url(../bilder/r_sphere.gif);
+}
+
+.local-text {
+    list-style-image: url(../bilder/r_oct.gif);
+}
+
+.local-file {
+    list-style-image: url(../bilder/r_ico.gif);
+}
