@@ -1,0 +1,114 @@
+Technomantic Computer Tools
+(Something to scare Virtual Adepts with)
+
+Bugged Processors (RISPs) (Forces 2 Correspondence 3)
+-----------------------------------------------------
+Iteration X invented these, but their main user is The New World 
+Order. The bugged processors, or "Remote Intercept Standard 
+Processors", RISPs, are apparently normal processors. They look like 
+a 68000, a 80386 or any other standard processor. They work 
+completely the same way. But each RISP have a individual 
+identification code. When the technomancers send this code using 
+their sophisticated communications technology, the RISP will 
+respond from anywhere in the world. It will immediately link up to 
+a technomancer computer, which will emulate the processor. The 
+user will never suspect anything, but all information passing 
+through the processor will appear in the technomancer computer. 
+The technomancers can take control over every machine with a 
+RISP inside.
+
+The New World Order has used RISP-technology to infiltrate most 
+government and military systems. Almost any information stored 
+in these systems can be retrieved, records can be altered or 
+deleted. Iteration X has begun experimenting with sending not only 
+information into the RISPs, but instead using the link to send high 
+voltage currents into the computer, destroying the computer and 
+killing the operator. 
+
+Fortunately, the technomancers have not yet infiltrated everything 
+with RISPs. While they certainly would like to have a RISP in every 
+piece of machinery on Earth, it would not be very useful. The 
+amount of information would be to big to handle, even with the 
+biggest computers in Autocthonia. Even today there are millions of 
+RISPs, and most of them sits unused in personal computers, 
+washing machines and stereos. Most of these have been simple 
+tests of the technology, using infiltrators at Intel and Motorola to 
+spread the RISPs. Since the technomancers only have a very 
+general idea of what each RISP is used for and where each RISP is, 
+they have not yet been used for anything.
+
+Another problem is security. The paranoids in The New World 
+Order do not like the thought of having RISPs everywhere. While 
+they certainly would like to have *total* access to every computer 
+in the world, they are suspicious of Iteration X. What if the 
+Iterations use the RISPs to infiltrate New World Order? Or even 
+more horrible, what if the Virtual Adepts got wind of the RISPs and 
+used them to infiltrate the technocracy's computers?
+
+There also exists RIMUs (Remote Intercept Memory Units) and 
+AISP (Autonomous Intercept Standard Processors). The AISPs are 
+designed to constantly scan for certain patterns, like the words 
+"Virtual Adept", and contact the main computers if this appears. 
+Unfortunately, the AISPs are not very advanced yet, and can only 
+scan for very simple patterns (They would fail against "Vrtual 
+Adpt"). Iteration X scientists is working on this problem.
+
+RISP Scanner (Forces 2 Correspondence 3)
+----------------------------------------
+This is a small device, looking like a calculator (often camouflaged 
+as such). It will send a signal to a certain RISP which responds with 
+a signal. The scanner will use this information to track the distance 
+to the RISP. Some scanners can send signals to every RISP in the 
+vicinity, thus finding unexpected RISPS. Using these scanners, New 
+World Order is tracking interesting computers to find their owners. 
+Even if the only find an uninteresting RISP in a stereo, they will 
+enter its position, use and identification number into their gigantic 
+database over known RISPs. You can never tell what use it could 
+have one day.
+
+Pattern recognition expert system (Spirit 4)
+--------------------------------------------
+The expert system is a small AI, designed to search computers for 
+certain patterns. They are used to track people, find intruders or 
+anything else in the area of pattern recognition. For example, the  
+wants to know if someone is a mage. The expert system 
+immediately begins to collect all available information, comparing it 
+to known mages and making assumptions on its own. For example, 
+if the person has been seen with known mages, has won on the 
+lottery 100% more than average, has an almost perfect medical 
+record and is known to be regarded as an eccentric, then the expert 
+will inform the user that it is 88% chance for the person to have an 
+awakened avatar, and 65% chance for him to be a true mage, given 
+this information. 
+
+These Expert systems are constantly tracking certain people the 
+technocracy have become interested in, noticing if something odd 
+happens. They also search for intruders in their systems, nodes, 
+breaches of the Gauntlet and general weirdness.
+
+New World Network (Artefact)
+----------------------------
+This is the New World Order main computer network. It contains 
+not only technomantic computers, but also government, military 
+and commercial computers infiltrated by the New World Order. 
+Using this network the technomancers can quickly access almost all 
+information about someone or something.
+
+It is a deeply paranoid network, filled with security checks and 
+expert systems constantly on their guard for intruders. All 
+information is encrypted. The whole network is slow and 
+cumbersome, but very secure. Still, many technomancers suspect 
+that there may be trapdoors or security holes left by Virtual 
+Adepts.
+
+Inside the Network the user can search for information about 
+anything, but every access is logged. Expert systems scan for users 
+who display unusual interests, especially in areas outside their 
+normal work. If the New World Order find an intruder, they 
+immediately send the Men In Black to the intruders location, send 
+net-spiders into his computer and reorganise the areas accessed. If 
+the intruder have found names or addresses for agents, they are 
+immediately moved or eliminated ("No security is better than 
+compromised security" is an old New World Order saying).
+
+

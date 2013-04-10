@@ -1,0 +1,361 @@
+From nv91-asa@nada.kth.se Wed May 21 18:11:31 1997
+Status: RO
+X-Status: 
+Received: from iglou1 (exim@iglou1.iglou.com [192.107.41.3])
+	by mail.nada.kth.se (8.8.4/8.8.4) with SMTP
+	id SAA23587 for <nv91-asa@nada.kth.se>;
+	Wed, 21 May 1997 18:11:28 +0200 (MET DST)
+Received: from vorlon by iglou1 with smtp (8.7.3/8.6.12)
+	id 0wUDyz-0000Yf-00; Wed, 21 May 1997 12:11:21 -0400
+Date: Wed, 21 May 1997 12:11:20 -0400 (EDT)
+From: Jimmy McKinney <vorlon@iglou.com>
+X-Sender: vorlon@iglou1
+Reply-To: Jimmy McKinney <vorlon@iglou.com>
+To: The Mage Mailing List <mage-l@oracle.wizards.com>
+cc: Anders Sandberg <nv91-asa@nada.kth.se>,
+        Chris Cox <kwdrak1@uky.campus.mci.net>,
+        Rick Lawing <rlawing210@aol.com>
+Subject: The Other Scientists
+Message-ID: <Pine.GSO.3.96.970521094037.10334A-100000@iglou1>
+X-Ultimate-Answer: 42
+X-IRC-Nick: Gregor
+Organization: Amateur Mad Scientists Association
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+   In discussions of the Sons/Children/Persons/Team of Ether, most people
+are at a loss to think of any other characterizations than the Mad
+Scientist stereotype. While there is nothing wrong with this sort of SoE
+(they are in fact, my favorite sort), I am probably not helping matters by
+posting all sorts of information and stories about this type. Therefore,
+whilst brainstorming just before bed last night, and about 10 minutes this
+morning, I wrote up a list of some alternate styles of ether Science, and
+came up with some interesting thoughts. A lot of these have been covered
+elsewhere (especially the SoE tradbook), but I'm making very little
+attempt to comply with these portrayals. After all, if they were the most
+memorable portrayals, I wouldn't need to write this.
+
+Alternate Etheric Science
+=========================
+Ether mages may be divided into several broad categories. The most common
+of these mages -- the mad scientists -- would fall into the category of
+experimentalist or reasearcher. These guys may employ the entire
+gamut of Weird, Fringe, and Pseudo Sciences (see later for details)
+depending on temperament. There are, however, others that also fit next to
+them.
+
+Radical Scientists
+------------------
+The first of these is the one I like to call the Radical Scientist. In a
+laboratory setting, Radical Scientists tend to look indistinguishable from
+their mundane or technocratic counterparts. They employ fringe science and
+radical science to explore the boundaries of Science. These are the men
+and women in the world's labs that can steer an average mundane experiment
+into the realm of Etheric Science. Typically, they specialize in some
+field like physics or chemistry, and work to further the goals of the SoE
+by proposing radical or fringe theories to do so. These guys are the
+opposite of technocratic scientists that sabotage SoE theories in the
+labs. They rarely if ever get vulgar, and rarely attract attention to
+themselves or their part in a radical new theory (if the theory itself
+attracts the world's attnetion, that's fine)
+
+Abilities: Knowledges, especially medical or scientific knowledges of 4+,
+are a must, as with most SoEs. Computer is another typical aptitude in
+todays laboratory environment.
+
+Spheres: Radical Scientists tend to have one highly developed sphere or
+two, and very little in anything else. These spheres are related to th
+area of specialization, of course.
+
+Foci: Lots of high-tech equipment to test theories with. The theory itself
+may serve as a focus in most cases.
+
+Examples: Cold Fusion, the film Chain Reaction, Nikola Tesla (though not
+lab oriented, and more visible than average), amateurs that explore
+helical coil field dynamics and the like.
+
+
+Armchair Scientists
+-------------------
+These are rather odd scientists; most don't experiment, and some rarely
+use their Scientific capabilities at all! Usually these scientists are
+purely theoretical, prefering to concentrate on ideas rather than testing
+or application. This is the most likely sort to be found in Victorian
+style men's clubs, discussing this or that new Scientist or Experiment
+over cognac and a pipe. Not always though, some are found in labs,
+indistinguishable from other types of Scientists. The best of them can so
+capture the world's imagination that they subvert the technocratic
+paradigm practically by opening their mouth.
+
+Abilities: A broad knowledge of current theories in the whole scientific
+community is useful. Otherwise, it's painfully apparent to your colleagues
+that you are discussing something you know nothing about.
+
+Spheres: These Scientists use their Magick so infrequently, it's hard to
+say WHAT they have. The most likely choice is that they are strong in mind
+magicks, both to convince others of their validity, and to develop their
+theories and defend them by self-enhancement.
+
+Foci: Who knows? If anything, these are the most likely mages to use a
+theory as a focus.
+
+Examples: Heisenberg's Uncertainty Principle, Quantum Physics, Dark Matter
+as the lost Ether, tachyons as a loophole in technocratic relativity.
+
+Parapsychologists
+-----------------
+Obsessed with exploring the supernatural, these mages experiment and
+research into paranormal activity and record their observations. They are
+the most likely to run into the other denizens of the WoD, and the most
+likely to be attacked by same. Less obviously, the more loose cannons
+among them often have close ties to such elements as the Cult of Ecstacy,
+for example for exploring the effects of LSD-type drugs upon ESP
+potentials of sleepers. These Scientists are also the most likely to turn
+Gung-Ho if they don't like what they find, and use their science to attack
+other races.
+
+Abilities: Research, Technology, Investigation, and Science (usually
+psychology and parapsychology)
+
+Spheres: Mind for ESP research, Spirit/Entropy for ghostly areas. Time is
+used in pre/post cognition, Forces for exploring PKE or telekinetic
+energies.
+
+Foci: A wide array of technological devices, some mundane, some not. Such
+things as kirlian lenses, Infrared film, PKE valence meters, and
+deck of standard ESP testing cards.
+
+The Educators
+=============
+Besides the experimental and researcher Scientists, the tradition also
+includes those who have dedicated their careers to educating others.
+Though they run the entire spectrum from bizarre to mundane, there are two
+who work in tandem that I'd like to explore.
+
+Wizards
+-------
+   At an early age, children are often fascinated by science. The wisest
+among the sons of ether recognize this as a crucial time: If the children
+are encouraged to develop and explore, they may hold this love for science
+their entire lives. If on the other hand they are given an image of
+science as "nerdy", they may turn away from it and propogate this view
+further the older they grow, becoming less and less likely to exceed the
+technocratic paradigm in ANY way...even mystickal ways. 
+   Therefore, the Scientists commonly known as Wizards (after the
+television show Ask Mr. Wizard [Author: actually, I have a poor memory for
+names like this. It could be Mr. Wizard's World or some other such
+variation] that performed this function) teach children the wonders and
+joy of Science. Though they do throw in the occasionally borderline
+Etheric Theory, these Etherians are rather controversial in that they
+prefer to keep a low profile by staying within the sleeper
+(technocratic) paradigm.
+   Whether found in an elementary school, or on TV, Wizards are crucial to
+the Sons' efforts to alter the technocratic paradigm. Once they lay the
+foundation, promising students are taken note of and often exposed to
+the teachings of Radical Scientists and the next group in this category,
+to judge their reactions to the "better" sciences.
+
+Abilities: Education, Science, Acting
+
+Spheres: Any, really. Mind is highly useful simply for teaching, but
+forces and matter magicks are common too as these are the most dramatic
+(for younger children) yet explainable magicks.
+
+Foci: Anything even vaguely resembling materials for a demonstration of
+scientific principles, like chemical reactions and electric energy
+devices.
+
+Examples: Ask Mr. Wizard, Beakman's world, Bill Nye the Science Guy, 3-2-1
+contact, occasional episodes of Nextstep and Beyond 2000, and "What will
+they think of NEXT?" (another old show I'm not sure about the name of)
+
+Urban Mythologists
+------------------
+An Urban Myth is a legend that has grown up around some possibly fictional
+occurence or device. They are paradigm shattering beliefs in things the
+technocracy would rather you did not think about. The Urban Mythologists
+are a group of Sons of Ether that create, propogate, debunk, dedebunk,
+redebunk, and defend these urban myths. The end result is that everyone
+knows about them, and everyone is adamant about believing or disbelieving
+them. Regardless of which it is, not only does this inspire doubt in the
+average person, but it often inspires doubt in the minds of those on both
+sides. In any case, the technocracy's paradigm is stretched just the
+tiniest bit for each one of these, and the Union is nearly helpless to
+counteract it. Anything they do simply makes the situation worse. Doubt
+and a perfectly predictable worldview are not especially compatible
+concepts. If these mages use their magick at all outside of coincidental
+mind magicks, it would be to provide some falsified (or perhaps real)
+evidence to more excitable sleepers, who then proceed to do their job for
+them.
+
+Abilities: Subterfuge, Science, Occult, Urban Lore, Intuition, Research
+
+Spheres: Mind (for convincing debates); Life, Matter, or Forces, plus
+Prime (to falsify or uncover evidence)
+
+Foci: highly variable
+
+Examples: Alligators in the Sewers, Water burning or 100mpg cars, anything
+else from alt.folklore.urban
+
+Heroes
+======
+This category of mages covers all those who champion the innocents, defend
+the world from invaders, or try to eliminate or contain supernatural
+threats. Spooooooon!
+
+Pulp Heroes
+-----------
+These have been covered fairly well by the Sons of Ether tradbook. They
+are 50's comic style pulp heroes that use "oriental" mental disciplines,
+pop pseudoscience, and a limited array of personalized foci and talismans
+to fight some series of menaces and archvillains to champion the cause of
+right. Those that rely upon devices tend to be called Gadgeteers. More
+than anything else, these heroes rely upon their wits and intelligence to
+solve situations.
+
+Abilities: Wits, Intelligence, Culture (for knowing obscure things to save
+your ass), Linguistic (for being diplomatic with primitive peoples and
+such), etc. Halfway decent attributes all around. Sidekicks come in handy
+too.
+
+Spheres: Any. Normally does not use vulgar effects, except from talismans
+or weaponry.
+
+Foci: very personalized. typical things to use are weapons, bizarre
+devices like antigravity belts, and laboratory computer analyzers.
+
+Examples: Doc Eon, Batman
+
+Superheroes
+-----------
+These heroes differ from Pulp heroes in that they rely on their magick and
+talismans more than they do their wits and other attributes. Often called
+by the nickname Spandex, Superheroes are the most likely Ethermages to go
+marauder or suffer huge paradox backlashes. Their effects are flashy,
+usually vulgar, and always impressive. Exceptions are superheroes who
+gained their abilites (perhaps with permanent paradox flaws, like The
+Thing from Fantastic Four) through accidents or Scientific Experiments.
+Although usually still vulgar, these are a lot less likely to simply
+explode from paradox.
+
+Abilities: Science (for expermimental mutations, etc), various others 
+
+Spheres: ANY
+
+Foci: Usually some pseudoscientific explanation like cosmic rays or
+radioactive spider bites.
+
+Examples: Spiderman, The Incredible Hulk, The Thing. (An interesting
+version of these guys could be made for the OoH or the CC....for example,
+Spawn, the Demon, and Avengelyne)
+
+Gung-Ho Psycho Attack Scientists
+--------------------------------
+(For lack of a better name) These are the scientists who dedicate their
+career toward the elimination or containment of some or all segments of
+the supernatural population. They can be from any or several of the
+various subgroups of the Sons, and unless they are relatively good at
+what they do, tend to live short but effective lives. It's not unknown for
+these mages to work hand in hand with the Neutralization Specialists of
+the Void Engineers, and though this is officially frowned upon on both
+sides, is usually beneficial enough for both sides to be fairly common.
+
+Abilities: Research, Occult, various Lores, Technology (to build weapons),
+Investigation
+
+Spheres: Forces and Prime are common, Spirit if you plan to deal with
+wraiths.
+
+Foci: Weapons, weapons, weapons. Sensing devices of various sorts are also
+common.
+
+Examples: Ghostbusters, MiB the comic or movie (well, it's hard to tell,
+really), The vampire hunter in the SoE tradbook that has a sunlight ray
+pistol.
+
+Ethernauts
+==========
+There are many explorers in the Sons of Ether. Some explore the Earth's
+core, some the oceans, others the umbra or digital web. This category
+deals with a subclass of explorers known as the Ethernauts, those who
+explore beyond the horizon. These scientists differ mainly in the
+methods they use to do so. I plan to write an article on the nature of 
+the Ether for these guys, so keep an eye out. They are broken up into
+three main categories:
+
+Starjammers
+-----------
+The mages that literally sail through space in literal space ships. These
+mages are barely Etherians at all, and have a lot of ties to the void
+engineers.
+
+Abilities: Sailing, Astrogation, shipbuilding
+
+Spheres: any
+
+foci: nautical apparatus of various sorts: charts and compasses for
+correspondence, barometers and weather vanes for forces, etc.
+
+Examples: The EtherJammer from the SoE tradbook. A lot of the stuff from
+the TSR supplement Spelljammer. From what I understand, also some material
+from GDW's Sky Galleons of Mars (I think) which is related to the Space:
+1889 material in some way.
+
+Victorians (aka Industrial Victorian Etherism)
+----------------------------------------------
+These mages explore the universe in Jules Verne-esque Brass and ironclad
+vessels resembling nothing so much as giant zeppelins, ornithopters,
+bathyscapes and submarine-boats. Heavy looking bolted metal, segmented
+hulls, eye-like portholes, and odd finlike protrusions and scallops are
+commonplace.
+
+Abilities: Astrogation, technology (to repair the ship's
+propeller/whatever), metalworking (to make the darned things), etc.
+
+Spheres: matter is common for building. Entropy is useful to keep the ship
+in good order. Forces for defense mechanisms (see the Weirdseeker
+description for examples)
+
+Foci: variable
+
+Examples: The Nautilus from the film 20000 Leauges under the sea (any
+version, especially the original disney adaptation), various sci-fi
+stories from the 60's, art from the SoE tradbook. Stories of Jules Verne
+and H. G. Wells
+
+Spaceboys (aka Art Deco)
+------------------------
+Flying Saucers. Rocket Ships. These gleaming refugees from 50's comics
+vision of the future are the hallmark of the spaceboys. These etherians
+are the most likely to need a space suit to breathe in a vacuum (though
+you'll run across an occasional victorian with a old diving suit), and
+generally run around with ray pistols and bubble helmets.
+
+Spheres: variable
+
+Foci: wrist communicators, space helmets, antigravity belts, ultron vision
+plates (for correspondence sensing), blaster ray pistol.
+
+Examples: Flash gordon, Buck Rogers (the original novel version),
+Forbidden Planet (Robby is a SoE robot if I ever saw one), Lost in space,
+Leather Goddesses of Phobos comic book (in amazing 3d! from Infocom) and
+game.
+
+Others
+======
+I don't have time to go into any more right now, but I might later. I also
+intended to write up a description of the differences between weird
+science, fringe science, radical science, and pseudo science, as well as
+through some stuff like occult science (think Magitech or Torg's
+Occultech) into the mix. That will have to wait for another article.
+
+For now, enjoy, and may the ether be with you.
+
+Jimmy McKinney, better known as Gregor on IRC - vorlon@iglou.com
+Lurker's Guide to Babylon 5: http://www.midwinter.com
+Ander's Mage Page:           http://www.nada.kth.se/~nv91-asa/mage.html
+My Homepage:                 http://members.iglou.com/vorlon
+--This line exists to be nonconformist with 4 line .sig limits--
+
+

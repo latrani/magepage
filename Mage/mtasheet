@@ -1,0 +1,158 @@
+From: hn323pa@rs1-hrz.uni-duisburg.de (Stayka deyAvemta)
+Subject: Re: LaTeX Character Sheets (Mage)
+Newsgroups: rec.games.frp.storyteller
+Date: 8 Sep 1996 06:27:30 GMT
+Organization: Gerhard-Mercator-Universitaet - Gesamthochschule Duisburg
+Path: news.kth.se!nntp.uio.no!nntp-oslo.UNINETT.no!nntp-trd.UNINETT.no!oslonett.no!sn.no!Oslo2.Norway.EU.net!Norway.EU.net!EU.net!newsfeed.internetmci.com!in2.uu.net!news.gtn.com!RRZ.Uni-Koeln.DE!uni-duisburg.de!rs1-hrz.uni-duisburg.de!hn323pa
+Lines: 145
+Distribution: world
+Message-ID: <50tp0i$fuq@h20-hrze.uni-duisburg.de>
+References: <50tos8$fuq@h20-hrze.uni-duisburg.de>
+NNTP-Posting-Host: rs1-hrz.uni-duisburg.de
+X-Newsreader: TIN [version 1.2 PL2]
+
+Oops, sorry, the first posting went astray, err, I forgot to insert
+the file...
+
+Hi! 
+
+Here you will find character sheets (both German and English) for
+Mages. They are in LaTeX Format.
+
+All of those sheets are designed to be used either as empty sheets
+that can be filled in by hand, or as sheets which can be filled in
+via computer.
+
+How to get the files?
+
+1.) Cut everything between the ----- CUT HERE ----- and put it in
+a file (eg mage.uu)
+
+2.) uudecode mage.uu, then you'll get a file called mage.tar.gz
+
+3.) gzip -d mage.tar.gz, then you'll get a file mage.tar
+
+4.) tar xvf mage.tar, then you'll get a subdirectory "mage",
+which contains the files and styles.
+
+5.) I hope you know the text formatting system LaTeX...
+
+6.) Have fun!
+
+Blessed be
+              Stayka (aka Anch-Ra of Clan Toreador)
+
+----------------------------------------------------------------------------
+Email: hn323pa@rs1-hrz.uni-duisburg.de      |   Beyond the Final Frontier
+URL:   http://www.geocities.com/Paris/1136  |     there lies Babylon 5
+----------------------------------------------------------------------------
+
+
+------------------------ CUT HERE ---------------------------
+begin 600 mage.tar.gz
+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
+J$-7^OVK_7[7_K]K_5^W_J_;_5?O_JOU_U?Z_:O_?ME[_#R\906L`H```
+`
+end
+------------------------ CUT HERE ---------------------------
+
+
+

@@ -1,0 +1,184 @@
+{Sensor 423: Disturbance in sector 4. Coord: (32.3 43.2 1.3) 
+V: (0.1 1.1 0.1)}
+
+<Open Scanner 476>
+
+[Scanner 476: No detection events]
+
+<Run error check on Scanner 476>
+
+[Scanner 476: Systems nominal]
+
+<Intrusion check on Scanner 476>
+
+[ALERT: Scanner 476 has been compromised! Outer casing 
+opened, external hookup likely. Activate failsafe? (Y/N)]
+
+<N><Check data traffic through Scanner 476 last ten minutes. 
+Compare to external logs>
+
+[System log: Data packets received at 
+04:40:33 {Ping from I/O}, 
+04:41:06 {Open message from CC}, 
+04:41:10 {Error check order}, 
+04:41:15 {Intrusion interrogation from ICM-3}. 
+Data packets sent: 04:40:34 {Ping response}, 
+04:41:07 {Open response}, 
+04:41:11 {Error check response}, 
+04:41:17 {II response to ICM-3}. 
+WARNING: external and system log inconsistent! Unknown data 
+packet 04:40:38 origin: Scanner 476 target: general I/O.]
+
+<Manual override #9323: seal off sector 4>
+<Activate general system alert content internal information 
+breach priority 5>
+
+[No such device.]
+{acknowledged. No action.}
+
+<Activate general system alert content internal information 
+breach priority 5>
+
+{acknowledged. No action.}
+
+<Intrusion check on system alert system>
+
+[system alert system uncompromised.]
+
+<Manual broadcast: System alert system compromised, level 6 
+intrusion. Physical presence in sector 4>
+
+{BROADCAST FROM CC: SYSTEM ALERT SYSTEM COMPROMISED LEVEL 6 
+INTRUSION. PHYSICAL PRESENCE IN SECTOR 4}
+
+<Manual override #9323: seal off sector 1,2,3,5,6,7,8>
+
+[Sector 1,2,3,5,6,7,8 sealed]
+
+<Manual override #5873: activate failsafe on Scanner 476>
+
+[No such device.]
+
+<Manual override #4934: delete all level 4 or lower data 
+packets from LAN>
+
+[WARNING: this will halt all systems in sector 1,2,3,4,5,6,7 
+and 8]
+
+<Run packet tracker>
+
+[Packet tracker: running]
+[Packet tracker: unusual two-way traffic of level 6 packets 
+between Scanner 476 and general I/O]
+[Packet tracker killed by process 3A93D]
+
+<copy process 3A93D to local inert storage>
+<Manual override #1032: kill process 3A93D>
+<grep all system names in inert copy of 3A93D><find parent 
+process of inert copy of 3A93D>
+
+[Packet handler, Packet tracker, General I/O, Scanner 476, 
+Device driver 55-elo]
+[Parent process: 3A921]
+
+<kill process 3A921><erase Device driver 55-elo>
+<Manual override #4392: kill all packets with origin or 
+destination Scanner 476, Device driver 55-elo>
+
+[Process killed]
+[Device driver erased]
+[Packetkiller active]
+
+{WARNING: Essential functions in sector 4 nonoptimal}
+{Controller Unit 4: Backup request of device driver 55-elo}
+
+<Manual override #0033: Lock transfer to Controller Unit 4>
+
+[File transfer broken]
+{Controller Unit 4: An error has occured. Backup request of 
+device driver 55-elo}
+
+<Manual override #0033: Lock all transfers to Controller 
+Unit 4>
+
+[File transfer broken]
+{Controller Unit 4: An error has occured. Backup request of 
+device driver 55-elo}
+
+[File transfer broken]
+{Controller Unit 4: An error has occured. Backup request of 
+device driver 55-elo}
+
+<Reset preferences of Controller Unit 4. Set production = 
+9999>
+
+{Controller Unit 4: Reset.}
+{Controller Unit 4: Production set.}
+{Controller Unit 4: WARNING: Current production level 
+incompatible with safety}
+
+<Manual override #1454: Kill Coolant Network 4 Backup 1,2,3>
+<Reset preferences of Coolant level scanners in sector 4. 
+Set calibration = 0>
+
+[Coolant Network 4 backup 1,2,3 are down.]
+[Coolant level scanners reset]
+[Coolant level scanners calibration set]
+{Coolant Network 4: SEVERE OVERFLOW WARNING: present level: 
+!!DIVISION BY ZERO ERROR!! Activating emergency shutdown to 
+normal level. Done.}
+
+<Manual override #1454: Kill Coolant Network 4>
+
+[Are you sure you want to kill the Coolant Network 4 without 
+activating backup system? (Y/N)]
+
+<Y>
+
+[Coolant Network 4 is down.]
+{Controller Unit 4: WARNING: Cooling system malfunction. 
+Core heat 235.5 degrees above safety limit}
+{Controller Unit 4: WARNING: Cooling backup systems 
+malfunction. Core heat 254.2 degrees above safety limit}
+[Coolant Network 4 is up again.]
+{Coolant Network 4: SEVERE OVERFLOW WARNING: present level: 
+!!DIVISION BY ZERO ERROR!! Activating emergency shutdown to 
+normal level. Done.}
+{Controller Unit 4: WARNING: Cooling system malfunction. 
+Core heat 273.1 degrees above safety limit}
+
+<Check data traffic to Coolant Network 4 last 60 seconds>
+
+[System log: Data packets received at 
+04:43:53 {Kill message from CC}, 
+04:44:14 {Activate message from Scanner 476}]
+{Controller Unit 4: WARNING: Cooling system malfunction. 
+Core heat 302.0 degrees above safety limit}
+
+<Reset preferences of Coolant level scanners in sector 4. 
+Set calibration = 1000>
+
+[Coolant level scanners reset]
+[Coolant level scanners calibration set]
+{Coolant Network 4: SEVERE UNDERFLOW WARNING: present level: 
+0.0 Activating emergency cooling. Done.}
+{Sensor 428: Disturbance in sector 4. Coord: (35.1 40.0 2.0) 
+V: (3.1 0.8 -0.2)}
+{Overview Unit 4: Pressure overload warning in system 4438 = 
+23 kP}
+{Overview Unit 4: Pressure overload warning in system 4439 = 
+22 kP}
+{Overview Unit 4: Pressure overload warning in system 4440 = 
+26 kP}
+{Controller Unit 4: WARNING: Cooling system malfunction: 
+EMERGENCY COOLING MAY NOT BE USED WHEN CORE HEAT ABOVE 300 
+DEGREES ABOVE SAFETV&% !!BROKEN PACKAGE!!}
+{Independent emergency system sector 4: Explosion detected, 
+sealing off sector with hardware override}
+
+<Open sensor 401>
+
+[Sensor 401: Local temperature in sector 4 279.3 degrees]
+
+
+

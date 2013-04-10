@@ -1,0 +1,326 @@
+From nv91-asa@nada.kth.se Sat Aug  2 15:59:15 1995
+Status: RO
+X-Status: 
+Received: from epsilon.qmw.ac.uk (epsilon.qmw.ac.uk [138.37.6.3])
+	by mail.nada.kth.se (8.6.10/8.6.10) with SMTP
+	id PAA02468 for <nv91-asa@nada.kth.se>;
+	Wed, 2 Aug 1995 15:59:13 +0200
+Received: from QMWCC2.qmw.ac.uk by epsilon.qmw.ac.uk with SMTP-DNS (PP) 
+          id <10070-0@epsilon.qmw.ac.uk>; Wed, 2 Aug 1995 14:58:36 +0100
+Received: from QMWCC2/MAILQUEUE by qmwcc2.qmw.ac.uk (Mercury 1.13);
+          Wed, 2 Aug 95 14:59:00 GMT0BST
+Received: from MAILQUEUE by QMWCC2 (Mercury 1.13);
+          Wed, 2 Aug 95 14:58:35 GMT0BST
+Received: from pc-108-084.stu.qmw.ac.uk by qmwcc2.qmw.ac.uk (Mercury 1.13);
+          Wed, 2 Aug 95 14:58:28 GMT0BST
+Date: Wed, 02 Aug 95 14:58:30 -0700
+From: Space Dog <ah4186@qmw.ac.uk>
+Organization: qmw.ac.uk
+X-Mailer: Mozilla 1.1N (Windows; I; 16bit)
+MIME-Version: 1.0
+Newsgroups: alt.games.whitewolf
+To: ah4186@qmw.ac.uk, nv91-asa@nada.kth.se
+Subject: My House Rules on Prime, Avatar, and Quintessence (long!)
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=us-ascii
+Message-ID: <AEAFA028C0@qmwcc2.qmw.ac.uk>
+
+Greetings all and sundered, once again.
+
+   It seems there is a great deal of doubt among Mage players about the 
+use of Prime and Avatar ratings, given all the questions that fly around 
+this group on Prime. I'd like to offer here what are basically my own 
+'House Rules' on using Prime for your delectation, perusal, and general 
+taking apart piece by piece in a fit of constructive nitpicking and 
+general disaggreement... 8-). This is basically how I personally 
+interpret the rules, and will no doubt differ from the viewpoints of 
+others. As the Net abbreviation goes, YMMV - take with a pinch of salt - 
+and of course all of this is In My Humble Opinion! In my usual tradition, 
+this is quite wordy as I'm justifying my thinking as I go - net result is 
+that there's a lot to wade through but hopefully you'll understand why I 
+come to these conclusions!
+
+
+    OK. First off, it should be noted that since Quintessence, Avatar and 
+Prime are all (obviously) linked, one must consider all of these when 
+trying to make House Rules governing them. What I'm going to do here is 
+dissect the rules for these with a fine toothpick (or whatever the phrase 
+is...), split hairs incessently, and hopefully try to make some sense out 
+of the IMHO confused and often contradictory rules that are presented in 
+Mage. So here's my take on things.... 
+
+
+-----
+
+
+AVATAR (pg 154, Mage rulebook): Everyone, even Sleepers possess Avatars - 
+most Sleepers call them 'Souls'. However, Mages possess much stronger 
+Avatars that allow them to perform True Magick. Even if a Mage has no 
+Avatar Rating on paper, it is still stronger than a Sleeper's (otherwise 
+he will not be able to perform magick) - however, he does have certain 
+disadvantages.
+     The description here in the rulebook implies that a Mage's Avatar is 
+a representation of how much *Raw Quintessence* is flowing through the 
+Mage's Pattern (see Prime 4 for details - this is important!!) - viz. it 
+is only usable by the Mage himself and is an inherent part of his 
+Pattern. Remember this, its important for later.....
+
+   As stated in the book, a Mage can use his Avatar rating to regain 
+Quintessence by meditating in a Node for at least an hour (Perception + 
+Meditation, difficulty 7). The number of successes gained determines how 
+much Quintessence the Mage taps from the Node, *but the Mage can only 
+hold as much Quintessence as his Avatar Rating*. Thus, a Mage with Avatar 
+4 who rolls 6 successes on his meditation roll can still only hold up to 
+four points of Quint in his pattern in toto. He also cannot gain more 
+Quintessence than the rating of the Node. 
+
+Avatar does NOT allow the mage to recharge himself with Quintessence 
+*outside* a Node (Prime 1 does this). A Mage starts the game with as many 
+Quintessence Points as he has in Avatar rating for free. He cannot start 
+with more unless he has Prime 3 to start with - these must be bought with 
+Freebie Points.
+
+
+One glaring contradiction in the rules can be found here: in the Avatar 
+description it says that the limit to the number of Quintessence Points 
+that can be spent in one turn to reduce the difficulty is equal to the 
+Mages Avatar rating. However, on page 175 it states that the maximum 
+amount of Quintessence that can be spent in one turn is equal to the 
+Mages rating in the PRIME Sphere. Nix to the editors for letting THAT one 
+slip thru... ;)
+    Personally, I'd go with what Anders (I think) suggested in his own 
+House Rules - the limit is the HIGHER of either Avatar or Prime. This 
+makes more sense to me, and avoids horrific confusion. Of course, an 
+obvious side effect of this is that is the Mage possesses neither Prime 
+nor Avatar, he cannot spend Quintessence on his magickal effects.
+   
+
+-----------------
+
+
+PRIME: OK, kids, here's where the fun starts. Contradictions and fudges 
+galore can be found in here. Having a good read through of it last night, 
+I figured that there were more inconsistencies in this Sphere Description 
+alone than in the whole darned book!!!!! 8) I really hope they sort this 
+out in Mage 2nd Ed., and I hope I'VE laid it out clearly enough for 
+everyone to follow my logic in explaining it all!!! 8)
+
+RAW AND FREE QUINTESSENCE: Free Quintessence is essentially the excess 
+energy contained within Patterns - if one knows how to get it, then one 
+can easily absorb it. Raw Quintessence is on the other hand locked into 
+ALL Patterns (thus allowing them to physically exist) and in the case of 
+Life Patterns also flows through these and sustains their living 
+existence. It is RAW Quintessence that is used at Prime 2 when a Mage 
+creates a new Pattern, NOT Free Quintessence.Without Raw Quintessence, 
+the new pattern will not exist. Newly created Patterns do not appear to 
+contain *Free* Quintessence, although if left alone for a while they will 
+probably absorb it naturally from the environment (like everything else 
+does, presumably).
+   My take on the Avatar is that the Avatar represents the Raw 
+Quintessence FLOWING through the Mage's Pattern (see Prime 4). This in 
+turn affects how much FREE Quintessence (ie. the number of dots on the 
+Quint circle on the character sheet) the Mage can hold.
+
+TASS: Tass is basically physical, solid, Free Quintessence. As such it 
+can be carried around my Mages and can be tapped at Prime 1 to power 
+effects. See below for details.
+
+
+-----
+
+
+PRIME 1: Prime 1 allows the Mage to store more Quintessence than his 
+Avatar Rating allows - in effect, it 'loosens' the Avatar up to allow 
+more room for Free Quintessence in the Mage's Pattern. However, he still 
+cannot channel Free Quintessence from the environment into his Pattern 
+himself - this requires Prime 3.
+    Prime 1 does allow the Mage to collect Quintessence up to the limit 
+of his Avatar Rating without recourse to meditation in a Node. He does 
+this by using Prime 1 magick to directly tap the pool of Free 
+Quintessence that permeates the environment. Whether or not this is 
+vulgar is up to you, but personally I'd say this is a Vulgar effect. 
+    This means that if the Mage has no Avatar Rating, but at least has 
+Prime 1, he can use his Prime Rating as an equivalent to Avatar - thus, a 
+Mage possessing a rating of Prime 1 or Prime 2 but no Avatar Rating can 
+still hold Free Quintessence, and gains it using Prime 1 Magick as 
+described here. His Prime Rating acts as the ceiling for his Quintessence 
+Pool in the same way that Avatar would. Note that at Prime 3, he can 
+break through this ceiling and hold as many Quint Points as he has room 
+for. 
+
+    Prime 1 also allows the Mage to perceive Raw or Free Quintessence as 
+described in the rulebook.
+    In addition, at Prime 1 the Mage can use Tass by converting it 
+directly to Free Quintessence to lower the difficulties of a magickal 
+effect. However, without Prime 3 he still cannot channel the Quintessence 
+from the Tass into his own Pattern - at Prime 1 he just uses it to power 
+his magickal effects.
+
+
+-----
+
+
+PRIME 2: This allows the Mage to Fuel Patterns. It sets up the Raw 
+Quintessence that allows the Mage to create new Patterns. Patterns that 
+require fuelling are newly created Forces, Matter or Life Patterns. In 
+the first two cases (Forces and Matter), the Raw Quintessence is the 
+framework around which the Pattern is built. In the case of Life, a Raw 
+Quintessence *Flow* is set up to allow the Life Pattern to exist.
+     Healing or repairing Patterns magickally does not require Prime 2, 
+since this is accomplished by repairing the Pattern directly with the 
+Pattern Spheres.
+    In my view, Prime 2 only allows the Mage to set up the Raw 
+Quintessence framework or Flow to fuel the pattern - nowhere does it say 
+in the Prime 2 description that the Mage can alter the flow of Raw 
+Quintessence into a Pattern. Thus, the 'Rubbing Of The Bones' Prime 2
+effect on Page 211 is seemingly out of place - this should come under 
+Prime 5.
+
+
+-----
+
+
+PRIME 3: At this stage, the Mage can finally channel Free Quintessence 
+from one vessel to another (including himself). This means that he can 
+now fill that 'extra space' he made in his Avatar with Prime 1 - he can 
+now gain more Quintessence than is allowed by his Avatar Rating. He can 
+also transfer Free Quintessence to objects, thus creating Talismans. In 
+addition (House Rule here...), by manipulating the Free Quintessence of 
+existing Magickal Effects, the Mage can use Prime 3 to alter these 
+existing long-duration magicks. 
+
+
+-----
+
+
+PRIME 4: At Prime 4, the Mage can affect the Raw Quintessence within 
+objects, though he cannot affect Raw Quintessence FLOWS that sustain 
+living Patterns. This allows him to expel the Raw Quintessence within 
+Matter or Forces, thus weakening the Pattern's incarnation in this 
+existence. He can also remove properties of Matter or Forces by directly 
+removing the Raw Quintessence that allows these properties to exist.
+However, the mage cannot ADD Raw Quintessence to a Pattern above its 
+natural state.
+
+
+LIVING PATTERNS: The Raw Quintessence makeup of a living Pattern is 
+two-fold. Like Matter and Forces Patterns, a Life Pattern contains a 
+fixed amount of Raw Quintessence that is always locked into the Pattern. 
+    However, there is *another* component unique to all Living Patterns - 
+that component which makes them alive. This is a FLOW of Raw 
+Quintessence, originating from the universal pool of Raw Quintessence and 
+returning back to this pool via the Life Pattern. While the Pattern is 
+alive, this Flow passes through it perpetually. Without this, the Life 
+Pattern is dead, inanimate matter - in effect, the Flow no longer exists 
+once the Pattern dies, and all that remains is a dead body containing 
+'locked in' Raw Quintessence, which is eventually recycled into the 
+universal pool through bodily decay.
+    Here we gain an insight into what a Mage's Avatar, or a Sleeper's 
+soul (which is a weaker version of an Avatar anyway) is. It is well known 
+that Souls/Avatars are somehow recycled. Knowing the above, we can see 
+that when a living Pattern dies, the Flow of Raw Quintessence disappears. 
+THIS is what the Avatar is - the Flow of Raw Quintessence through a 
+living Pattern! This implies that the stronger the Flow of Raw 
+Quintessence is, the more powerful the Avatar will be.
+    At Prime 4, the Mage cannot affect this Flow of Raw Quintessence. 
+However, at Prime 5 he can, and this is explored below....
+
+
+------
+
+
+PRIME 5: At Prime 5, the Mage can affect the FLOW (either increasing or 
+decreasing it) of Raw Quintessence that sustains Living Patterns, and can 
+also INCREASE the Raw Quintessence within any Pattern (even living ones). 
+The Mage also realises that Quintessence and Paradox are analagous to 
+positive and negative forces, and can use Free Quintessence to cancel out 
+Paradox energies that have not yet coalesced within a Pattern (as 
+described in the rulebook).
+    The effects of increasing the flow of Raw Quintessence is poorly 
+(and IMHO confusingly) defined in the rulebook. The 'Rubbing of The 
+Bones' Prime 2 rote (as defined in the book) is by the definitions herein 
+obviously now a Prime 5 rote - it is manipulating the flow of Raw 
+Quintessence through a living Pattern. 
+
+   Let us in particular examine the connection between Prime 5 and the 
+Avatar. As described above (see Prime 4, LIVING PATTERNS), the Avatar is 
+a reflection of the strength of the Flow of Raw Quintessence that keeps a 
+living Pattern alive. Prime 5 allows the Mage to increase either the Flow 
+of Raw Quint through a Pattern, or the Raw Quint contained within that 
+Pattern itself. So at Prime 5, with these definitions in mind, the Mage 
+can actually INCREASE his Avatar Rating by increasing the Flow of Raw 
+Quintessence through his Pattern. This in turn allows him to store more 
+Free Quintessence within his Pattern as described above. 
+      More terrifyingly though, with Prime 5 the Mage can REDUCE the Flow 
+of Raw Quintessence through a living Pattern. This explains what the 
+dreaded Gilgul is - by reducing the Flow of Raw Quintessence, the Master 
+can inhibit a Mage's ability to cast magicks. In effect, the Mage can 
+reduce the Avatar rating of a living target! This has horrible 
+consequences if enough successes are rolled - the flow of Quintessence 
+through the target Mage's Pattern can be reduced to such an extent 
+(permanently) that he effectively loses the ability to cast magick, thus 
+effectively becoming a Sleeper!!! Taken even further, one can quench the 
+Flow of Quintessence completely, thus killing the target, and quite 
+possibly stopping him from being reincarnated in future lives.
+
+    With this in mind, the Prime 5 effect that is given, 'Recharge Gift', 
+becomes largely pointless. Recharging one's Quintessence Pool up to one's 
+Avatar rating is a trivial matter, requiring only Prime 1 - quite why it 
+is classed as Prime 5 is beyond me! Now however, with these new rules 
+this becomes much more useful. With 'Recharge Gift' the Mage can now 
+INCREASE his Avatar rating by increasing the Flow of Raw Quintessence 
+through his pattern, which allows him at the very least to spend more 
+Quintessence on magickal effects in one turn. 
+    Also, Rubbing of the Bones becomes a potent Prime 5 effect. By 
+fluctuating the flow of Raw Quintessence through a living Pattern, the 
+mage can stun targets as described in the book. By reducing the Flow he 
+can prevent Mages from using Magicks, and if he gains enough successes he 
+can make this permanent!
+
+
+
+---------------------------
+
+
+AFTERWORD:     Of course, the Avatar is a lot more than just a flow of 
+Raw Quintessence. It is the guiding force within the Mage - Dynamic, 
+Pattern, Primordial or Questing. There is a spritual aspect here as well 
+as a metaphysical/mechanical one, that cannot be defined by any Game or 
+House rules. And why should the Avatar be considered as an entity quiding 
+the Mage? It can appear in any manner to the Mage - as a vast expanse of 
+land that the Mage must explore, gaining enlightenment on his own 
+internal spiritual journey, or as an infinite black ocean that floods 
+over the Mage and permeates his core, flooding him with insight, memories 
+and even possibly torment. Why stop at a personalisation?
+
+-----------------------------------------------------------------------
+
+            These House Rules are (c) Constantine Thomas 1995.
+
+-----------------------------------------------------------------------
+
+     Anyway, I hope these House Rules of mine prove useful and hopefully 
+may strike a chord and clarify things a little. Like I said, this is all 
+just my personal take, so YMMV. Anyway, if anyone's got any opinions, 
+comments etc feel free to email me anytime or post on the group - I'd 
+certainly appreciate some input on this!
+
+
+                                     TTFN,
+                                        Constantine
+
+-- 
+
+
+=====================================================================
+ Constantine Thomas        Deny Everything          ah4186@qmw.ac.uk
+---------------------------------------------------------------------
+          "The me that you know is now made up of wires
+           And even when I'm right with you I'm so far away" 
+                                       - NIN, The Becoming
+===================================================================== 
+                   Space-Doggin' on the Internet!
+
+
+
+

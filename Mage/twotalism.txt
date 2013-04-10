@@ -1,0 +1,36 @@
+From nv91-asa@nada.kth.se Wed Nov 10 00:57:15 1996
+Status: RO
+X-Status: A
+Received: from dfw-ix12.ix.netcom.com (dfw-ix12.ix.netcom.com [206.214.98.12])
+	by mail.nada.kth.se (8.6.10/8.6.10) with ESMTP
+	id AAA09225 for <nv91-asa@nada.kth.se>;
+	Sun, 10 Nov 1996 00:57:13 +0100
+Received: from  (dickbeck@grc-ny12-51.ix.netcom.com [205.185.240.179]) by dfw-ix12.ix.netcom.com (8.6.13/8.6.12) with SMTP id PAA11393 for <nv91-asa@nada.kth.se>; Sat, 9 Nov 1996 15:56:41 -0800
+Date: Sat, 9 Nov 1996 15:56:41 -0800
+Message-Id: <199611092356.PAA11393@dfw-ix12.ix.netcom.com>
+From: dickbeck@ix.netcom.com (Richard D Beck)
+Subject: A couple of Talismans
+To: nv91-asa@nada.kth.se
+
+I have recently come up with two new Talismans you might want to put on 
+your Mage page.
+
+Temporal Taper  Arete 3 Quintessence 15
+A Virtual Adept who got really tired of waiting a week for the next 
+episode of Babylon 5 came up with this Talisman.  Using a Time 2 
+effect, it reaches ahead in time to the time of a show that has not yet 
+aired.  It then uses Forces to pick up the broadcast signal, 
+transcribing it onto a ordinary video tape.  The result is that you can 
+watch a show before it actually comes on.  It can also pick up shows 
+that have already aired, by reaching back in time instead of ahead.
+
+The Infinite Trunk  Arete 5 Quintessence 25
+Ever have one of those days when you just couldn't fit everything you 
+wanted to into your car trunk?  A group of Cult of Ectasy mages did one 
+day when they couldn't get all their band equipment to fit in.  So, 
+they created this Talisman to avoid such errors in the future.  It is 
+an ordinary 1989 Acura Legend, with the exception of the trunk.  The 
+trunk has been modified with a Correspondence 5 effect to be far larger 
+on the inside than on the outside.  Note, though, that reaching far 
+enough down to get what you put in out can be a problem.
+

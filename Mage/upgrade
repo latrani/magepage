@@ -1,0 +1,240 @@
+Newsgroups: alt.games.whitewolf
+From: zcacmea@cs.ucl.ac.uk (Mark Antill)
+Subject: Upgrade Your HIT Marks (was HIT Marks?)
+Date: Fri, 31 Mar 1995 10:07:17 GMT
+Organization: University College London
+
+>J. Raynor -
+>        Yes, I support the vat grwn brain / body shell HIT Mark production
+>process.
+>        I was speaking of a cyborged Iteration X mage that another person
+>mistook for a HIT Mark.
+>
+>BTW - Speaking of interchangeable parts, does anyone out there have any ideas
+>on "special" little items to add to HIT Marks?  Here are some ( top of my
+>head here..)
+>- Have one of the forearms conceal a coiled metal which can be charged with
+>electricity when in use and is articulated enough to wrap around things and
+>hold on.        Replaces claws
+>- Have the It X'ers place fiber-optic laser pistols that discharge through
+>the pupils.  These "High stealth" HIT Marks hsve no chain guns, and are used
+>in situations where it may have to fire without ruining it's flesh shell for
+>later use.  The best laser systems operate just above or below the visible
+>light spectrum. Replaces Chaingun
+>- Full Automated HIT Mark.      Immune to Mind effects and totally immune to
+>any mental effects from Vampire Disciplines or Werewolf gifts.  Are fully
+>affected by technology oriented magick, gifts, and disciplines.  May have
+>some
+>Dex or mental penalties.
+
+As it happens, a friend and I did some stuff like this when I used some
+HITers in a fuzzy games. For those who are vaguely interested, here it is.
+
+
+
+BUILD A BETTER HIT MARK
+-----------------------
+
+The Iteration X book mentions that the HIT Mark V is customisable. Here are a
+few examples and ideas.  Some of these modifications are fitted by other
+Conventions, usualy in multi-Convention Constructs.
+
+
+Technically some of these mondifications are beyond, or do not fit into,
+mudanes science. But thats also true of HIT Marks anyway. Thats what 
+technomagick is all about.
+
+Phased Motion Detector
+----------------------
+
+Description: Detects movement in the surrounding area by the disburbance of air
+molecules that the movement causes. This appears as a small circle on the
+HIT Mark's HUD, with distubances appearing as blips on the display.
+
+System: The HIT Mark rolls Perception + Alertness, difficulty 7 to detect
+any moving object within a 30 yard radius. If the object is moving quickly
+then reduce the difficulty to 6. Arcane rating reduces the perception dice
+pool as normal, and if the target is Awakened and employing a power to avoid
+detection (Invisibility Rote, Obfuscate, etc) the HIT Mark must beat the
+number of sucsesses they scored when activating the power to detect it.
+
+Kirlian Visor
+-------------
+
+Description: Often fitted by Void Engineers, the visor despite its name is 
+in fact a modification to the HIT Marks optical sensors to allow it to see
+large disturbances in the Umbra. Iteration X dislikes this modification
+being made, but cannot deny its efficientcy for attacks on Garou Caerns or
+Dreamspeakers. However, the Computer has ordered that all HIT Marks with
+such modifications have their memories wiped after all such operations.
+
+System : On a sucsessful Perception + Alertness roll, difficulty 8, the HIT
+Mark can see Umbra attacks, Materialising spirts and side stepping Umbral
+travelers.
+
+Optical Gun Enhancement
+-----------------------
+
+Description: A small camera is fitted to the HIT Mark's gun, and the image
+it produces may replace the HIT Mark's normal vision.
+
+Sytem: This works in a similar way to a scope, giving the HIT Mark an extra
+3 dice to its firearms dice pool. However, as its vision is now rather
+limited it recieves a +1 penalty on all vision related Perception rolls.
+
+Recoil Suppresion
+-----------------
+
+Description: Most HIT Marks have a system to reduce the recoil from any
+weapons they carry. Generaly the weapon has a certain amount of lateral
+movement within the arm cavatiy, sometimes supplemented by gas vents and the
+addition of the HIT Marks own powerful 'muscles'.
+
+System: All recoil modifiers are reduced by 1. This applies to multiple shots
+in a turn as well as three round bursts and full autos.
+
+Enhanced Reactions
+------------------
+
+Description: This upgrade consists of upgrading the HIT Mark's on board
+computer with a faster, parallel procsesing one. The computer is given a
+greater than normal degree of control over the HIT Mark's reactions. In
+addition the motor systems are replaced with a faster pseodo-muscular design
+that consits of fiberous materials that contract when an electric current is
+passed through them. This upgrade is most common on non-human HIT Marks.
+
+System: The upgrade can be given on two levels. Each level gives the HIT
+Mark one extra dice in both Wits and Dexterity, and one extra action a turn
+(as Time 3 or Celerity). However for the limbs to move at greater speed the
+HIT Mark has to be lightened. For each level of upgrade it loses two levels
+of armour rating.
+
+Weaponary
+---------
+
+There are many alternatives to the basic chaingun and claws version. Here
+are a few. Note that some HIT Marks whit arm mounted weapons have removable
+hands, or special joints below the wrist that allow the hand to swival out
+of any weapons line of fire.
+
+Flamethrower IX - 42
+--------------------
+
+This is an arm mounted weapon that replaces the chain gun on the arm. These
+are commonly fitted when vampires have been targeted for deletion.
+
+Difficulty	Damage	Range	Rate	Capacity
+    6           Napalm   70      1         15 turns
+
+Any hit to the body doing more than 5 health levels of damage has a 40%
+chance of detonating the fuel tanks. This increases by 10% for every extra
+health level inflicted. Damage is as Napalm and effects a 1 yard radius per
+turns wirth of fuel left in the HIT Mark.
+
+'Sprinkler' IX - 24
+-------------------
+
+This is a similar design to the basic chain gun. However some of the barrels
+are altered so that they do not fire straight forward but at an angle. This
+is often fitted when the target has been determined to have powers of
+invisibility or obscuring sight, as the large spread of the weapon increases
+the chances of it hitting.
+
+Difficulty	Damage	Range	Rate	Capacity
+    9             5      50      21       200
+
+As the gun sprays over such a large area it is highly inacurate with single
+shots. However when firing at a high rate it becomes increasingly more
+deadly. As a resalt the normal difficulty modifiers for multiple shots,
+bursts and so on are _subtracted_ from the difficulty. Sprays are a base
+difficulty 4, and increase by 1 for every two yards sprayed.
+
+The firing mechanism of this gun should not 'work'. However, as long as it
+remains concealed within the HIT Mark's arm there is no paradox problem.
+
+Finger Missile IX - 105
+-----------------------
+
+These are small smart missiles concealed within the finger. When they are
+fired the outer shell, including the skin and nail, falls off revealing the
+missile.
+
+Difficulty	Damage	Range	Rate	Capacity
+    5             12     400     4         4 per hand
+
+The fingers repalced in this manner cannot bend normally and the hand has
+very little manual dexterity. As a result it is usually passed of as
+artificial.
+
+High Velocity Rifle IX - 37
+---------------------------
+
+As primium bullets are so expensive for Iteration X to manufacture, using
+them in a chain gun is considered inefficient. Against the more dangerous
+Awakened targets this weapon, and its deadly amunition , is often fitted.
+
+Difficulty      Damage  Range   Rate    Capacity
+    7              8     300     1         50
+
+The full capacity is rarely taken up with primium. Normaly only about half
+are convetional rounds. Silver or incenderay are sometimes used as well.
+Primium rounds cause aggravted damage.
+
+Grenade Launcher IX - 304
+-------------------------
+
+Another popular replacment is the grenade launcher. This is most commonly
+used when assaulting heavily armoured or defened positions. Iteration X
+manufactures all the basic grenade types, as well as several unique varities
+of their own.
+
+Difficulty      Damage  Range   Rate    Capacity
+    6          Grenade   450     1         15
+
+Laser IX - 1001
+---------------
+
+Powerful laser technology has been avaliable to Iteration X for some time.
+However, such small lasers of such great power are still not accepted in
+static reality and their use can cause paradox. As a result this is most
+often fitted to HIT Marks that are stationed in constructs or Horizon Realms.
+
+Difficulty      Damage  Range   Rate    Capacity
+    6              8     2000    1      Unlimited
+
+The weapon is still undergoing testing and modification. If fired for more
+than three turns in a row it will start to overheat. Each additional turn it
+is fired the damage dice is reduced by one. For every turn it is given to
+cool down, one dice of damge is restored.
+
+The weapon can also gain paradox. Every time a sleeper sees it fire the HIT
+Mark gains a paradox point. It it gets too many it will rapidly start to
+malfunction and break down, starting with the laser.
+
+Primium Claws
+-------------
+
+Sometimes the tungsten claws are replaced by primium. This means that they
+inflict aggravted damage.
+
+Shock Touch
+-----------
+
+This device is used on the Mark IV and the Mark VI. On the Mark V, it 
+delivers a powerful electric shock to the target, via the claws. As primium 
+is non-conducting it  can only be used in conjunction with the stamdard claws.
+
+It deals four dice damage per charge, and the HIT Mark usualy has 6 charges.
+Damage is rolled and soaked seperately from the claw attack, although on hit
+roll is made for both.
+
+Whirring Blades
+---------------
+
+Some HIT Marks are modified exclusively for close assualt. A favoured
+variation is powerful spinning bladed weapons, normaly concealed within the
+arms. Some of these blades may be primium coated, causeing agg. damage. 
+
+Difficulty	Damage
+    8         Strength+7
+

@@ -1,0 +1,684 @@
+From nv91-asa@nada.kth.se Sat Nov 29 16:31:10 1995
+Status: RO
+X-Status: 
+Received: from comp.uark.edu (sbabb@comp.uark.edu [130.184.253.197])
+	by mail.nada.kth.se (8.6.10/8.6.10) with ESMTP
+	id QAA20333 for <nv91-asa@nada.kth.se>;
+	Wed, 29 Nov 1995 16:31:05 +0100
+Received: (from sbabb@localhost) by comp.uark.edu (8.7.1/8.7.1) id JAA19636; Wed, 29 Nov 1995 09:30:55 -0600 (CST)
+Date: Wed, 29 Nov 1995 09:30:52 -0600 (CST)
+From: "D.J. (aka GICOSAD)" <sbabb@comp.uark.edu>
+To: Anders Sandberg <nv91-asa@nada.kth.se>
+cc: CONSTANTINE THOMAS <c.thomas1@lancaster.ac.uk>
+Subject: Virtual Codes 2.2
+Message-ID: <Pine.SOL.3.91.951128152052.21099B-100000@comp>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+---------------------------------------------------------------------
+                                Virtuals
+                                ~~~~~~~~
+    In labeling Virtuals, the Continuum tries to use a standardized 
+classification system - the Virtual Profile - for ease of recording 
+basic features. Virtuals are labeled regularly labeled as below, but 
+as new Virtuals are discovered the system is revised and updated to 
+better conform with increases in the knowledge of the Continuum.
+
+   The Continuum classes Virtuals as follows:
+
+    Common Name
+    Energy [Quint] Rating
+    Human Factor
+    Magick Factor
+    Tech Factor
+    Environmental Factor
+    Control Factor
+    Entity Factor
+    Danger Factor
+    Temporal Proximity
+    Unique (ID) Code
+    Common Name
+                            
+                            CODING EXPLANATIONS
+                            ~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------
+    Common Name: This is the name by which the Continuum commonly 
+refers to the Virtual. Occasionally the name by which its 
+inhabitants refer to it is used. In the Classification Scheme, it 
+is placed either before or after the Profile itself, depending on 
+the preferences of individual agents.
+
+
+-----------------------------------------
+    Energy [Quintessence] Rating
+    
+    Perhaps one of the most important codes for a Virtual, this 
+indicates the strength of the Virtual's existence. Since Virtuals 
+are invariably weaker copies of Main Corridor, they contain less 
+inherent Energy [the Continuum term for Quintessence] than MC. The 
+Energy Rating indicates how many points of Virtual Quintessence are 
+equivalent to one point of MC Quintessence. Many Virtuals are have a 
+Quint Rating of 2 - ie. two Virtual Quint points are equivalent to 
+one MC Quint Point. The most potent Virtuals have a Quint Rating 
+of 1, which means that one Virtual Quint point has the same strength 
+as on from MC.
+    The Energy Rating of the Virtual determines how vulnerable it is 
+to attack by the Darkness - weaker Virtuals may be more unstable... 
+    [Editor's note: I'm sure that the strength of the Virtuals would 
+have other important effects on magick cast by MC Mages there, but I 
+can't figure out what this effect would be (aside from the difference 
+in Quint strength) - any ideas?]
+
+    0       Main Corridor. Only Main Corridor has this rating. This
+            means that the Corridor is an original and not a Virtual.
+    1       Level 1 Virtual. The Virtual is derived from MC, but is
+            strong enough that one point of Virtual Quint is
+            equivalent to one point of MC Quint. The difference
+            between Codes 1 and 0 is subtle - while a Code 1 Virtual 
+            may be Quintessentially as strong as Main Corridor, it is 
+            still derived from MC.
+    2       Level 2 Virtual. The most common type of Virtual, where
+            two points of Virtual Quint are equivalent to one point of
+            MC Quint. 
+    3       Level 3 Virtual. The weakest known Virtuals, these are
+            particularly susceptible to destruction by the Darkness.
+            Three points of Virtual Quintessence are equivalent to one
+            point of MC Quintessence here.
+    U       Unstable Virtual. Very few Virtuals receive this
+            classification, which indicates that the Virtual is
+            losing cohesion either through invasion by the Darkness
+            or other unknown means. Collapse may or may not be
+            imminent, but it is inevitable unless the process can be
+            halted somehow (eg. Neverland).
+
+    Note that there are no Virtuals weaker than level 3. 
+
+    
+-----------------------------------------
+    The Human Factor:  The first number of any label, the Human Factor 
+indicates the presence and strength of humanity in a given Virtual.
+
+    1       Humanity is the only dominant race to be found (e.g. 
+            our Earth).
+    2       Humanity is the dominant sentient race, but others exist 
+            in hiding (e.g. the World of Darkness).
+    3       Humanity and one other race share (or fight over) dominance
+            of the Virtual together.
+    4       Humanity and multiple other races share dominance of the
+            Virtual.
+    5       Humanity exists, but another race holds dominance over the
+            Virtual, keeping humanity subjugated or in hiding (e.g. 
+            Vamp World).
+    6       Humanity does not exist in the Virtual, and may never have
+            (e.g. Sauron).
+    7       No sentient races exist in the Virtual (e.g. XX).
+    S       The dominant species is sentient, whether human or not.
+    N       The dominant species, while most likely intelligent, is
+            not sentient.     
+    X       The dominant species no longer exists. This can occur
+            through catastrophic war, disease, natural extinction, or
+            other means (eg. Neverland).
+
+
+-----------------------------------------
+     The Magick Factor:  This factor indicates the strength of one or
+more paradigms of magic in the Virtual.  This factor is also given a
+letter designation as well, to better define the factor.
+
+    0       Quintessence exists, as does Paradox. Thus, only Mages 
+            and Awakened beings can perform magick. However, there 
+            is no dominant paradigm, which allows the Mage to perform 
+            all Vulgar Magick as if it was Coincidental. An example 
+            of this is the MC Umbra. This is frequently the case in
+            uninhabited Virtuals (eg. Lucifer).
+    1       Magick does not exist in any form, and never has. Vulgar
+            magicks are impossible, and coincidental magick causes
+            paradox as Vulgar does normally. Escape from the Virtual
+            is usually only possible by some special way (e.g. real
+            Earth's Bermuda Triangle). Note however that Quintessence
+            always exists, even on magick-free Virtuals.
+    2       One paradigm of magick holds sway, and is commonly accepted
+            as truth.  All others are subject to Paradox (e.g. the 
+            Order of Hermes during the Mythic Era).
+    3       A gathering of paradigms are merged and hold power, while
+            all other magicks are subject to Paradox (e.g. the 
+            Technocracy in the World of Darkness, and the Cabal of 
+            Deathtech).
+    4       All collective paradigms are empowered, but the threat of
+            Paradox still exists due to mages still being few in
+            number and the majority of individuals unaccepting of
+            magick. For example, mages are capable of many feats
+            expected of them, but Paradox would hinder other effects
+            (e.g. Eldritch).
+    5       All individual paradigms are supported, and Paradox is 
+            non-existent. Individual thoughts (even of non-Awakened 
+            beings) can alter vast amounts of reality. The Continuum 
+            has yet to encounter such a Virtual and believes them to 
+            be merely theoretical.
+
+    C       One or more non-human species may have magical abilities,
+            and only these creatures possess magickal abilities.
+    T       Indicates the dominance of a technomancer paradigm.
+    N       Indicates the dominance of a non-technomancer paradigm.
+    M       Indicates the dominance of a mixed technomancer and non-
+            technomancer paradigm.
+    I       Indicates the existence of identical or similar paradigms 
+            to MC in the Virtual.
+    U       Indicates the existence of unique and unknown paradigms
+            in the Virtual.
+
+     
+-----------------------------------------     
+     Technology Factor:  This factor represents how similar the 
+technology of a Virtual is to that of the mainstream (non-
+Paradoxical) technology of Main Corridor.
+
+    0       No technology exists at all. This code is commonly used
+            Virtuals with no intelligent life.
+    1       The technology of the Virtual is identical to that of the
+            Main Corridor in every way.
+    2       Certain minor differences exist between the Virtual and
+            Main Corridor.  For example one world may have interactive
+            television in every home, and/or Xerox machines are 
+            unknown.
+    3       Major differences exist between the two.  Citizens of a
+            Virtual may all have hand held lasers and sentient robots
+            while another still has yet to forge a suit of plate mail.
+    A       Technology as it is known in the Main Corridor is non-
+            existent, but an alien technology is highly commonplace.
+            For example, a Virtual may utilize life energy to power
+            its technology (which is organically-based as well).     
+    F       Futuristic Technology. The technology within the Virtual
+            has advanced to a level greater than that in MC.
+    P       Primitive Technology. The technology in the Virtual is
+            less advanced than in MC.
+
+
+-----------------------------------------
+    Environmental Factor:   This indicates how similar the physical 
+environment is to MC Earth. It is useful for determining the need 
+for physical protection before entering.
+
+    E       Earthlike environment. No special environmental
+            protection measures are needed.
+    I       Inconvenient environment. Generally Earthlike, but
+            surface conditions require special needs. Eg. Breathable
+            but tainted air, planet covered entirely by water, desert
+            or glacial planets.
+    D       Dangerous environment. Air is still breathable, but
+            physical environment is dangerous to life - eg. highly
+            volcanic worlds, high radiation levels etc.
+    X       Extreme environment. Conditions are not remotely
+            Earthlike, and highly dangerous without substantial
+            protection. Eg. no/toxic/corrosive atmosphere, unusual
+            physical laws, very high or low surface temperature (eg.
+            Lucifer)
+            
+            
+-----------------------------------------
+    Control Factor:  An important factor to explorers among the 
+Continuum, the control factor indicates the level of freedom and 
+oppression (and also chaos and stability) present in a Virtual as 
+compared to that of Main Corridor as well as how the existence of the 
+Continuum, Nexus and magick would be viewed by natives.
+
+    0       No control. The Virtual is uninhabited. Code 0 alone 
+            implicitly assumes that no Continuum Base has been 
+            established on the Virtual. 
+                However, Code 0B (see below) indicates that while 
+            the Virtual itself is uninhabited, the Continuum *has* 
+            established a base there. 
+    1       The existence of freedom is omnipresent and individual 
+            rights are held by whoever has the most power. The 
+            concepts of justice and law are practically unknown, such 
+            as in packs of animals.                
+    2       The amount of an individual's freedom is based on his or 
+            her social status, religion, or economic worth. For 
+            example, in ancient Egypt, the Pharaohs held much more 
+            freedom and power than the slave workers.
+    3       An individual's freedom is subject to his geographic 
+            position and government much as current politics dictate 
+            in the Main Corridor.
+    4       Only one governmental system can be found in the Virtual,
+            containing limited amounts of control; a one world
+            democracy/republic.
+    5       Only one governmental system can be found in the Virtual,
+            containing intensive amounts of control; a totalitarian
+            one world state.
+            
+    B       The Continuum has established a Base on this Virtual. If
+            already inhabited, this base is kept extremely secret.
+            Usually, Bases are established only on uninhabited
+            Virtuals.
+    S       The existence of magick, Nexus and the Continuum must be 
+            kept a secret from the natives of the Virtual at large.
+            This code is given to all Virtuals by default, and only 
+            extreme amounts of evidence will call for an A 
+            classification.
+    A       This Virtual has been, after vast gatherings of data, 
+            found to be accepting of the existence of magick, Nexus
+            and the Continuum.  Of the thousands of Virtuals the
+            Continuum has found, only a handful have ever been even
+            considered for A classification.     
+            
+
+-----------------------------------------            
+    Entity Factor:  The existence of entities with vast power is 
+often encoded into the labeling as well, but only if the existence of
+such is known as an indisputable fact.
+
+    E       Within this Virtual exist one or more beings of immense
+            power equal to that attributed to gods of legend.
+    W       This Virtual definitely does not possess powerful entities 
+            such as Oracles, Incarna, or Antediluvians. However, 
+            worship of similar such entities may still be present 
+            despite the lack of "deities." Such Virtuals usually have
+            low Magick Factors.
+    U       The existence or non-existence of Powerful Entities in 
+            this Virtual is unknown.
+
+
+-----------------------------------------            
+    Danger Factor:  The single most important label to many members of
+the Continuum, the danger factor indicates the nature of especially
+dangerous Virtuals.  Only the most deadly of Virtuals can expect a 
+special notation.
+
+    0       A literal paradise.  Threats to life are practically
+            unknown and non-existent.  Only three Virtuals have ever
+            received this code, and one later had it revoked.
+    1       The dangers within this Virtual are roughly equal to
+            those found within the Main Corridor and Nexus. This is
+            the most common classification to be found for the Danger
+            Factor.
+    A       The animal life found on this world is much more
+            dangerous than normally expected. Extremely so. Usually,
+            such creatures are the dominant life of the Virtual.
+    E       There are one or more entities in this Virtual which
+            threaten those who would explore the Virtual. More often
+            than not, these Virtuals are given a Z rating instead and
+            are sealed.
+    M       There are multiple factors that have combined to make 
+            the world as deadly and dangerous as it is.
+    P       The plant life found on this world is much more dangerous
+            than normally expected. Extremely so. Occasionally, such
+            creatures are the dominant life of the Virtual and animal
+            life may be unknown.
+    R       A sentient race present in the Virtual has been evaluated
+            as too much of a hazard, and contact with members of this
+            race is to be as limited as possible.
+    V       There are one or more illnesses present in the Virtual
+            which are highly hazardous. Many such Virtuals receive
+            the Z rating if they are found to be great a threat to
+            Nexus.
+    Q       Quarantined. No contact is allowed from Nexus, except by
+            specially trained teams and exceptional circumstances.
+            The Portal to the Virtual is constantly guarded, and any
+            inhabitants who escape (by having a Temporal Avatar) are
+            hunted down and 'contained' - a complex procedure
+            involving Mind, Prime, and Spirit magick which blocks the
+            Temporal Avatar and prevents it from leaving the Virtual
+            again. Additionally, all memory of the existence of Nexus
+            is erased for the fugitive's mind. 
+                This Code is usually applied to those Virtuals
+            whose inhabitants are highly xenophobic, though there
+            are other reasons. However, there is usually a reason why
+            the Continuum wishes to continue accessing the Virtual,
+            which would make Sealing it off forever (see below)
+            undesirable.
+    Z       The danger of this Virtual is so extreme and threatening
+            to Nexus and the Main Corridor, that the Continuum has
+            decreed that the Virtual is to be permanently Sealed for
+            eternity. Should someone break the Seal they will be
+            forced to undergo Gilgul. If they are lucky. Only a few
+            Virtuals have ever received this rating.
+                (Sealing is a very complex procedure, similar to the
+            Containment of Temporal Avatars described above but on a
+            much larger scale - it permanently shuts off the Virtual
+            from Nexus. No-one can enter it, and no-one can leave it
+            unless very powerful magicks are used).
+
+
+-----------------------------------------
+    Temporal Proximity: This indicates how similar the history of the 
+Virtual is to MC Earth's. High Proximity ratings are indicative of 
+those Virtuals whose history diverged from Earth's a long time ago - 
+these usually have many natural and environmental differences to MC. 
+    Remember that each Virtual is chronologically synchronised 
+with MC Earth - in all Virtuals, it is now the year 1995 (even if the 
+natives have a different dating system). However, the rate of 
+technological/biological/social evolution may be different to MC 
+Earth's, so civilisations on the Virtual may be more or less advanced 
+than our own even though it is the same time.
+
+
+    1       Recent Divergence. Branching from MC history occurred
+            within the last century (ie. after 1900 AD, MC time).
+    2       Millenial Divergence. Braching from MC history occurred
+            within the last millenium (after 1000 AD, MC time).
+    3       Bimillenial Divergence. Braching from MC history occurred
+            within the past 2000 years (ie. after 1 AD, MC time)
+    4       Ice Age Divergence. Branching from MC history occurred
+            within the past 18000 years, since the last Ice Age. This
+            span of time encompasses all of recorded human history.
+    5       Prehistoric Divergence. Branching from MC history occurred
+            within the past 650 million years (the dawn of the
+            Cambrian Era). This encompasses the history of multi-
+            celled life on the planet.
+    6       Archaean (ancient) Divergence. Branching from MC history
+            occurred within the past 4600 million years - up to the
+            formation of the Earth (and Solar System) itself. 
+    7       Universal Divergence. Branching from MC history took place
+            before the Earth ever existed, up to 15000 million years
+            ago - the birth of the Universe.
+
+    Note that Virtuals with Proximity rating above Code 4 are 
+increasingly likely to differ from MC Earth, as tiny changes in the 
+Virtual's history this far back are likely to have very large knock-
+on effects further down the line (Chaos Theory is alive and well in 
+evolution...). 
+    As a real-life example, the Cambrian Explosion, the huge 
+proliferation of life that took place 650 million years ago, produced 
+many bizarre forms of primitive life, including spherically 
+symmetric forms, and even a form with seven pairs of legs and five 
+eyes. If one of these forms had survived instead of the one that 
+later evolved into our most primitive ancestors, then it is likely 
+that the life that evolved from that initial 'progenitor organism' 
+would not be bilaterally symmetric, possessing 4 limbs and a sensory 
+appendage (the head).
+    Note that Code 7 Virtuals are usually highly dangerous places, 
+since the Earth either does not exist, or the physical laws (set at 
+the start of the Universe) are different there. 
+
+
+-----------------------------------------
+    Unique Factor (ID Code):  To distinguish one Virtual from another 
+that has an identical label, the Continuum uses a four letter/number 
+code.  Also, Virtuals are typically given a "common name," used in 
+the field and in less formal matters.
+    The system used to identify Virtuals is usually as follows:
+   (initials of discoverer, number of Virtuals discovered by him)
+
+    Thus, Frederick Brown has discovered his 14th Virtual. The code 
+will therefore be FB14. This system is commonly used to categorise 
+uninhabited Virtuals.    
+    
+    However, in some cases the Virtual is given a special ID code to 
+make it more recognisable. These Virtuals are the more commonly 
+explored or better known ones, such as Sauron, Aegypt and Vamp World.
+In these cases the ID Code is similar in appearance to the common name 
+of the Virtual (eg. Sauron is SAU1, Vamp World is VMP5)
+
+              ------------------------------------------
+              ------------------------------------------
+                   EXISTING VIRTUAL CODES (updated)
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    With this expanded classification in mind, the Profiles for the 
+existing Virtuals are now as follows:
+
+KEY:    Name    -   Common name for Virtual
+        Energy  -   Energy [Quint] rating
+        Hum     -   Human Factor
+        Mag     -   Magickal Factor
+        Tech    -   Technological Factor
+        Env     -   Environmental Factor
+        Ctrl    -   Control Factor
+        Ent     -   Entity Factor
+        Dngr    -   Danger Factor
+        Prox    -   Temporal Proximity
+        ID      -   ID Code        
+
+
+Name        Energy  Hum   Mag  Tech  Env  Ctrl  Ent  Dngr  Prox  ID
+
+Vamp World    1     5S    2CI   1     I    5S    E    M     1   VMP5
+Fungal Wind   2     1S     1    2P    X    1S    W    VZ    1   YF73
+Wotan         2     2S    2CNU  1     E    5AB   E    1     3   WOT1
+Aegypt        1     3S    2CMU  3A    E    3SB   E   EMQ    4   AEG8
+Sauron        1     6S    4CNU  3A    E    3SB   U    1     5   SAU1
+Lucifer       1     7      0    0     X    0B    U    M     6   LCF6
+Neverland     1U    7X     0    1     E    0B    U    1     1   NVR0
+Lemuria       2     4S    2CNI  3P    E    4SB   E    1     3   PT06
+Terra Prime   2     1S    1TI   3F    E    5S    E   RMQ    1   TER1
+Reich         2     2S    2CMU  2F    E    5S    U   RMQ    1   RCH1
+Armageddon    2     1S     1    1P    D    1S    W    M     1   GB12
+		
+	Virtual 1-5S-2CI-1-I-5S-E-M-1-VMP5  (Vamp World)
+
+First came the warnings of "Varney the Vampire" and then "Dracula," but 
+it wasn't until the year 1908 that the world came to realize the truth of 
+vampiric existence when the Damned Legion made it's first appearance in 
+Germany.  With the powers that the vampires' held they overwhelmed every 
+enemy they encountered, adding fallen soldiers to their ranks as they 
+swept across Europe.  The first World War began as America, Russia, 
+England, and African forces all united to contain and overwhelm the 
+undead of Europe.  Then the Second Wave began.  
+	In 1945 the most powerful heads of the Lasombra, including the 
+Antediluvian, united to create the Darksphere, a twilight cloak across 
+the globe that let in a twisted form of light so that plants could still 
+grow, while keeping the world dark enough to protect the undead from the 
+rays of the sun.  The plan would have succeeded completely if it hadn't 
+been for the Tremere, who feared that amount of power belonging to any 
+other clan.  The Tremere interrupted the Lasombra in the middle of the 
+Darksphere ritual, causing the Darksphere to suffer from fluctuations, 
+some temporary and some permanent.  Despite the lack of complete success 
+with the Darksphere, the vampires initiated the Third (and final) Wave.  
+	From hidden lairs across the world, the vampires attacked the 
+resisting nations.  Some, such as England, were spared the cover of the 
+Darksphere and were able to hold out better than others.  Nearly a 
+century later the vampires have conquered the world, and only scattered 
+bands of freedom fighters and nations spared the touch of the Darksphere 
+can hope to resist.
+
+	Currently the various clans of vampires view each other in a 
+number of different ways, all under the leadership of the Lasombra led 
+Camarilla against the Tremere supported human forces of the Sabbat.
+	The Assamites were reluctant supporters of the Lasombra in their 
+bid for dominance, eliminating VIPs among both human and Kindred.  
+However, the Assamites still hold grudges against many among the Kindred 
+for their part in the Tremere curse made during the dark ages.
+	The Brujah relish the conflict, leading huge armies of ghouls 
+into battle against the free humans for the glory of combat.  In fact, 
+many Brujah allow humans to survive freely so as to provide challenging 
+opponents to deal with, especially if said humans interfere with the 
+other clans.
+	The Gangrel tend to follow one of two camps.  The Warriors have 
+joined the Camarilla as fighters and leaders, competing with the Brujah 
+as warlords for either the Camarilla or the Sabbat.  The Isolated seek 
+only peaceful existence by themselves in the wilds, away from all other 
+factions.
+	The Giovanni were known to have existed at a time long ago in the 
+past, but all members of the clan seem to have been destroyed two hundred 
+years ago.  Some rumor that a few, highly paranoid, individuals still 
+exist in absolute fear for their unlives.
+	The Followers of Set have joined with the Tremere due to repeated 
+attempts by the Camarilla to destroy them.  With the protection of the 
+Sabbat, the Setites have been able to increase their numbers greatly.  
+Recent rumors also indicate that Set himself has been moved to Rome for 
+reasons currently unknown.
+	The Lasombra, after claiming leadership of the Camarilla during 
+the Inquisition, led the vampires strongly and well.  With the awakening 
+of Lasombra himself in the late 1890's, the clan was acknowledged as the 
+one true leader by all.  Now, the Lasombra work to strengthen the 
+Darksphere and continue rule of the others.  And aid Lasombra in his 
+other projects.
+	The Malkavians have united under the banner of a human claiming 
+to be none other than Malkav.  Currently, he directs his followers to 
+overwhelm both factions in order to free humanity again.  Many disagree 
+with him, but this living mortal undeniably holds power unknown to even 
+the Antediluvians.
+	The Nosferatu, like the Giovanni in the past, are being hunted to 
+extinction.  The Methuselahs and a few Elders are all that remains, but 
+they have banded together in the islands of New Zealand and are preparing 
+for the worst.  No life is allowed to come near the islands save the 
+herds of native pigs.
+	The Ravnos have joined the Sabbat, seeing the birth of the 
+Darksphere and the complete devastation of the world as a horrendous 
+abomination.  The Ravnos are also the only other clan to regularly deal 
+with the Malkavians, who see them as worthy for survival.
+	The Toreador tend to work as the "shepherds" of the Camarilla's 
+herds of humanity.  The Toreador are known for their experiments in 
+flavoring of human vitae, as well as grotesque arts they make of human 
+flesh and bone.  They are perhaps the most despised of all the Camarilla 
+clans, after the Lasombra.
+	Tremere are the most "human friendly" of all the clans.  The 
+Tremere have even gone so far as to teach the arts of hedge magic to 
+those who will accept them.  They lead the Sabbat not only to ensure 
+their own survival, but also to give them the power they so greatly 
+crave.  With the awakening of Tremere, the clan as a whole is filled with 
+a feeling of invincibility.
+	The Tzimisce is unknown to natives of this world.
+	The Ventrue have been relegated to a position of overseer of 
+society, taking the roles of bureaucrats among the Camarilla.  The 
+Ventrue objected at first, but the power of the Lasombra kept their 
+voices silent.  But with Ventrue himself leaving torpor this may soon change.
+	Other bloodlines are known to exist, but their power and numbers 
+are limited at best.
+	Humanity consists of either food stock kept in breeding kennels 
+by the Camarilla, or free humans siding with the vampires of the Sabbat.  
+The Camarilla discourages the creation of ghouls, instead preferring the 
+creation of blood bound kindred.  The Sabbat however encourages the 
+creation of ghouls, with humans using the Viniculum as a means to keep 
+themselves free of the Blood Bond.  But even Sabbat humans refuse to 
+become vampires themselves except in the greatest of need.
+	Whereas the Camarilla cares nothing for the humans they deal 
+with, the Sabbat knows that their continued survival depends on their 
+unity with mortals.  As such, Sabbat vampires commonly only feed from 
+animals, blood bags, or willing individuals.  In return, free humans 
+often give blood donations to keep their allies fed.  While neither side 
+enjoys the situation, both prefer this over enslavement and death.
+	Also of note is that werewolves, mages, wraiths, and faeries are 
+unknown to exist save only as legends.  Even the Antediluvians don't know 
+the truths behind these legends.
+
+	With the creation of the Darksphere, the entire environment was 
+altered.  While plants can still grow, they tend to suffer more mutations 
+than before, growing stunted and twisted, or enlarged and tumorous.  
+Crops are still safe for consumption, but the plant life looks greatly 
+changed from what we would recognize.
+	The structure of the Darksphere is flawed, allowing pure sunlight 
+to creak through from time to time in various places.  Some areas like 
+England and the central United States are completely free of the 
+Darksphere, but these areas are very rare.  Despite the freedom the 
+Darksphere gives vampires, it also has a cost; vampires have become 
+vulnerable to the light of the stars at night as if it were an overcast 
+day.  Walking unprotected at night will burn the flesh of the Kindred!
+	Currently England, the Bread Belt of America, Australia, and Rome 
+are the only strongholds left of free humanity.  Of these four, only the 
+first two are free from the grasp of the Darksphere.  Australians tend to 
+be paranoid even by free human standards, the only thing keeping them 
+alive.  The power of faith shines in scattered areas, but no where does 
+it shine stronger than in Rome, stronghold of the last free humans to not 
+ally themselves with the Sabbat, the Inquisition.
+
+
+		Virtual 2-1S-1-2P-X-1S-W-VZ-1-7YF3  (Fungal Wind)
+
+	The Cold War was a time period of weapons stockpiling, in 
+preparation for a war no one really wanted.  But despite the power of the 
+atomic bomb, on this Virtual the weapon of choice wasn't nuclear, it was 
+biological.  Both NATO and the Warsaw Pact nations spared no costs to 
+develop the ultimate weapons and cures, leading to highly advanced 
+understandings of bio-chemistry, genetic engineering, and other 
+"monster-creation" sciences.  
+	With the reign of Kennedy and Khruschev came the Cuban Missile 
+Crisis, but with a decidedly different ending.  Kennedy, receiving 
+erroneous reports of a "germ-missile" launch from the USSR towards 
+America ordered the launching of the US germ-missiles.  Soon, all sides 
+were launching all matter of horrendous microbes and organisms in what 
+became known as the Fungal Wind (so named due to the heavy amount of 
+Fungal Wind released in Cuba by the US during the first launch).  When 
+many of these creations were exposed to each other, the low background 
+count left from the few atomic blasts, and the tailor-made antibodies 
+created for protection, the germs mutated into even more bizarre life.
+	Decades passed as human civilization disintegrated, forcing 
+mankind to revert to bands of nomadic hunter-gatherers.  Over 40% of the 
+population of the planet was wiped out by the accumulated diseases; the 
+death tolls would have been much higher if it weren't for the limited 
+effectiveness of advanced antibiotics and medications.  In the present 
+day over hundreds of viruses still roam across the globe, most notable 
+being the Fungal Wind.
+	The Fungal Wind is a horrible disease that takes root in a 
+person's respiratory system where it incubates without any sign of 
+symptoms.  After a period of two weeks, the virus spreads to the host's 
+nervous system and becomes air-transmittable.  At this point, victims 
+begin to experience slight headaches that grow in intensity and 
+duration.  After another two to three weeks the virus completely destroys 
+the victim's higher reasoning powers, turning him into little more than 
+an animalistic predator.  During this stage the victim's eyes turn to a 
+dark black, as the virus attacks the optic nerves.  Finally, after 
+another three weeks the victim dies, his nervous system completely eaten 
+away.
+	Another problem often encountered is that of the Impregnator, 
+also known as the Maggot Momma'.  Genetically engineered from several 
+predatory insects, such as wasps and mosquitoes, the impregnator is a 
+race of hermaphroditic flying insects that are constantly breeding.  The 
+Impregnator injects its eggs, via its stinger, into any warm blooded 
+mammals it can find.  Once injected the eggs soon hatch and begin to eat 
+the insides of their host, careful to avoid the vital organs of its host 
+in a way similar to some wasp larvae.  As the larvae grow, they begin to 
+burrow their way to the surface of their host, where they "hatch" fully 
+grown.  Entire swarms of Impregnators have proven deadly to both humans 
+and farm animals, decimating thousands of both.
+	Even the waters of Fungal Wind are a threat due to hundreds of 
+new life forms, including the HEPs.  Hallucinagenically Engineered 
+Protozoa are microscopic algae that grows in fresh water.  The HEPs are 
+ingested by animals and people, causing the ingestor to experience a 
+series of audio and visual hallucinations of a frightening nature, a "bad 
+trip" that can last for days depending on the amount of HEPs a person has 
+consumed.  In addition, the HEPs have been designed with an additional 
+feature; while boiling will kill the microbes, their hallucinogenic 
+chemistry will still remain effective for days.  Only the collection of 
+steam for condensation back to liquid will be free of the HEPs.
+	Hundreds of other life forms exist, along with hundreds of minor 
+mutations among each species.  So far, these three are the only life 
+forms researched among the Continuum explorers of Fungal Wind.  Other 
+life forms, some not so microscopic, have eradicated those who have tried 
+to study them.
+
+
+		Virtual 2-2S-2CNU-1-E-5AB-E-1-3-TR5O  (Wotan)
+
+	Wotan is so named due to the presence of a unique individual 
+known as Wotan (called Odin from here on) in the Norse mythos.  While 
+almost identical to the Main Corridor, Wotan is different in a few 
+significant ways due to the centuries long presence of Odin.  The races 
+of Kindred, Garou, Mages, Faeries, and Wraiths are completely unknown.  
+Odin claims to have slain them all, single handedly, millennia ago.  Also 
+of note is the strong presence of the Church of Odin as the largest 
+religion of Wotan.  Other religions such as Hinduism and Buddhism still 
+exist, but most monotheistic beliefs were turned to the worship of Odin 
+long ago.
+	Continuum explorers have long debated over the history of this 
+Virtual, but have been able to determine a few facts.  They have been 
+able to prove that Odin is a being of power equaling that of an Incarna 
+easily, but possessed of human emotions and mentality.  Secondly, Odin 
+desires nothing more than to lord over his some patch of the multiverse, 
+and as such the Continuum openly interacts with him and exchanges 
+non-sensitive information.  The presence of Odin dates back at least 1700 
+years, and some believe this could be extended another 500.  The worship 
+of Odin is done partially out of fear and partially from faith by the masses.
+	The Continuum has also noted that some (Wotan's equivalency of 
+Christians and Moslems) view Odin as a great deceiver, trying to lure 
+them away from the worship of the "true Lord."  They point to the 
+meddling of Odin in human affairs as the work of a great evil being, but 
+the Continuum disregards these statements as the words of envious 
+religious minorities.  Odin finds the entire situation quite humorous. 
+	The existence of other Norse gods in Wotan is denied by Odin, but 
+they may exist elsewhere.  The Continuum dreads the concept of God-like 
+beings hopping around the multiverse, using Nexus as a launch pad.  As if 
+this weren't enough, many of Odin's children (of whom there are hundreds) 
+possess limited versions of Odin's vast powers.  
+
+
+
+
+
+
+
+
+
+
+

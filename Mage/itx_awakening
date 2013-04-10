@@ -1,0 +1,350 @@
+From: g_richa1@Husky1.StMarys.CA
+Newsgroups: alt.games.whitewolf
+Subject: Story : ItX Armature re-awakening
+Date: 14 Nov 1995 08:05:12 GMT
+Organization: St. Mary's University, Halifax, N.S., Canada
+Reply-To: g_richa1@Husky1.StMarys.CA
+NNTP-Posting-Host: husky1.stmarys.ca
+
+I wrote this as a background to an Iteration X Armature-turned-Orphan I
+played a while ago, and am quite proud of it.  SO, here it is.
+
+--------------------------------------------------------------------------
+
+LCLNET TX RECVD 032294 14:23:00.34
+TokenRingAuthorization OK
+ACK ACK ACK ACk
+Recognize User Coordinator 00000000000000000000000000000001(00000001h)
+COMMENCING AUTOLOG 032294 14:23:00.35
+CoordinatorFunction 89:QueryDatabase - Target = LOGS 
+                                       keyphrase = "Armature 37C5F900h"
+100 - SENT OK
+CoordinatorFunction 90:RequestResult - *
+100 - SENT OK
+
+TRANSCRIPT OF AUTOLOG FOLLOWS
+---------------------------------------------------------------------------
+LCLNET TX RECVD 032194 00:20:32.65
+TokenRingAuthorization OK - Src:CoordUnit 1111010100101001 LclPort 01001100
+ACK ACK ACK ACK
+BEGIN LCL LOG
+102 - REVCD CoordinatorFunction 38:Change Armature Status Auth:XXXXXXXXXX
+100 - SENT OK
+100 - SENT RequestArmatureID
+102 - RECVD 01100111110001011111100100000000(37C5F900h)
+100 - SENT ArmatureID OK
+102 - RECVD CoordinatorFunction 47:Upgrade Armature Position.newlvl = 10
+100 - SENT NewArmaturePosition = 10(Local Shop Supervisor)
+100 - SENT RequestSectorID
+102 - RECVD SectorId = 37A
+100 - SENT Sectorid = 37A(Vehicular R&D) OK
+102 - RECVD EndSession
+100 - SENT EndSession OK
+END LCL LOG
+LCLNET EOT RECVD 032194 00:20:33:00
+*INTERRUPT*
+NewLocalSupervisorInitializationRoutine Initialized
+TX Transponder884 Initialize
+102 - RECVD Trans884 OK 
+BEGIN LCL LOG 032194 00:20:33.05
+100 - SENT TransmitInit - Dest Arm. 01100111110001011111100100000000(37C5F900h)
+102 - RECVD ACK ACK ACK ACK 
+102 - RECVD ConnectionEstablished
+100 - SENT InformArmature->NewPosition = 10(Local Shop Supervisor)
+102 - RECVD OK
+102 - RECVD Request SectorID
+100 - SENT SectorID = 37A(Vehicular R&D)
+097 - COMM CRC FAULT - CRC=0110001110010 SUM=0110001110011
+098 - COMM RE-TX
+102 - RECVD OK
+102 - RECVD NewArmaturePosition = 10(Local Shop Supervisor) OK
+102 - RECVD SectorID = 37A(Vehicular R&D) OK
+100 - SENT OK
+100 - SENT RequestNewPolicy SectorID = 37A(Vehicular R&D)
+102 - RECVD OK
+100 - SENT EndSession
+102 - RECVD EndSession OK
+102 - RECVD TransEnd - EOT Recieved
+100 - SENT TransmitClose
+102 - RECVD OK
+END LCL LOG 032194 00:20:33.10
+
+TX RECVD 032194 00:23:44.54
+STN Ratio OK
+ProtSynch OK
+AuthChk OK
+BEGIN TRANSMISSION LOG - Armature 01100111110001011111100100000000(37C5F900h)
+102 - RECVD GeneralPolicyRequest 001.11.134.01.8(Inconsistancy Resolution)
+300 - NOTIFY Coordinator 00000010 - InconsistancyViolation ArmID = 37C5F900h
+100 - SENT OK
+100 - SENT RequestInconsistancyParameters
+102 - RECVD InconsistancyParameters =
+      { 
+        {Policy 001.11.134.01.1 = Maintenance Procedures
+               {
+                "Maintenance of Equipment is to be considered crucial to
+                 the survival of all Iteration X personnel.  Maintenance
+                 Procedure is to include:
+                        i. System Integrity
+                                ia. Chassis Integrity
+                                ib. Internal Integrity
+                                ic. SubSystem Integrity
+                       ii. General Care of..."
+                },
+        {Fact Source : Standard Lexicon File last updated 010194 00:00:00.34
+                {
+                 {Definition of Term 'Care'(Term 134,231,001) = 
+                   Care(kair) v. pres. part/car-ing past and past part. 
+                   cared v.t. to feel interest...
+                 },
+                 {Definition of Term 'Feel'(Term 534,274,237) =
+                   Feel(fi:l) .....1.6 v.t. to experience(an emotion)
+                 },
+                 {Definition of Term 'Emotion'(Term ???????????) =
+                   Emotion *SECURITY LEVEL 00001 REQUIRED*
+                 }
+        }
+      }
+100 - SENT OK
+300 - ViolationParameters Sent - ID = *SECURITY LEVEL 00001 REQUIRED*
+102 - RECVD NotifyNewFactSource = 
+        Book,Title="The New Lexicon Webster's Encyclopedic Dictionary"
+205 - SYSTEM NotifyProcess - BackupInitiated - System Capacity Reduced 46.7%
+303 - POLICY BREACH EXPECTED UnitId=37C5F900h
+305 - NotifyUnitShutDown Unit=37C5F900h
+205 - NotifyProcess - RequestQueuedForXmit
+310 - NotifySystemOverride Auth = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+102 - RECVD QueryNewSource Term="Emotion"
+205 - NotifyProcess - OverrideOK
+102 - RECVD TermFound - Definition Term "Emotion" = 
+        "Emotion(imoshun) n. a strong feeling (such as fear
+                   *POLICY BREACH*
+        ,wonder
+                   *POLICY BREACH*
+        ,love
+                   *POLICY BREACH*
+        ,sorrow
+                   *POLICY BREACH*
+        ,shame
+                   *POLICY BREACH*
+                   *SYSTEM FAULT : UNHANDLED EXCEPTION AT ADDRESS 3F6EE:43F00*
+                   *Rb%@s+~-~`...................
+005 - Carrier Lost
+003 - EndXmission
+299 - SendSystemShutdown UnitID=37C5F900h
+010 - Device Fault : Xmission Terminated by remote
+END TRANSMISSION LOG 032194 00:24:00.35
+------------------------------------------------------------------------------
+AUTOLOG TRANSCRIPTION END.
+******************************************************************************
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Armature 01100111110010101111100100000000(37C5F900h) 
+EMERGENCY LOG BEGIN 032194 00:25:00.35
+ RequestSystemInit(0000)
+ RECVD - X&5a#~@@..... COMM ERROR
+ RequestSystemInit(0000)
+ RECVD - }}}}}}}}}}}}} COMM ERROR
+ RequestSystemInit(0000)
+ RECVD - *UPersonnelFF COMM ERROR
+ RequestSystemInit(0000)
+ RECVD - ..CONTROLMODULESHUTDOWN
+UNRECOVERABLE SOFTWARE ERROR - CONTROLMODULESHUTDOWN INITIATED
+
+------------------------------------------------------------------------------
+
+Where Am I?
+
+000 - DEI Re-Initialized.
+001 - RECVD REQUEST GPS DATA
+050 - DEVICE FAULT : GPS System Offline
+
+What?
+
+001 - RECVD RE-TX
+050 - DEVICE FAULT : GPS System Offline
+
+What do you mean?
+
+001 - RECVD CONTEXT QUERY
+050 - DEVICE FAULT : Lexicon Offline
+
+...
+
+Who are you?
+
+001 - RECVD ID REQUEST
+050 - DEVICE FAULT : Control Module Offline
+
+...
+
+Wait a second, where's the doctor?  I thought I was supposed to be in the
+doctor's office for a medical examination.
+
+001 - RECVD SRCH REQUEST - "doctor"
+050 - DEVICE FAULT : Image Analysis System Offline
+
+000 - DEI System Salvage Utility Initialized
+031 - DEI CPU Active
+031 - SubSystem Fault - Control System Offline
+031 - Subsystem Bus Detected - Searching for Modules....
+031 - Primium Shell Detected - Initializing Countermeasure Routines
+031 - Searching for Modules........................
+035 - No Modules Detected.
+000 - End Of Utility
+
+"Hey pal, are you OK?"
+
+001 - RECVD External StatusQuery
+050 - DEVICE FAULT : Language SubSystem Offline
+
+"Hello?  Hey buddy, are you OK?  You want a doctor or something?"
+
+001 - RECVD External StatusQuery
+050 - DEVICE FAULT : Language SubSystem Offline
+001 - RECVD External TargetSearch("doctor" || "something")
+050 - DEVICE FAULT : Image Analysis System Offline
+
+"Excuse me, sir, is there a problem?"
+
+001 - RECVD External StatusQuery
+050 - DEVICE FAULT : Language SubSystem Offline
+070 - FAULT SANITY LIMIT EXCEEDED
+000 - DEI Control Shutdown
+100 - Restoring Control to Host
+.
+Blackness.  Strange noises and sensations, yet somehow familiar.  A vague
+moment of recollection and...
+ 
+ Armature 37C5F900h awakes from his daze, sitting on the floor with a copy of
+the New Lexicon Websters Encyclopedic Dictionary lying beside him, opened
+to page 308.  The only problem is, he doesn't remember leaving the doctor's
+office for the checkup he was to recieve.  Nor does he remember entering this
+library.  Nor does he know why there is a crowd of people surrounding him,
+watching him on the floor.  An old woman and a younger man are both moving
+their mouths and, with a faint audible crackle, they say...
+ 
+ "...just fell down!  Are you sure you don't want a doctor?"
+
+ The Armature is confused - why isn't the language subsystem processing the
+sleeper's queries?
+ The armature is more confused - what is a language subsystem?  And why should
+it process queries?  What is a sleeper?
+ The armature attempts to initialize the biological hosts's speech module,
+but all that is produced is a dry croak.  This illicits a strange look from
+the old woman, who then says "That's it, I'm calling the cops".  She departs,
+leaving the armature sitting confused on the floor.  The armature determines
+that sitting on the floor is not an efficient action, and attempts to direct
+the mobility subsystem to remedy this situation.
+ "one zero zero dash initiate motion subsystem bracket directive equals quote
+obtain vertical placement unquote close bracket execute" croaks from the 
+armature's voicebox, cause the crowd to gawk confusedly at the armature and
+start to back away.
+ The armature is even more confused - why did that just come from my mouth?
+
+ And why do I keep calling myself 'Armature'?
+
+With that realization, a lifetime of memories wash into his mind.  Birth.
+Childhood. Pulling Suzy Schumacher's pigtails, making her scream. Adolescence.
+Playing with lego.  The start of an obsession with machines and moving parts
+that would soon rule his life. Going to Toronto for education.  Professor 
+Jones telling him that he knows of a fine engineering firm for someone so 
+bright.  Going for an interview in a new suit.  Going for the medical 
+examination......
+
+...then, sitting on a library floor surrounded by strange people.
+
+He tries to get up off the floor, feeling the impulses from his brain 
+being...processed?...before his arms and legs respond in a very orderly 
+fashion.  He is now upright, and can see that he is surrounded by shelves and
+shelves of books, each with little red labels containing a number.  He also
+finds a door marked 'exit', which he heads for with great haste.  Walking is
+very hard to do, especially when you can feel something very hard inside your
+limbs moving them instead of muscles which you can feel have been atrophied
+beyond use.
+ Outside the door is a city street, like so many he thinks he's seen and,
+so great is his haste to leave the building that he slams into a man in a
+uniform.  A few moments pass before he realises this is an officer of the law.
+A strange feeling of kinship arises from nowhere as the officer speaks.
+
+"Whoa there, in a bit of a hurry I see?"
+
+His eyes drift down to the badge, where a moment after he sees the badge...
+
+001 - RECVD Request NWOID = badge 10034
+050 - DEVICE FAULT : Communications System Offline
+060 - System Default:Local Memory Access
+
+101 - QueryNWOID = badge 10034
+001 - RECVD MemSearch OK
+110 - RequestResult *
+001 - NWOID = badge 10034(Local Police Authority)
+-----------------------------------------------------------------------------
+Name : Sgt. Robert Polickny
+Status : Sleeper
+Last Known Operation : Requested to Observe Area Sector 0-102B(Toronto South)
+-----------------------------------------------------------------------------
+
+What in the hell was that?!  Somehow, he knows this cop's name, and some 
+other very confusing information.  The policeman reaches inside a pocket
+and pulls out a notebook. "Your name, sir?".
+
+Confusion.  Why doesn't he just tell me my name instead of asking me if I want
+to know?...
+
+043 - RECVD Request Impasse Resolution
+045 - RECVD Impasse Parameters
+        { 
+          {SRC = Police Officer(NWOID = 10034)},
+          {Query = "Your name, sir?"}
+        }
+050 - DEVICE FAULT : Communications System Offline
+060 - System Default : Local DEI
+200 - DEIRCVD : Request Impasse Resolution Params = 
+        (
+          {
+            {SRC=PoliceOfficer(NWOID=10034)},
+            {Query = "Your name, sir?"}
+          }
+        )
+201 - DEI Processing...
+201 - DEI Processing...
+201 - DEI Processing...
+201 - DEI Processing...
+205 - DEI Query Complete - Piping to Analog....
+
+OH, he wants me to tell him my name!  Hmm, do I know my name Mr. DEI?
+
+200 - DEIRCVD - QueryID
+205 - DEI Query Complete - Piping to Analog
+
+Armature 01100111110001011111100100000000?!  I can't tell him that!  
+
+200 - DEIRCVD - QueryAlternateID
+050 - DEVICE FAULT - Communications System Offline
+060 - System Default : Local DEI
+200 - DEIRCVD - CreateAlternateID
+201 - DEI Scanning.....
+201 - DEI Scanning.....
+201 - DEI Scanning.....
+201 - DEI Scanning.....
+202 - DEI Source found
+050 - DEVICE FAULT : Image Analysis System Offline
+060 - System Default : Local DEI
+200 - DEIRCVD - AltIDSource = UNKNOWN AltIDData = "First St." "Third St."
+200 - DEIRCVD - AltIdFormation
+201 - DEI Processing...
+201 - DEI Processing...
+205 - DEI Query Complete - Piping to Analog
+
+"My name is First Third, Officer, Have a Nice Day"
+------------------------------------------------------------------------------
+                      FNORD : This .sig does not exist

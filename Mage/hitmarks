@@ -1,0 +1,4536 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" >
+    <head>
+        <title>Queens Lake Middle School Home Page</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=5">
+
+        <meta property="og:title" content="Queens Lake Middle School" />
+        <meta property="og:url" content="http://www.edline.net/pages/QLMS"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:image" content="http://www.edline.net/images/groups/edline_green_logo50x50.gif"/>
+        <meta property="og:site_name" content="Edline" />
+        <meta property="og:description" content="" />
+
+        <script type="text/javascript">
+        
+        var ghStartTimeMillis = new Date().getTime();
+        //window.onerror=myErrorHandler;
+
+        function myErrorHandler(msg,url,l){
+            var txt="There was an error on this page.\n";
+            txt+="Error: " + msg + "\n";
+            txt+="URL: " + url + "\n";
+            txt+="Line: " + l + "\n\n";
+            txt+="Click OK to continue.\n\n";
+            alert(txt);
+            return true; 
+        }
+
+        </script>
+
+ 
+        <style type="text/css" media="screen">
+            #ed-menuBarContainer
+            {
+                visibility: hidden;  
+            }
+            .ghBoxMouseOverImg
+            {
+                margin: 2px 2px 0 0;
+            }
+            .ghBoxMouseOverDiv
+            {
+                
+                display:none; background-color:transparent; position:absolute; z-index:10;
+            }
+            
+            body
+            {
+                overflow:hidden;
+                margin:0;
+                background: transparent;
+            }
+            #ghToolbarAreaDiv
+            {
+            
+                background-image:url('http://www.edline.net/images/menubar/bg-repeat-menuBar-placeholder.gif');
+            
+                background-repeat:repeat-x;
+            }
+            #ghCustomerContentWrapperDiv
+            {
+                   
+                position:relative;
+            }
+            #ghTextAreaMultipostSpan, #ghTinyMultipostSpan, #ghSiteDesignerControls
+            {
+                display:none;
+            }
+            #ghTinyMultipostSpan
+            {
+                margin-left:25px;
+            }
+            .ghToolbarBtnWrapper
+            {
+                display:inline-block;
+                padding-top:1px;
+            }
+            
+            
+        </style>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://www.edline.net/css/styles-main.css?version=2013b-q1-2-p29081" />
+
+<link rel="stylesheet" type="text/css" href="http://www.edline.net/css/styles-icons-tiny.css?version=2013b-q1-2-p29081" />
+ 
+<link rel="stylesheet" type="text/css" href="http://www.edline.net/css/styles-pgspec.css?version=2013b-q1-2-p29081" />
+<link rel="stylesheet" type="text/css" href="http://www.edline.net/css/styles-menubar-quirks.css?version=2013b-q1-2-p29081" media="screen" />
+<link rel="stylesheet" type="text/css" href="http://www.edline.net/css/styles-navbar-quirks.css?version=2013b-q1-2-p29081" media="screen" />
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/styles-ie7.css?version=2013b-q1-2-p29081" media="screen" />
+<![endif]-->
+
+
+
+
+
+
+
+
+<link rel="icon"          href="http://www.edline.net/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://www.edline.net/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://www.edline.net/apple-touch-icon.png" type="image/png" />
+<meta name="description" content="" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<link rel="canonical" href="../../../../../20080331141923id_/http:/hem.bredband.net/arenamontanus/Mage/hitmarks" />
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="http://www.edline.net/dyncss/fc454916d715338c96046521e94bbb9e?version=2013b-q1-2-p29081" />
+<link rel="stylesheet" type="text/css" media="print" href="http://www.edline.net/css/print.css?version=2013b-q1-2-p29081" />
+
+
+        
+
+        
+        <noscript>
+            <meta http-equiv="refresh" content="0; URL=http://www.edline.net/nojavascript.html" />
+        </noscript>
+
+        
+
+
+
+
+
+
+
+
+
+
+<meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes" />
+<!-- itemprop used by Google+ -->
+<meta itemprop="name" content="Edline Social Media" />
+<meta itemprop="description" content="Edline Social Media" />
+
+<script type="text/javascript" src="http://www.edline.net/HeaderControls.js?version=2013b-q1-2-p29081"></script>
+
+
+
+<script type="text/javascript" src="http://www.edline.net/jscripts/jquery/jquery.min.js?version=2013b-q1-2-p29081"></script>
+
+
+<script type="text/javascript" src="http://www.edline.net/jscripts/jquery/jquery.rain.browser.js?version=2013b-q1-2-p29081"></script>
+
+
+<script type="text/javascript" src="http://www.edline.net/jscripts/jquery/jquery.infieldlabel.min.js?version=2013b-q1-2-p29081"></script>
+<script type="text/javascript" src="http://www.edline.net/jscripts/jsdomenubar/jsdomenu.js?version=2013b-q1-2-p29081"></script>
+
+
+<script type="text/javascript" src="http://www.edline.net/jscripts/jquery/jquery.tools.min.js?version=2013b-q1-2-p29081"></script>
+<script type="text/javascript" src="http://www.edline.net/jscripts/jquery/jquery.hoverIntent.js?version=2013b-q1-2-p29081"></script>
+<script type="text/javascript" src="http://www.edline.net/jscripts/cornerz/cornerz.js?version=2013b-q1-2-p29081"></script>
+
+<script type="text/javascript" src="http://www.edline.net/jscripts/jquery/jquery.jqprint.js?version=2013b-q1-2-p29081"></script>
+<script type="text/javascript" src="http://www.edline.net/jscripts/jquery/jquery.scrollTo-1.4.2-min.js?version=2013b-q1-2-p29081"></script>
+
+<script type="text/javascript" src="http://www.edline.net/jscripts/jquery/jquery.jqprint.js?version=2013b-q1-2-p29081"></script>
+
+<script type="text/javascript" src="http://www.edline.net/jscripts/jquery/autoresize.jquery.js?version=2013b-q1-2-p29081"></script>
+<script type="text/javascript" src="http://www.edline.net/jscripts/misc/ImageUtils.js?version=2013b-q1-2-p29081"></script>
+<script type="text/javascript" src="http://www.edline.net/jscripts/misc/StringUtils.js?version=2013b-q1-2-p29081"></script>
+<script type="text/javascript" src="http://www.edline.net/jscripts/simplemodal/simplemodal.js?version=2013b-q1-2-p29081"></script>
+<script type="text/javascript" src="http://www.edline.net/jscripts/simplemodal/ajaxFailed.js?version=2013b-q1-2-p29081"></script>
+<script type="text/javascript" src="http://www.edline.net/jscripts/simplemodal/CustomModalDialog.js?version=2013b-q1-2-p29081"></script>
+
+
+<link rel="stylesheet" href="http://www.edline.net/css/jquery.Jcrop.css?version=2013b-q1-2-p29081" type="text/css" />
+<script type="text/javascript" src="http://www.edline.net/jscripts/jquery/jquery.Jcrop.js?version=2013b-q1-2-p29081"></script>
+
+<script type="text/javascript" src="http://www.edline.net/ImageResizePopup.js?version=2013b-q1-2-p29081"></script>
+
+
+
+
+
+
+<script type="text/javascript" src="http://www.edline.net/socialMedia.js?version=2013b-q1-2-p29081"></script>
+
+
+    <!-- End of Display ifSocialMediaEnabled -->
+
+<script type="text/javascript">
+	var isPrivateResource = false;
+    var hcjIsWorldUser = false;
+    var hcjShowAjaxErrorsToWorldUsers = false;
+    var hcjMenubarDropDownDelayMs = 150;
+    var hcjMenubarDropDownDelayReactivateMs = 500;
+    var hcjOldStyleShowMenuAfterMouseOffMs = 500;
+    var hcjNewUiHomeBreadcrumbShowMenuAfterMouseOffMs = 100;
+    var hcjEnableSocialMediaMenu = false;
+
+    //Build the Social Network Menu
+    $(document).ready(function()
+    {
+        //Box Model Fix for IE Quirks Mode
+        adjustBoxModelIfIEQuirksMode();
+
+        //Disable Social Networking for Non-Friendly URLs (aka. URLs ending in .page)
+        if (isNotAnEdlineFriendlyURL() || !hcjEnableSocialMediaMenu || isPrivateResource)
+        {
+            hideSocialNetworkMenu();
+        }
+        else
+        {
+            showSocialNetworkMenu();
+            buildSocialNetworkIconsOnTheFly();
+        }
+    });
+
+    if (!window.addEventListener) {
+    	/* Add compatibility for MSIE8 and earlier as they did not support DOM2 */
+        window.addEventListener = function (type,listener, useCapture) {
+            attachEvent('on' + type, function() { listener(event); });
+        };
+    }
+    window.addEventListener('resize', function(){
+ 	   if (typeof nbnClearCache == "function"){
+          nbnClearCache();
+       }
+ 	 },false);
+</script>
+ 
+<script type="text/javascript" src="http://www.edline.net/ControlsInit_new.js?version=2013b-q1-2-p29081"></script>
+
+
+
+
+
+        <script type="text/javascript">
+            function nbPotentiallyHideAllMenus()
+            {
+                if (overrideMenuHiding != true)
+                {
+                    hdrHideAllDropDownMenus();
+                    nbHideMacFirefoxScrollbars();
+                }
+                overrideMenuHiding = false;
+            }
+            function nbHideMacFirefoxScrollbars()
+            {
+                // Perhaps this Mac Firefox bug workaround is no longer necessary or only necessary for older versions.  I have
+                // disabled this to solve TT #5020, but may need to revive it for older versions.  We'll see.
+                return;
+
+                // Counter Firefox Mac's bug relative to being unable to hide the divs (leaves scroll bar visible) TT #4084
+                if (isMacFirefox)
+                {
+                    for (divId in overflowAdjustedDivsArray)
+                    {
+                        if ( overflowAdjustedDivsArray[divId] == true )
+                        {
+                            var subMenuDiv = document.getElementById(divId);
+                            subMenuDiv.style.overflow = "hidden";
+                            overflowAdjustedDivsArray[divId] = false;
+                        }
+                    }
+                }
+            }
+            $(document).ready(function() {
+                ghOnDocumentReady(true, false);
+            });
+        </script>
+        
+            <script type="text/javascript" src="http://www.edline.net/jscripts/jsdomenubar/jsdomenubar.js?version=2013b-q1-2-p29081"></script>
+            <script type="text/javascript" src="http://www.edline.net/FolderMenu.js?version=2013b-q1-2-p29081"></script>
+    
+        <script type="text/javascript" src="http://www.edline.net/GroupHome.js?version=2013b-q1-2-p29081"></script>
+        <script type="text/javascript" src="http://www.edline.net/DocumentBox.js?version=2013b-q1-2-p29081"></script>
+        <script type="text/javascript" src="http://www.edline.net/multimedia.js?version=2013b-q1-2-p29081"></script>
+        <script type="text/javascript" src="http://www.edline.net/jscripts/misc/PopupUtils.js?version=2013b-q1-2-p29081"></script>
+
+    
+        <link rel="stylesheet" type="text/css" href="http://www.edline.net/jscripts/jquery/jquery-ui.css?version=2013b-q1-2-p29081" />
+
+        
+
+        
+        
+        
+<script type="text/javascript">
+var ua = navigator.userAgent;
+var isMSIE = ua.indexOf ('MSIE') != -1;
+var ghIsFirefox = ua.indexOf('Firefox') != -1;
+var ghIsSafari = ua.indexOf('Safari') != -1;
+var ghIsChrome = ua.indexOf('Chrome') != -1;
+var ghIsOpera = ua.indexOf('Opera') != -1;
+var ghIsIE7 = false;
+//var ghIsiPad = false;
+
+var ghIsIPhoneOrIPodOrIPad = ua.match(/iPhone/i) || ua.match(/iPod/i) || ua.match(/iPad/i);
+
+var ghTranslateRequested = false;
+var ghIsSiteDesignerRunning = false;
+
+var ghRssDivsToWiden = new Array();   
+var ghPinnedDocsToLoad = new Array();   
+var ghPinnedResourcesThatAreUnfilledPlaceholders = new Array();
+var ghLocallyFilledFolderPlaceholdersAddContentElementSpec = new Array();
+var ghAccordionHeadersToRemove = new Array();   
+var ghPinnedSlideShows = new Array();
+var ghNavBoxes = new Array();
+var ghAccordionHeadersToHide = new Array();   
+var ghGlobalSelectedElementId = '';   
+var ghIsWorldUser = false;
+var ghShowAjaxErrorsToWorldUsers = false;
+var ghPinnedFolderSubmenuFetchDelayMs = 50;
+var embPinnedFolderSubmenuFetchDelayMs = 50;
+var ghSlideShowOverlayDivClass = "slideShowOverlay";
+var ghSlideShowOverlayDivIdPrefix = "slideShowOverlay_";
+var ghSlideShowColorizerDivIdPrefix = "slideShowColorizer_";
+
+var ghHighlighterCornerSize = 0;
+var ghHighlighterSelectedElementParentBackgroundColor = "";
+var ghHighlighterSelectedElementBorderColor = "";
+var ghHighlighterCornersToRound = "";
+var ghHighlighterCornersWithBorders = "";
+var ghHighlighterCornerColor = "red";
+
+var ghEdlineMenuBoxLoadFn = null;
+var GH_EDIT_TOOLBAR_HEIGHT = 82;
+var GH_MENU_BAR_HEIGHT = 37;
+var GH_PAGE_MIN_HEIGHT = 0;
+var ghWebPageGroupTypeString = "Web Page";
+var ghMiniCalEnabled = false;
+var ghMiniCalShown = false;
+var ghIsNewNavigationEnabled = false;
+
+var ghZoneVerticalMargins = new Array();
+var ghZoneVerticalPaddings = new Array();
+var ghZoneVerticalBorders = new Array();
+
+
+ghZoneVerticalMargins['edlThemeRootZoneFrame'] = '0';
+ghZoneVerticalPaddings['edlThemeRootZoneFrame'] = '0';
+ghZoneVerticalBorders['edlThemeRootZoneFrame'] = '0';
+
+ghZoneVerticalMargins['edlThemeMainsectionZoneFrame'] = '10';
+ghZoneVerticalPaddings['edlThemeMainsectionZoneFrame'] = '0';
+ghZoneVerticalBorders['edlThemeMainsectionZoneFrame'] = '0';
+
+ghZoneVerticalMargins['edlThemeControlZoneFrame'] = '10';
+ghZoneVerticalPaddings['edlThemeControlZoneFrame'] = '18';
+ghZoneVerticalBorders['edlThemeControlZoneFrame'] = '0';
+
+ghZoneVerticalMargins['edlThemeTopsectionZoneFrame'] = '0';
+ghZoneVerticalPaddings['edlThemeTopsectionZoneFrame'] = '0';
+ghZoneVerticalBorders['edlThemeTopsectionZoneFrame'] = '0';
+
+ghZoneVerticalMargins['edlThemeSupportZoneFrame'] = '0';
+ghZoneVerticalPaddings['edlThemeSupportZoneFrame'] = '0';
+ghZoneVerticalBorders['edlThemeSupportZoneFrame'] = '0';
+
+ghZoneVerticalMargins['edlThemeMainZoneFrame'] = '10';
+ghZoneVerticalPaddings['edlThemeMainZoneFrame'] = '18';
+ghZoneVerticalBorders['edlThemeMainZoneFrame'] = '0';
+
+ghZoneVerticalMargins['edlThemeBottomsectionZoneFrame'] = '0';
+ghZoneVerticalPaddings['edlThemeBottomsectionZoneFrame'] = '0';
+ghZoneVerticalBorders['edlThemeBottomsectionZoneFrame'] = '0';
+
+
+
+
+var ghDragDropInProgress = false;
+var ghDragDropPhase1Inited = false;   
+var ghDragDropPhase2Inited = false;   
+
+var ghSnippetTextAreaBoxTitleAnchorIdSuffix = "_itbta";
+var ghSnippetTextAreaBoxTitleSpanIdSuffix = "_itbts";
+var ghSnippetTextAreaBoxListItemIdSuffix = "_itbli";
+var ghSnippetTextAreaNewsItemIdSuffix = "_itni";
+var ghSnippetTextAreaCalendarItemIdSuffix = "_itci";
+var ghSnippetTextAreaFolderStdViewItemIdSuffix = "_itfsvi";
+var ghSnippetTextAreaFolderBoxItemIdSuffix = "_itfbi";
+
+var ghBoxParentBgColor = new Array();
+var ghBoxTextColor = new Array();
+
+var ghSnippetTextAreaClassesMultipleCssSelector = ".edlInlineTextBoxTitleAnchor,.edlInlineTextBoxTitleSpan,.edlInlineTextBoxListItem,.edlInlineTextNewsItem,.edlInlineTextCalendarItem,.edlInlineTextFsvItem,.edlInlineTextFolderBoxItem";
+
+var ghRenderSiteDesignerWithNewUI = true;
+var ghUseNewMenuBar = true;
+
+
+
+
+
+function GhRssDivInfo(pRssOuterDivId,
+                      pRssInnerDivId,
+                      pHostZoneFrameId,
+                      pSumOfHorizontalPaddingMarginBorder)
+{
+    this.rssOuterDivId = pRssOuterDivId;
+    this.rssInnerDivId = pRssInnerDivId;
+    this.hostZoneFrameId = pHostZoneFrameId;
+    this.sumOfHorizontalPaddingMarginBorder = pSumOfHorizontalPaddingMarginBorder;
+}
+
+
+var ghMenusToLoad = new Array();   
+
+        
+
+
+
+function ghAddSlideShowPictures(pGroupEntid, elemSpec)
+{
+    
+
+    if (ctdData == null)
+    {
+        ctdData = { 'elemSpec' : elemSpec };
+    }
+    ctdData['bypassedContentTypeDialog'] = true;
+    ctdData['typeName'] = 'picture';
+    ctdData['typeShortTitle'] = 'Picture';
+    ctdData['typeLongTitle'] = 'Picture';
+    ctdData['iconClassNameRoot'] = 'Picture';
+    
+    openFileUploadTitleDialog('picture',
+        'Picture', pGroupEntid);    
+}
+
+
+function ghOverrideIFrameSize()
+{
+  
+}
+
+
+var scrollbarAdjustmentAlreadyMade = false;
+
+
+function ghOverrideIFrameWidth()
+{
+
+}
+
+
+function checkStale()
+{
+
+    if (document.cookie.search(/pgt=c1365540184187t/i) == null)
+    {
+        document.location.reload();
+    }
+}
+
+
+function giveIFrameFocus()
+{
+    var iframeCtl = document.getElementById("ghSwsIFrame");
+    if (iframeCtl == null)
+    {
+        alert("the iframe control wasn't found");
+    }
+
+    var focusMethod = iframeCtl.focus;
+
+    if (focusMethod != null)
+    {
+        iframeCtl.focus();
+    }
+}
+
+
+
+function onLoadHandler()
+{
+    
+
+    ghDoProcessingAfterBodyLoaded(
+            false,
+            false,
+            true,
+            false,
+            true,
+            'Folder',
+            true,
+            false,
+            true,
+            861,
+            false,
+            true);
+
+    var outerMostDivQuery = null;
+
+    
+        var nbcWidth = document.getElementById('ghOuterMostTable').offsetWidth;
+        outerMostDivQuery = $("#ghOuterMostDiv");
+
+        if (outerMostDivQuery.length)
+        {
+            nbcWidth = nbcWidth -
+                       ( parseInt(outerMostDivQuery.css("marginLeft"),10) || 0 ) -
+                       ( parseInt(outerMostDivQuery.css("marginRight"),10) || 0 ) -
+                       ( parseInt(outerMostDivQuery.css("borderLeftWidth"),10) || 0 ) -
+                       ( parseInt(outerMostDivQuery.css("borderRightWidth"),10) || 0 )
+                    ;
+        }
+
+       setElementWidth('ed-navBar', nbcWidth + "px" );
+    
+
+    
+    ghAdjustBoxListElementsForScrollbar();
+
+    if (isMSIE)
+    {
+        ghOnloadPinnedDocsHandler();   // Other browsers handled earlier in ghInitPinnedDocsLoadEventHandler
+    }
+
+
+
+    if (window.document.onkeypress == undefined)
+    {
+      window.document.onkeypress = ghKeyPressHandler;
+    }
+
+    checkStale();
+    clearFrames();
+    initMainMenuBar();
+
+    
+
+    
+
+    
+    
+
+    
+        ghTouchMenuBarForIE();
+
+        
+        ghAdjustHeightOfCertainZones(false);
+
+    
+
+
+    
+    
+
+
+
+
+
+
+
+  
+
+    ghSetHighlighterCornerInfo(0, "", "", "", "", "red");
+
+    
+    ghRoundCorners();
+    
+
+
+
+
+    
+    if (ghTranslateRequested)
+    {
+        ghAdjustHeightOfCertainZones(ghIsSafari || ghIsFirefox);
+    }
+
+
+
+
+    ghAdjustContentDivHeightAndWidth(true);
+    ghSlideToolbarIcons(true);
+
+
+    ghDoNormalPostLoadAdjustments(false, false,
+                0);
+
+    
+
+    if (ghTranslateRequested)
+    {
+        setTimeout( function() { ghDoDelayedTranslatePostLoadAdjustments('') },
+                3000);
+    }
+
+
+
+    $("#" + GH_CUSTOMER_CONTENT_WRAPPER_ID).scroll(function() { ghHandleCustomerContentScroll(); } );
+
+
+    if (isMSIE)
+    {
+        setTimeout( function() { ghInitEventHandlers(); }, 0);   
+    }
+
+    ghEnforceMinPageHeight();
+
+    
+    setTimeout(function() { ghDoOnloadCompletelyFinishedHandling(false); }, 0);
+
+}
+
+
+function ghOnResizeHandler()
+{
+    ghOnResizeHandlerPart2(
+            false,
+            false,
+            0,
+            true);
+}
+
+
+
+
+
+function ghRoundCorners()
+{
+
+
+
+
+
+
+
+
+
+    var dsHighlightDivQuery = null;
+
+
+
+
+
+
+
+                    ghBoxParentBgColor["edlElement_6947934157177955540_document"] = "#ffffff";                
+                    ghBoxTextColor["edlElement_6947934157177955540_document"] = "#000000";                
+                
+                    ghBoxParentBgColor["edlElement_6947933085810661794_folder"] = "#ffffff";                
+                    ghBoxTextColor["edlElement_6947933085810661794_folder"] = "#ffffff";                
+                
+                    ghBoxParentBgColor["edlViewAsBoxArea"] = "#ffffff";                
+                    ghBoxTextColor["edlViewAsBoxArea"] = "#000000";                
+                
+                    ghBoxParentBgColor["edlContentsBoxArea"] = "#ffffff";                
+                    ghBoxTextColor["edlContentsBoxArea"] = "#000000";                
+                
+                    ghBoxParentBgColor["edlLinksBoxArea"] = "#ffffff";                
+                    ghBoxTextColor["edlLinksBoxArea"] = "#000000";                
+                
+                    ghBoxParentBgColor["edlElement_6947934125158996756_document"] = "#ffffff";                
+                    ghBoxTextColor["edlElement_6947934125158996756_document"] = "#000000";                
+                
+                    ghBoxParentBgColor["edlElement_6947934730732534258_folder"] = "#ffffff";                
+                    ghBoxTextColor["edlElement_6947934730732534258_folder"] = "#000000";                
+                
+                    ghBoxParentBgColor["edlNewsBoxArea"] = "#ffffff";                
+                    ghBoxTextColor["edlNewsBoxArea"] = "#000000";                
+                
+                    ghBoxParentBgColor["edlCalendarBoxArea"] = "#ffffff";                
+                    ghBoxTextColor["edlCalendarBoxArea"] = "#000000";                
+                
+                    ghBoxParentBgColor["edlElement_6947933085817103492_document"] = "#ffffff";                
+                    ghBoxTextColor["edlElement_6947933085817103492_document"] = "#000000";                
+                
+}
+
+
+
+
+
+
+function ghPotentiallyWidenRssDivs()
+{
+    for (var key in ghRssDivsToWiden)
+    {
+    	var obj = ghRssDivsToWiden[key];
+        var zoneElem = document.getElementById(obj.hostZoneFrameId);
+        var newWidth = parseInt(zoneElem.offsetWidth,10) - obj.sumOfHorizontalPaddingMarginBorder;
+        setElementWidth(obj.rssOuterDivId, newWidth);
+        setElementWidth(obj.rssInnerDivId, newWidth);
+    }
+}
+
+            
+function ghKeyPressHandler(e)
+{
+
+  
+
+    var escapePressed = false;
+
+    if (isMSIE)
+    {
+        escapePressed  = window.event.keyCode == '27';
+    }
+    else
+    {
+        escapePressed  = e.keyCode == '27';
+    }
+
+    if (escapePressed == true)
+    {
+            hdrHideAllDropDownMenus();
+    }
+
+  
+
+}
+
+
+function ghHideOrShowBoxContents(pContentsBoxId, pHideOrShow, pShowBoxContentsImagePath, pHideBoxContentsImagePath,
+                                 pIsHeaderIconShownAndExpandOnHoverSelected, pHasARoundedCorner, pBoxElementDivId,
+                                 pZoneFrameDivId, pBoxListHeight)
+{
+  var contentsDiv = document.getElementById(pContentsBoxId);
+  var hideOrShowImg = document.getElementById(pContentsBoxId + 'Image');
+
+  var boxElementDivQuery = $('#' + pBoxElementDivId);
+
+  if (pHideOrShow == "hide")
+  {
+      
+      boxElementDivQuery.find('div.edlBoxTitle').css('margin-bottom', '0px');
+
+      
+      if (isMSIE)
+      {
+          boxElementDivQuery.css('position', '');
+      }
+
+      contentsDiv.style.display = "none";
+      hideOrShowImg.setAttribute("src", pShowBoxContentsImagePath);
+      hideOrShowImg.setAttribute("title", "Show/expand box contents");
+
+      // TODO sms 10/27/10: construct differently so that a literal isn't used so that ghHideOrShowBoxContents usage searches can be more complete
+      hideOrShowImg.onclick = new Function("javascript:ghHideOrShowBoxContents('"
+              + pContentsBoxId + "','show','" + pShowBoxContentsImagePath + "','" +
+                pHideBoxContentsImagePath + "', " + pIsHeaderIconShownAndExpandOnHoverSelected + "," +
+                pHasARoundedCorner + ",'" + pBoxElementDivId + "','" + pZoneFrameDivId + "'," + pBoxListHeight + ")");
+
+      if (pIsHeaderIconShownAndExpandOnHoverSelected)
+      {
+          hideOrShowImg.style.display = "none";
+      }
+      else
+      {
+          hideOrShowImg.style.display = "inline";
+      }
+
+  }
+  else
+  {
+      
+      if (pBoxListHeight == 0)
+      {
+          boxElementDivQuery.find('div.edlBoxTitle').css('margin-bottom', '5px');
+      }
+
+      
+      if (isMSIE)
+      {
+          boxElementDivQuery.css('position', 'static');
+      }
+
+      contentsDiv.style.display = "block";   
+      hideOrShowImg.setAttribute("src", pHideBoxContentsImagePath);
+      hideOrShowImg.setAttribute("title", "Hide/collapse box contents");
+
+      hideOrShowImg.onclick = new Function("javascript:ghHideOrShowBoxContents('"
+              + pContentsBoxId + "','hide','" + pShowBoxContentsImagePath + "','" +
+                pHideBoxContentsImagePath + "', " + pIsHeaderIconShownAndExpandOnHoverSelected + "," +
+                pHasARoundedCorner + ",'" + pBoxElementDivId + "','" + pZoneFrameDivId + "'," + pBoxListHeight + ")");
+
+      hideOrShowImg.style.display = "inline";
+  }
+
+    
+    if (ghIsFirefox || ghIsSafari)
+    {
+        $('#' + pZoneFrameDivId).css("height","auto");
+    }
+
+    if(isMSIE){
+	    if (pHasARoundedCorner)
+	    {
+	        boxElementDivQuery.css("height","auto");
+	        // ghRoundCornersPrepBoxForIe(pBoxElementDivId);
+	    }
+        ghRoundCorners();
+
+	    
+	    ghTouchMenuBarForIE();
+    }
+  ghRequestBoxExpandCollapseTracking(pContentsBoxId, pHideOrShow);
+}
+
+
+function ghRequestBoxExpandCollapseTracking(pContentsBoxId, pHideOrShow)
+{
+
+    var parameters = "contentsBoxId=" + pContentsBoxId + "&hideOrShow=" + pHideOrShow;
+
+    $.ajax({
+        type: "POST",
+        url: "/BoxCollapseExpand.page",
+        async: false,
+        data: parameters,
+        complete: function(xmlRequestObject, successString){
+            ghReceiveBoxExpandCollapseTracking(xmlRequestObject, successString);
+        }
+    });
+
+}
+
+
+function ghReceiveBoxExpandCollapseTracking(ajaxReq, successString)
+{
+    
+}
+
+function ghShowPageNotFound()
+{
+    var dlg = $("<div title='Page Not Found'>" +
+                    "<p>Whoops, this page is no longer available!</p>" +
+                "</div>");
+    var opt = {
+        resizable: false,
+        draggable: false,
+        modal: true,
+        dialogClass: "edline-dialog",
+        buttons: {
+            "OK" : function() {
+                dlg.dialog("close");
+                dlg.dialog("destroy");
+                dlg.remove();
+            }
+        },
+        width: 300,
+        height: "auto",
+        open: function() {
+            $('.ui-dialog-buttonpane').find('button:contains("OK")').addClass('primary');
+        }
+    };
+
+    if ($.fn.dialog == null)
+    {
+        $.getScript("/jscripts/jquery/jquery-ui.js", function() {
+            dlg.dialog(opt);
+        });
+    }
+    else
+    {
+        dlg.dialog(opt);
+    }
+}
+
+
+
+
+
+
+</script>
+</head>
+
+
+
+
+
+
+
+    <body id="edlGroupHomeBody" class="edlModernBody" onload="onLoadHandler();" onresize="ghOnResizeHandler();"
+
+
+>
+    
+
+
+    
+    
+
+
+
+    
+
+
+    
+
+
+    <div id="ghToolbarAreaDiv" style="height: 37px; width: 100%; text-align: center; position:relative; z-index:10;">
+        
+
+
+        <table id="ghTinyEditorControls" style="display:none;" align="center" height="100%" cellpadding="0" cellspacing="0" border="0" summary="">
+            <tr>
+
+                
+                <td valign="middle">
+                    <div id="tbLeftEdgeTinyDiv" style="display:inline-block;">
+                    </div>
+                </td>
+
+                
+                <td valign="middle">
+                    <div id="ghInlineEditorControlsLeft" class="inlineEditingSkin" style="display:inline-block;">
+                    </div>
+                </td>
+
+                
+                <td valign="middle">
+                    <div id="ghInlineEditorControlsRight" style="display:inline-block; margin-left:25px;">
+
+                        &nbsp;
+
+                        <img role="button" tabindex="0" id="ghTinySave" src="http://www.edline.net/images/site_designer/ed-buttonSave_Off.png" class="sdSaveCancelImg" alt="Save" />
+
+                        &nbsp;
+
+                        <img role="button" tabindex="0" id="ghTinyCancel" src="http://www.edline.net/images/site_designer/ed-buttonCancel_Off.png" class="sdSaveCancelImg" alt="Cancel" />
+
+                    </div>
+                </td>
+
+                    
+                    <td valign="middle">
+                        <span id="ghTinyMultipostSpan">
+                            &nbsp;&nbsp;
+                            <input type="checkbox" name="dstaMultipostCheckbox" id="dstMultipostCheckbox" checked="checked" />
+                            All locations
+                            &nbsp;
+                            <img role="button" tabindex="0" src="http://www.edline.net/images/icons/help.png" title="Click for more info" onclick="alert(dsMultipostHelpText)" alt="Help" />
+                        </span>
+                    </td>
+
+                    
+                    <td valign="middle">
+                        <div id="tbRightEdgeTinyDiv" style="display:inline-block;">
+                        </div>
+                    </td>
+
+
+            </tr>
+        </table>
+
+
+        <table id="ghTextAreaEditorControls" style="display:none;" align="center" height="100%" cellpadding="0" cellspacing="0" border="0" summary="">
+            <tr>
+                
+                <td valign="middle">
+                    <div id="tbLeftEdgeTextAreaDiv" style="display:inline-block;">
+                    </div>
+                </td>
+                <td valign="middle">
+                        <img role="button" tabindex="0" id="ghTextSave" src="http://www.edline.net/images/site_designer/ed-buttonSave_Off.png" class="sdSaveCancelImg" alt="Save" />
+                </td>
+                <td valign="middle">
+                        &nbsp;&nbsp;
+                </td>
+                <td valign="middle">
+                        <img role="button" tabindex="0" id="ghTextCancel" src="http://www.edline.net/images/site_designer/ed-buttonCancel_Off.png" class="sdSaveCancelImg" alt="Cancel" />
+                </td>
+                <td valign="middle">
+                        <span id="ghTextAreaMultipostSpan">
+                            &nbsp;&nbsp;
+                            <input type="checkbox" name="dstaMultipostCheckbox" id="dstaMultipostCheckbox" checked="checked" />
+                            Change in all locations
+                            &nbsp;
+                            <img role="button" tabindex="0" src="http://www.edline.net/images/icons/help.png" title="Click for more info" onclick="alert(dsMultipostHelpText)" alt="Click for more info" />
+                        </span>
+                </td>
+                
+                <td valign="middle">
+                    <div id="tbRightEdgeTextAreaDiv" style="display:inline-block;">
+                    </div>
+                </td>
+            </tr>
+        </table>
+
+    </div>
+
+
+
+
+
+    <div id="ghCustomerContentWrapperDiv">
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form id="resetForm" name="resetForm" method="post" action="http://www.edline.net/post/GroupHome.page" class="noprint">
+</form>
+
+
+<script type="text/javascript" src="http://www.edline.net/NavigationBar_new.js?version=2013b-q1-2-p29081"></script>
+
+<script type="text/javascript">
+
+
+
+/* MOVED FUNCTION TO BOTTOM */
+function addHtmlAttribute(element, attributeName, attributeValue)
+{
+    var tempVar = "";
+    if (element.hasAttribute(attributeName) == true)
+    {
+       tempVar = element.getAttribute(attributeName);
+    }
+    element.setAttribute(attributeName, attributeValue + tempVar);
+}
+
+    var menuWidth = 200;
+    var menuBarWidth = 600;
+    var ajaxRequestEntid = "";
+    var globalMenuItem;
+    var itemDescrArray = new Array();
+    var itemNameArray = new Array();
+    var itemTypeArray = new Array();
+    var itemUrlArray = new Array();
+    var itemTargetArray = new Array();
+    var itemIconClassArray = new Array();
+    var itemHasItemsArray = new Array();
+    var urlsPerEntidArray = new Array();
+    var descrsPerEntidArray = new Array();
+    var overflowAdjustedDivsArray = new Array();
+    var menuNamesArray = new Array();
+    var navLinkClicked = false;
+    var ua = navigator.userAgent;
+    var isMSIE = ua.indexOf ('MSIE') != -1;
+    var nbIsIE9 = ua.indexOf ('MSIE 9') != -1;
+    var isFirefox = ua.indexOf ('Firefox') != -1;
+    var isMacFirefox = (ua.indexOf ('Macintosh') != -1) && (isFirefox);
+    var nbIsChrome = ua.indexOf ('Chrome') != -1;
+    var previousEntid = "";
+    var previousTime = new Date();
+    var timeOfPageLoad = new Date();
+    var overrideMenuHiding = false;
+    var nbGlobalTopBorderStyle = "";
+    var nbIsWorldUser = false;
+    var nbShowAjaxErrorsToWorldUsers = false;
+    var nbFolderGroupTypeString = "Folder";
+    var nbWebPageGroupTypeString = "Web Page";
+    var nbHomeLinkId = "root-x6947933044216991970--sep--Queens_Lake_Middle_SchoolhomeLink";
+    var nbBreadcrumbStripDropDownMenuFetchDelayMs = 450;
+    var nbHomeAndBreadcrumbDropDownSubmenuFetchDelayMs = 50;
+    var homeLinkElem = document.getElementById('edlHomeLink');
+    if (  (homeLinkElem != null) && (homeLinkElem != undefined)  )
+    {
+        homeLinkElem.id = "root-x6947933044216991970--sep--Queens_Lake_Middle_SchoolhomeLink";
+        homeLinkElem.className = "breadcrumbLink";
+    }
+    
+    var onloadFnName = "nbnNavigationBarOnload";
+    
+    var pageBody = document.body;
+    var func = onloadFnName + "('false')";
+    
+    if (pageBody.attachEvent!=undefined) // attachEvent is a deprecated IE method
+    {
+        pageBody.onload = appendToFunction(pageBody.onload, func);
+    } else {
+        addHtmlAttribute(pageBody, "onload", func +";");
+    }
+
+function appendToFunction(func, str)
+{
+    var nfs = "";
+    if (func != null){
+        var ofs = func.toString();
+        var fcb = ofs.indexOf("{");
+        var lcb = ofs.indexOf("}",fcb+1);
+        var oss = ofs.substring(fcb + 1, lcb);
+        //alert('h3=' + ofs + '||||\n' + oss);
+        nfs = nbStripLeadingSemicolons(oss);
+    }
+	var s = nbStripLeadingSemicolons(nfs + ";" + str);
+    var f = new Function(s);
+    return f;
+}
+function nbStripLeadingSemicolons(s){
+	while (s.substr(0,1) == ';' && s.length>1) {
+    	s = s.substr(1);
+    }
+	return s;
+}
+</script>
+
+
+        <div id="ghOuterWrapperDiv" class="zoomable" style="width:100%;">
+
+    <table id='edlPageAlignmentTable' align='center' border='0' cellspacing='0' cellpadding='0' summary=''><tr><td>
+
+
+        <table id="ghOuterMostTable" cellborder="0" cellspacing="0" cellpadding="0" style="margin: 0; padding: 0;  " summary="">
+            <tr>
+                
+
+                <td valign="top">
+
+                    <div id="ghOuterMostDiv">
+
+                    
+                    
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://www.edline.net/header.js?version=2013b-q1-2-p29081"></script>
+<script type="text/javascript">
+<!--
+
+    var CLICK_OK_BUTTON_DURATION = 60;
+    var CONFIRM_MSG_SECS = 1200 - CLICK_OK_BUTTON_DURATION - 30;
+    var secsTilMsg = CONFIRM_MSG_SECS;
+    function openInfoPopupWindowIfNeeded()
+    {
+        
+
+        return false;
+    }
+  
+    var HAS_DEFAULT_ENTER_KEY  =  false;
+    var DEFAULT_ENTER_KEY_NAME = "";
+    var HAS_PAGE_VALIDATION    =  false;
+    var PAGE_VALIDATION        = "()";
+
+
+
+    function adjustIFrameSize (iframeWindow) {
+
+      if (iframeWindow.document.height) {
+        var iframeElement = parent.document.getElementById (iframeWindow.name);
+        iframeElement.style.height = iframeWindow.document.height + 'px';
+
+        iframeElement.style.width = iframeWindow.document.width + 'px';
+      }
+      else if (document.all) {
+        var iframeElement = parent.document.all[iframeWindow.name];
+        if (iframeWindow.document.compatMode &&
+            iframeWindow.document.compatMode != 'BackCompat')
+        {
+          iframeElement.style.height =
+            iframeWindow.document.documentElement.scrollHeight + 5 + 'px';
+
+          iframeElement.style.width =
+            iframeWindow.document.documentElement.scrollWidth + 5 + 'px';
+        }
+        else {
+          iframeElement.style.height =
+            iframeWindow.document.body.scrollHeight + 5 + 'px';
+          iframeElement.style.width =
+            iframeWindow.document.body.scrollWidth + 5 + 'px';
+        }
+      }
+    }
+
+    
+    function checkStale()
+    {
+        
+        if (document.cookie.search(/pgt=c1365540184187t/i) == null)
+        {
+            document.location.reload();
+        }
+    }
+//-->
+</script>
+
+<form name="EventForm" method="post" action="http://www.edline.net/post/GroupHome.page" style="display: none;">
+ <input type="hidden" name="invokeEvent" value="" />
+ <input type="hidden" name="eventParms" value="" />
+ <input type="hidden" name="sessionRenewalEnabled" value="yes" />
+ <input type="hidden" name="sessionRenewalIntervalSeconds" value="300" />
+ <input type="hidden" name="sessionRenewalMaxNumberOfRenewals" value="25" />
+ <input type="hidden" name="sessionIgnoreInitialActivitySeconds" value="90" />
+ <input type="hidden" name="sessionHardTimeoutSeconds" value="1200" />
+ <input type="hidden" name="ajaxRequestKeySuffix" value="0" />
+</form>
+
+<form name="Rd1Form" method="post" action="http://www.edline.net/Rd.page" style="display: none;">
+ <input type="hidden" name="rdUrl" value="" />
+</form>
+
+<form name="Rd2Form" method="post" action="http://www.edline.net/Rd.page" target="_blank" style="display: none;">
+ <input type="hidden" name="rdUrl" value="" />
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+
+    $(function(){
+
+    
+
+        hcOnDocumentReady();
+        
+    });//document ready
+
+
+
+
+
+function hcLogin()
+{
+    aefhLogin(false);
+}
+
+function aefhLogin(pIsLoginFieldsVisible)
+{
+    if (pIsLoginFieldsVisible)
+    {
+        var elem = document.getElementById('edlHeaderControlsLoginPane');
+
+        if (  (elem != null) && (elem != undefined)  )
+        {
+        	var frm = document.authenticationEntryFormForHeader;
+            aefhSaveAndClearBreadcrumbBorder();
+            frm.screenName.value = "";
+            frm.kclq.value = "";
+            elem.style.display = "block";
+            frm.screenName.focus();
+        }
+    }
+    else
+    {
+        submitEvent('secureLogin', 'TCNK=authenticationEntryComponent');
+    }
+}
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="edlMenuContainer" style="display:none;">
+
+
+
+<div id="edlMenuXmlData">
+  <div type="item" title="Home" id="homeItem" action="code:submitEvent('clickHome', 'TCNK=headerComponent')" sel="" gho="" ewrd=""></div>
+  <div type="menu" title="My Classes &amp; Shortcuts" id="myShortcutsItem" enabled="Y" width="330" gho="" menuAction="">
+    <div type="item" title="Sign In to see your classes and shortcuts" id="myShortcutsItemGuest" action="code:hcLogin()" sel="" gho="" ewrd=""></div>
+  </div>
+  <div type="menu" title="My Content" id="myContentsItem" enabled="Y" width="210" gho="" menuAction="">
+    <div type="item" title="Sign In to see your private content" id="myContents1" action="code:hcLogin()" sel="" gho="" ewrd=""></div>
+  </div>
+  <div type="menu" title="My Account" id="accountItem" enabled="Y" width="220" gho="" menuAction="">
+    <div type="item" title="Sign In to manage your account" id="account1" action="code:hcLogin()" sel="" gho="" ewrd=""></div>
+    <!--PRIVACY_SECTION_BEGIN_MARKER-->
+    <div type="item" title="Privacy &amp; Terms of Use" id="commandCenter2" action="code:submitEvent('viewPrivacyTerms')" sel="" gho="" ewrd=""></div>
+    <!--PRIVACY_SECTION_END_MARKER-->
+  </div>
+</div>
+
+
+
+</div>
+
+<script type="text/javascript">
+    hcMyEdlineXmlDataJQueryObj = $("#edlMenuXmlData");
+
+    
+        hcMyEdlineBackCompatXmlDataJQueryObj = hcMyEdlineXmlDataJQueryObj;
+    
+
+</script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+
+    function translateMenuOver(pEvent)
+    {
+        overrideMenuHiding = true;
+        showTranslateMenu(pEvent);
+    }
+
+
+    function translateMenuOut(pEvent)
+    {
+    }
+
+
+    function showTranslateMenu(pEvent)
+    {
+      // Hide the navbar menus if they are open:
+      hdrHideAllDropDownMenus();
+
+      var linkElem = document.getElementById("edlLangLink");
+      var linkElemOffset = $("#edlLangLink").offset();
+      var linkLeftEdge = linkElemOffset.left;
+      var linkBottomEdge = linkElemOffset.top + linkElem.offsetHeight;
+
+      translateMenu.moveTo(linkLeftEdge, linkBottomEdge + 1);
+      translateMenu.show();
+    }
+
+    function switchLang(lang)
+    {
+        if (translationDisabledMessage())
+        {
+            return;
+        }
+
+        submitEvent('language', 'TCNK=headerComponent;language='+lang);
+    }
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+            <!--Group when myEdlineBean built:6947933044216991970-->
+            <div id="ed-menuBarContainer">
+              <div id="ed-menuBar">
+                <div id="ed-leftPanel">
+                  <div class="ed-menuItem" id="home" aria-hidden="true">
+                    <div class="ed-menuButton" onclick="javascript:submitEvent('clickHome', 'TCNK=headerComponent')" role="button" tabindex="0" aria-label="Home"></div>
+                  </div><!--home-->
+                </div><!--ed-leftPanel-->
+                <div id="ed-rightPanel">
+                  <!--LOGIN_SECTION_BEGIN_MARKER-->
+                  <div class="ed-menuItem" id="logout">
+                    <div class="ed-menuButton notranslate" onclick="javascript:hcLogin();" role="button" tabindex="0">SIGN IN</div>
+                  </div><!--logout-->
+                  <!--LOGIN_SECTION_END_MARKER-->
+                  <!--USERNAME_SECTION_BEGIN_MARKER-->
+                  <div class="ed-menuItem" id="userName">
+                    <div class="ed-menuButton notranslate" role="button" tabindex="0">&nbsp;</div>
+                  </div><!--userName-->
+                  <!--USERNAME_SECTION_END_MARKER-->
+                  <div class="ed-menuItem" id="help">
+                    <div class="ed-menuButton notranslate" onclick="javascript:window.open('http://www.edline.com/docs/Edline_Help/guest/Edline_Guest.htm','edhelp','titlebar=yes,menubar=no,toolbar=no,location=yes,status=yes,resizable=yes,scrollbars=yes,fullscreen=no,width=1024,height=850');;" role="button" tabindex="0">HELP</div>
+                  </div><!--help-->
+                  <div id="ed-rightDropButtons">
+                    <!--VIEW_MENU_SECTION_BEGIN_MARKER-->
+                    <div class="ed-menuItem" id="view">
+                      <div class="ed-menuButton" role="button" tabindex="0" aria-label="View"></div>
+                      <div class="ed-dropDown">
+                        <h3 class="ed-dropHeader" tabindex="0">Choose How To View This Page</h3>
+                        <div class="ed-dropBGWrap dd300">
+                          <ul role="navigation">
+                            <li id="standardView"><a href="../../../../../20080331141923id_/http:/hem.bredband.net/arenamontanus/Mage/hitmarks" tabindex="0">Standard View</a></li>
+                            <li id="folderView"><a href="javascript:submitEvent('redirectToFolderOrListPage', 'TCNK=headerComponent;entid=6947933044216991970;forceResourceListView=true');" tabindex="0">List View</a></li>
+                          </ul>
+                        </div><!--ed-dropBGWrap-->
+                      </div><!--ed-dropDown-->
+                    </div><!--view-->
+                    <!--VIEW_MENU_SECTION_END_MARKER-->
+                    <!--LANGUAGE_MENU_SECTION_BEGIN_MARKER-->
+                    <div class="ed-menuItem" id="language">
+                      <div class="ed-menuButton" role="button" tabindex="0" aria-label="Language"></div>
+                      <div class="ed-dropDown">
+                        <h3 class="ed-dropHeader" tabindex="0">Please Select Your Language</h3>
+                        <div class="ed-dropBGWrap dd300">
+                          <ul class="notranslate" role="navigation">
+                            <li id="english" class="curLanguage"><a href="javascript:switchLang('en');" tabindex="0">English</a></li>
+                            <li id="spanish"><a href="javascript:switchLang('es');" tabindex="0">Spanish</a></li>
+                            <li id="french"><a href="javascript:switchLang('fr');" tabindex="0">French</a></li>
+                            <li id="german"><a href="javascript:switchLang('de');" tabindex="0">German</a></li>
+                            <li id="chinese_simplified"><a href="javascript:switchLang('zh-CN');" tabindex="0">Chinese Simplified</a></li>
+                            <li id="chinese_traditional"><a href="javascript:switchLang('zh-TW');" tabindex="0">Chinese Traditional</a></li>
+                            <li id="tagalog"><a href="javascript:switchLang('tl');" tabindex="0">Tagalog</a></li>
+                            <li id="vietnamese"><a href="javascript:switchLang('vi');" tabindex="0">Vietnamese</a></li>
+                            <li id="korean"><a href="javascript:switchLang('ko');" tabindex="0">Korean</a></li>
+                            <li id="italian"><a href="javascript:switchLang('it');" tabindex="0">Italian</a></li>
+                            <li id="russian"><a href="javascript:switchLang('ru');" tabindex="0">Russian</a></li>
+                            <li id="polish"><a href="javascript:switchLang('pl');" tabindex="0">Polish</a></li>
+                            <li id="portugese"><a href="javascript:switchLang('pt');" tabindex="0">Portugese</a></li>
+                            <li id="japanese"><a href="javascript:switchLang('ja');" tabindex="0">Japanese</a></li>
+                            <li id="greek"><a href="javascript:switchLang('el');" tabindex="0">Greek</a></li>
+                            <li id="hindi"><a href="javascript:switchLang('hi');" tabindex="0">Hindi</a></li>
+                            <li id="afrikaans"><a href="javascript:switchLang('af');" tabindex="0">Afrikaans</a></li>
+                            <li id="malay"><a href="javascript:switchLang('ms');" tabindex="0">Malay</a></li>
+                            <li id="catalan"><a href="javascript:switchLang('ca');" tabindex="0">Catalan</a></li>
+                            <li id="welsh"><a href="javascript:switchLang('cy');" tabindex="0">Welsh</a></li>
+                            <li id="danish"><a href="javascript:switchLang('da');" tabindex="0">Danish</a></li>
+                            <li id="estonian"><a href="javascript:switchLang('et');" tabindex="0">Estonian</a></li>
+                            <li id="filipino"><a href="javascript:switchLang('tl');" tabindex="0">Filipino</a></li>
+                            <li id="irish"><a href="javascript:switchLang('ga');" tabindex="0">Irish</a></li>
+                            <li id="galician"><a href="javascript:switchLang('gl');" tabindex="0">Galician</a></li>
+                            <li id="croatian"><a href="javascript:switchLang('hr');" tabindex="0">Croatian</a></li>
+                            <li id="indonesian"><a href="javascript:switchLang('id');" tabindex="0">Indonesian</a></li>
+                            <li id="swahili"><a href="javascript:switchLang('sw');" tabindex="0">Swahili</a></li>
+                            <li id="latvian"><a href="javascript:switchLang('lv');" tabindex="0">Latvian</a></li>
+                            <li id="lithuanian"><a href="javascript:switchLang('lt');" tabindex="0">Lithuanian</a></li>
+                            <li id="hungarian"><a href="javascript:switchLang('hu');" tabindex="0">Hungarian</a></li>
+                            <li id="maltese"><a href="javascript:switchLang('mt');" tabindex="0">Maltese</a></li>
+                            <li id="dutch"><a href="javascript:switchLang('nl');" tabindex="0">Dutch</a></li>
+                            <li id="norwegian"><a href="javascript:switchLang('no');" tabindex="0">Norwegian</a></li>
+                            <li id="romanian"><a href="javascript:switchLang('ro');" tabindex="0">Romanian</a></li>
+                            <li id="albanian"><a href="javascript:switchLang('sq');" tabindex="0">Albanian</a></li>
+                            <li id="slovak"><a href="javascript:switchLang('sk');" tabindex="0">Slovak</a></li>
+                            <li id="slovenian"><a href="javascript:switchLang('sl');" tabindex="0">Slovenian</a></li>
+                            <li id="finnish"><a href="javascript:switchLang('fi');" tabindex="0">Finnish</a></li>
+                            <li id="swedish"><a href="javascript:switchLang('sv');" tabindex="0">Swedish</a></li>
+                            <li id="turkish"><a href="javascript:switchLang('tr');" tabindex="0">Turkish</a></li>
+                            <li id="icelandic"><a href="javascript:switchLang('is');" tabindex="0">Icelandic</a></li>
+                            <li id="czech"><a href="javascript:switchLang('cs');" tabindex="0">Czech</a></li>
+                            <li id="belarusian"><a href="javascript:switchLang('be');" tabindex="0">Belarusian</a></li>
+                            <li id="bulgarian"><a href="javascript:switchLang('bg');" tabindex="0">Bulgarian</a></li>
+                            <li id="macedonian"><a href="javascript:switchLang('mk');" tabindex="0">Macedonian</a></li>
+                            <li id="ukrainian"><a href="javascript:switchLang('uk');" tabindex="0">Ukrainian</a></li>
+                            <li id="serbian"><a href="javascript:switchLang('sr');" tabindex="0">Serbian</a></li>
+                            <li id="thai"><a href="javascript:switchLang('th');" tabindex="0">Thai</a></li>
+                          </ul>
+                        </div><!--ed-dropBGWrap-->
+                      </div><!--ed-dropDown-->
+                    </div><!--language-->
+                    <!--LANGUAGE_MENU_SECTION_END_MARKER-->
+                    <!--SOCIAL_MENU_SECTION_BEGIN_MARKER-->
+                    <div class="ed-menuItem" style="display:none" id="social">
+                      <div class="ed-menuButton" role="button"></div>
+                      <div class="ed-dropDown">
+                        <h3 class="ed-dropHeader" tabindex="0">Share This Page</h3>
+                        <div class="ed-dropBGWrap dd300">
+                          <ul role="navigation">
+                            <li id="twitterMenuItem"><div style="height:30px;width:185px;"></div></li>
+                            <li id="googlePlusMenuItem"><div style="height:30px;width:185px;"></div></li>
+                            <li id="facebookMenuItem"><div style="height:30px;width:185px;"></div></li>
+                          </ul>
+                        </div><!--ed-dropBGWrap-->
+                      </div><!--ed-dropDown-->
+                    </div><!--social-->
+                    <!--SOCIAL_MENU_SECTION_END_MARKER-->
+                  </div><!--ed-rightDropButtons-->
+                </div><!--ed-rightPanel-->
+                <div class="ed-clearfix"></div>
+              </div><!--ed-menuBar-->
+            </div><!--ed-menuBarContainer-->
+
+
+
+
+
+
+
+
+
+
+  <form name="hcLostPasswordForm" action="http://www.edline.net/post/GroupHome.page" method="post">
+    <input type="hidden" name="TCNK" value="authenticationEntryComponent" />
+    <input type="hidden" name="clickLostPasswordEvent" value="1" />
+  </form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+
+function initForms()
+{
+	var frm = window.document.authenticationEntryFormForHeader;
+	frm.kclq.value = "";
+	frm.ajaxSupported.value = isAjaxSupported();
+}
+
+
+
+function debounceEnterKey(frm, eventNm)
+{ 
+// This test occassionally failed (some users on Unix) and they told support
+// they could not log in because of this message even though they did not double click.
+//  if (frm.enterClicked.value == true)
+//  {
+//    alert("Please do not double click on buttons.");
+//    return false;
+//  }
+
+  frm.ajaxSupported.value = isAjaxSupported();
+  eventNm.value = "1";
+  frm.enterClicked.value = true;
+  frm.submit();
+  return true;
+}
+
+
+function debounceEnterKeyToEntid(frm, eventNm, entid)
+{ 
+// This test occassionally failed (some users on Unix) and they told support
+// they could not log in because of this message even though they did not double click.
+//  if (frm.enterClicked.value == true)
+//  {
+//    alert("Please do not double click on buttons.");
+//    return false;
+//  }
+
+  frm.ajaxSupported.value = isAjaxSupported();
+  eventNm.value = "1";
+  frm.targetEntid.value = entid;
+  frm.enterClicked.value = true;
+  frm.submit();
+  return true;
+}
+
+
+function handleSubmitOnEnter(e)
+{
+    
+    if (window.ghKeyPressHandler != null)
+    {
+        if ( typeof(ghKeyPressHandler == "function") )
+        {
+            ghKeyPressHandler(e);
+        }
+    }
+    
+    var keyPressed = '';
+
+    var isMSIE = navigator.userAgent.indexOf('MSIE') != -1;
+
+    if (isMSIE)
+        keyPressed = String.fromCharCode(window.event.keyCode);
+    else
+        keyPressed = String.fromCharCode(e.which);
+
+    if (keyPressed == "\r" || keyPressed == "\n")
+    {
+        
+        var authenticationFormToUse = null;
+
+        if (document.authenticationEntryFormForHeader && !document.authenticationEntryForm)
+        {
+            authenticationFormToUse = document.authenticationEntryFormForHeader;
+        }
+        else if (!document.authenticationEntryFormForHeader && document.authenticationEntryForm)
+        {
+            authenticationFormToUse = document.authenticationEntryForm;
+        }
+
+        if (authenticationFormToUse == null)
+        {
+            var headerFieldsFilledIn = 0;
+            if (document.authenticationEntryFormForHeader)
+            {
+                if (document.authenticationEntryFormForHeader.screenName.value.length > 0)
+                {
+                    headerFieldsFilledIn++;
+                }
+                if (document.authenticationEntryFormForHeader.kclq.value.length > 0)
+                {
+                    headerFieldsFilledIn++;
+                }
+            }
+
+            var bodyFieldsFilledIn = 0;
+            if (document.authenticationEntryForm)
+            {
+                if (document.authenticationEntryForm.screenName.value.length > 0)
+                {
+                    bodyFieldsFilledIn++;
+                }
+                if (document.authenticationEntryForm.kclq.value.length > 0)
+                {
+                    bodyFieldsFilledIn++;
+                }
+            }
+
+            if (headerFieldsFilledIn > bodyFieldsFilledIn)
+            {
+                authenticationFormToUse = document.authenticationEntryFormForHeader;
+            }
+
+            if (bodyFieldsFilledIn > headerFieldsFilledIn)
+            {
+                authenticationFormToUse = document.authenticationEntryForm;
+            }
+        }
+
+        // If no form or a search is being performed
+        if ( authenticationFormToUse == null || (typeof searchCtlr !== "undefined" && searchCtlr && document.forms["hcSearchForm"].token.value != '') )
+        {
+            window.document.onkeypress = doNothing;
+        }
+        else
+        {
+            if (authenticationFormToUse.kclq.value == "")
+            {   
+                authenticationFormToUse.kclq.focus();
+            }
+            else
+            {
+                authenticationFormToUse.submitButton.click();
+    
+                window.document.onkeypress = doNothing;
+            }
+        }
+
+
+        return false;
+    }
+
+    return true;
+}
+
+
+    if (window.document.captureEvents != null){
+        window.document.captureEvents(Event.KEYPRESS);
+    }
+    window.document.onkeypress = handleSubmitOnEnter;
+
+
+
+function aefhLogin(pIsLoginFieldsVisible)
+{
+    if (pIsLoginFieldsVisible)
+    {
+        var elem = document.getElementById('edlHeaderControlsLoginPane');
+
+        if (  (elem != null) && (elem != undefined)  )
+        {
+        	var frm = document.authenticationEntryFormForHeader;
+            aefhSaveAndClearBreadcrumbBorder();
+            frm.screenName.value = "";
+            frm.kclq.value = "";
+            elem.style.display = "block";
+            frm.screenName.focus();
+        }
+    }
+    else
+    {
+        submitEvent('secureLogin', 'TCNK=authenticationEntryComponent');
+    }
+}
+
+
+function aefhCancelLogin()
+{
+    var elem = document.getElementById('edlHeaderControlsLoginPane');
+    if (  (elem != null) && (elem != undefined)  )
+    {
+        aefhRestoreBreadcrumbBorder();
+        elem.style.display = "none";
+    }
+}
+
+
+function aefhSaveAndClearBreadcrumbBorder()
+{
+    var elem = $("#ed-navBarContainer").length ? document.getElementById('ed-navBarContainer') : document.getElementById('edlNavBreadcrumbPane');
+    if (  (elem != null) && (elem != undefined)  )
+    {
+        nbGlobalTopBorderStyle = elem.style.borderTop;
+        elem.style.borderTop = "";
+    }
+}
+
+
+function aefhRestoreBreadcrumbBorder()
+{
+    var elem = $("#ed-navBarContainer").length ? document.getElementById('ed-navBarContainer') : document.getElementById('edlNavBreadcrumbPane');
+    if (  (elem != null) && (elem != undefined)  )
+    {
+        elem.style.borderTop = nbGlobalTopBorderStyle;
+    }
+}
+
+
+<!--
+function checkBrowserTime()
+{
+    var edlineDateString       = "Tuesday, April 9, 2013 3:43PM CDT";
+    var edlineTimeInMillis     = 1365540184479;
+    var browserTimeInMillis    = (new Date()).getTime();
+    var timeDifferenceInMillis = (edlineTimeInMillis  - browserTimeInMillis);
+    var timeDifferenceInDays   = timeDifferenceInMillis / 86400000;
+
+    if ((timeDifferenceInDays < -2) || (timeDifferenceInDays > 2))
+    {
+        alert("Your computer clock reads " + (new Date()).toLocaleString() + " \r\nwhich is off by more than 24 hours. Please correct your computer clock.");
+
+    }
+}
+
+
+checkBrowserTime();
+
+//-->
+</script>
+
+
+<div class="edlHeaderControlsPane" id="edlHeaderControlsLoginPane" style="display: none; border-top: 1px solid #ffffff; border-bottom: 1px solid #ffffff;">
+        <form name="authenticationEntryFormForHeader"
+            action="https://www.edline.net/post/GroupHome.page" method="post" >    
+            <input type="hidden" name="TCNK" value="authenticationEntryComponent" />
+            <input type="hidden" name="submitEvent" value="" />
+            <input type="hidden" name="guestLoginEvent" value="" />
+            <input type="hidden" name="enterClicked" value="false" />
+            <input type="hidden" name="bscf" value="" />
+            <input type="hidden" name="bscv" value="" />
+            <input type="hidden" name="targetEntid" value="" />
+            <input type="hidden" name="ajaxSupported" value="" />
+            <input type="hidden" name="headerLoginUsed" value="true" />
+
+    <table width="100%" cellspacing="1" cellpadding="1" border="0">
+
+        <tr>
+            <td style="white-space: nowrap;">
+                <span class="edlHeaderControlsBtnText">
+                &nbsp;&nbsp;<label for="screenName">Screen Name:</label>
+                </span>
+            </td>
+            <td>
+                <input type="text" id="screenName" name="screenName" size="16" maxlength="32"  style="padding: 0px 1px; font-size: 9pt;" tabindex="1" />
+            </td>
+            <td>
+                <input type="button" name="submitButton" value="Sign In" onclick="return debounceEnterKeyToEntid(document.authenticationEntryFormForHeader, document.authenticationEntryFormForHeader.submitEvent, '6947933044216991970')" tabindex="3" />
+            </td>
+            <td>
+                &nbsp;&nbsp;
+            </td>
+            <td>
+                <span class="edlHeaderControlsBtnText">
+                    <u><a href="javascript:document.hcLostPasswordForm.submit()">Click here if you forgot your screen name or password</a></u>
+                </span>
+            </td>
+        </tr>
+        
+        <tr>
+            <td style="white-space: nowrap;">
+                <span class="edlHeaderControlsBtnText">
+                &nbsp;&nbsp;<label for="kclq">Password:</label>
+                </span>
+            </td>
+            <td>
+                <input type="password" id="kclq" name="kclq"  size="16" maxlength="104"  style="padding:0px 1px; font-size: 9pt;" tabindex="2" />
+            </td>
+
+            <td>
+                <input type="button" name="cancelButton" value="Cancel" onclick="aefhCancelLogin()" tabindex="4" />    
+            </td>
+
+            <td>
+                &nbsp;&nbsp;
+            </td>
+
+            <td>
+                <span class="edlHeaderControlsBtnText">
+                    <u><a href="javascript:submitEvent('activate')">Click here to Sign Up</a></u>
+                </span>
+            </td>
+        </tr>
+
+    </table>
+        </form>
+
+        
+</div>
+
+
+
+<script type="text/javascript">
+window.document.cookie="bpcc=tu";
+
+  var frm = window.document.authenticationEntryFormForHeader;
+  frm.bscv.value = window.document.cookie;
+  frm.bscf.value = (window.document.cookie.indexOf("bpcc=tu") >= 0)
+    ? "1" : "0";
+
+
+
+
+try
+{
+  
+  if (frm.screenName.offsetWidth > 0)
+  {
+	  frm.screenName.focus();
+      frm.screenName.select();
+  }
+}
+catch(e)
+{
+
+}                                             
+</script>
+
+
+<!-- <input type="hidden" name="targetEntid" value="6947933044216991970" /> -->
+
+
+
+
+
+<div id="edlHeaderArea" style="position: relative;">
+
+
+    
+        
+            
+                
+                
+                <div id="edlThemedHeaderGraphicArea"><img id="edlHeaderImage" src="http://www.edline.net/dynimg/_SUD2p_/hdrImageGroupEntid/6947933044216991970/hdrImageLastMod/1311195281933/hdrImageAttrName/header_image_2_data/hdrImageFileName/ycsd-header.jpg" alt="" title="" /></div>
+            
+        
+
+        
+
+</div>
+
+<script type="text/javascript">
+
+    
+
+    if (typeof suTrimLeadingTrailingSpace != "undefined")
+    {
+        var headerAreaQuery = $("#edlHeaderArea");
+
+        if (suTrimLeadingTrailingSpace(headerAreaQuery.html() ).length == 0)
+        {
+            headerAreaQuery.hide();//css("display","none");
+        }
+    }
+
+</script>
+
+
+
+
+
+
+  <script type="text/javascript">
+    var ga_analytics_data = {
+  "furl": "/pages/QLMS",
+  "ids": ["UA-7290031-3"],
+  "role": "Guest",
+  "wmids": ["UA-19625889-3"]
+};
+  </script>
+  <script type="text/javascript" src="http://www.edline.net/jscripts/google_analytics.js?version=2013b-q1-2-p29081">
+  </script>
+
+
+<script type="text/javascript">
+    function translationDisabledMessage()
+    {
+
+        return false;
+
+    }
+
+
+
+</script>
+
+
+                    
+
+                        <div id="edlThemeRootZoneFrame" class="edlModernPageContent"
+                             style="width:861px;">
+                            <table id="ghOuterTable" class="ghOuterTable" style="height: 100%;" cellpadding="0" cellspacing="0" cellborder="0" summary="">
+  <tr>
+    <td valign="top">
+<div id="edlThemeTopsectionZoneFrame">
+  <div id="edlThemeTopsectionZonePane" align="left">
+    <div id="edlThemeTopsectionZoneContent" align="left" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+    var docProps = {};
+    mmAddEmbedInfo(docProps);
+    var isDesignMode = false;
+    var isEditingMode = false;
+
+    
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="dbWidener_6947934157177955540" class="dbWidener" style="width:861px;visibility:hidden;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="edlElement_6947934157177955540_document" class="edlDocumentBox" 
+     
+>
+
+    
+
+    
+    <div id="edlDocumentBoxHeaderWrapper_6947934157177955540"
+         style="width: 861;display:none;">
+        
+
+    </div>
+    
+
+
+    
+    
+
+
+
+
+<iframe name="iFrame_edlElement_6947934157177955540_document" id="iFrame_edlElement_6947934157177955540_document" src="http://www.edline.net/DocViewBody.page?currentDocEntid=6947934157177955540&returnPage=%2Fpages%2FQLMS&skipSettingPreviousGetUrl=true&lastMod=1337697941087&inDocBox=true&resetCurrentGroupToEntid=6947933044216991970&overriddenWidth=861&overriddenBackgroundColor=%23ffffff&overriddenTextColor=%23000000&overriddenFont=font%3Anormal+normal+normal+9pt%2Fnormal+Arial%2C+Helvetica%2C+sans-serif%3B&boxNetWidth=845&autofitImage=true&iframeWidth=861&iframeHeight=280" style=" overflow: hidden;" frameborder="0" marginheight="0" marginwidth="0" width="861" height="280"  title="Document">
+    <p>IFRAME support required.</p>
+</iframe>
+
+    
+
+    
+
+<script type="text/javascript">
+
+    
+
+    var pinnedDocId = "Doc6947934157177955540";
+
+    var ghPinnedDocInfo = new GhPinnedDocInfo(
+            false,
+            pinnedDocId,
+            "6947934157177955540",
+            "6947934157177955540",
+            "iFrame_edlElement_6947934157177955540_document",
+            'iFrame_edlElement_6947934157177955540_document',
+            '*',
+            'edlThemeTopsectionZoneFrame',
+            0,
+            0,
+            861.0,
+            280.0,
+            false,
+            false,
+            true,
+            false,
+            280,
+            '#ffffff',
+            false,
+            true,
+            false,
+            false,
+            '845',
+            8,
+            false,
+            false
+    );
+
+    ghPinnedDocsToLoad[pinnedDocId] = ghPinnedDocInfo;
+
+</script>
+
+
+    
+
+</div>
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+    ghPotentiallyGiveBoxPermissionForMouseOver("6947933085810661794.folder", "");
+
+    
+
+    
+
+    
+    
+    
+
+    
+
+
+    
+    
+    
+
+</script>
+
+
+
+<div id="edlElement_6947933085810661794_folder" class="edlBoxArea"
+     style="width: 844px; position: relative; margin-bottom: 0px;"
+        
+>
+
+    
+
+    
+
+    
+
+        <div id="fmMenuBar_6947933085810661794_PlaceHolderDiv" style="padding: 2px 6px;" ></div>
+
+    
+
+</div>
+
+
+
+<iframe name="fmHiddenResourcesIFrame_6947933085810661794" id="fmHiddenResourcesIFrame_6947933085810661794" class="fmHiddenResources" style="display:none;" role="presentation"
+    src="http://www.edline.net/ContentsData.page?key=6947933085810661794&amp;menuRootFolderEntid=6947933085810661794&amp;translatable=false&amp;jspFileParm=FolderMenu&amp;calledFromGroupHome=true&amp;maxClientItems=20&amp;skipSettingPreviousGetUrl=true"
+    width="500" height="500" title="Top Resources">
+</iframe>
+
+
+
+
+<form id="fmOverrideMenuItemMouseEventsForm_6947933085810661794" name="fmOverrideMenuItemMouseEventsForm_6947933085810661794" method="post" action="http://www.edline.net/post/GroupHome.page">
+</form>
+
+<form id="fmOverrideMenuBarItemMouseEventsForm_6947933085810661794" name="fmOverrideMenuBarItemMouseEventsForm_6947933085810661794" method="post" action="http://www.edline.net/post/GroupHome.page">
+</form>
+
+<div id="fmStatusDiv_6947933085810661794" style="position: absolute; top: 1px; left: 350px; z-index: 0; border: 2px dotted black;
+    padding: 5px; margin: 2px; display: none; background-color: white; color: black; height: 16px; width: 300px;">
+    Please wait ... retrieving data from server
+</div>
+
+
+
+
+<script type="text/javascript">
+    
+    
+    var ghMenuInfo = new GhMenuInfo('6947933085810661794',
+                                    "Menu",
+                                    'edlElement_6947933085810661794_folder',
+                                    'false',
+                                    'fmMenuBar_6947933085810661794_PlaceHolderDiv',
+                                    'true',
+                                    'true',
+                                    'true',
+                                    '336600',
+                                    '336600',
+                                    'edlThemeTopsectionZoneFrame',
+                                    'edlThemeTopsectionZoneContent',
+                                    'false',
+                                    '6947933085810661794'
+                                    );
+    ghMenusToLoad['6947933085810661794'] = ghMenuInfo;
+
+</script>
+
+    </div>
+  </div>
+</div>
+<div id="edlThemeMainsectionZoneFrame">
+  <div id="edlThemeMainsectionZonePane" align="left">
+    <div id="edlThemeMainsectionZoneContent" align="left" >
+<table style="height: 100%;" cellpadding="0" cellspacing="0" cellborder="0" summary="">
+  <tr>
+<td valign="top"><div id="edlThemeControlZoneFrame" style="width: 280px; height: 100%; " class="zoneNeedingHeightAdj zoneFrame mainsection zoneToApplyMinHeight">
+  <div id="edlThemeControlZonePane" align="left">
+    <div id="edlThemeControlZoneContent" align="left" style="width: 280px;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+ghPotentiallyGiveBoxPermissionForMouseOver("contents.box", "");
+
+
+
+
+function cbViewItm(res_entid)
+{
+  submitEvent('contentsResourceView', 'TCNK=contentsBoxComponent;targetResEntid='+res_entid);
+}
+
+</script>
+
+
+<div id="edlContentsBoxArea" class="edlBoxArea" style="position:relative;" >
+
+
+
+    
+
+
+    
+            
+            <div id="edlContentsBoxAreaBoxTitle" class="edlBoxTitle">
+<div id="edlContentsBoxAreaBoxTitleInnerWrapper" class="edlBoxTitleInnerWrapper" style="overflow:hidden;">
+<div style="float:right;" class="edlBoxHdrIcnFloatR"><img src="http://www.edline.net/images/transparent.gif" style="margin-left:40px;" alt="" /></div>
+<a id="edlContentsBoxAreaTitleLinkScript" href="javascript:submitEvent('showMore', 'TCNK=contentsBoxComponent')" title="" onmouseover="ghTouchMenuBarForIE();" onmouseout="ghTouchMenuBarForIE();" tabindex="0">Contents</a></div>
+</div>
+
+
+            
+
+    
+
+
+  <div class="edlBoxContent" id="ContentsBoxContent" name="BC_edlContentsBoxArea" style="">
+    <div class="edlBoxListElement">
+
+
+          <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="Neutral"><a id="contents_bi__vis_6947933188207334514" href="http://www.edline.net/pages/QLMS/Activities" title="Welcome to Activities.">Activities</a></span></td></tr></table></div>
+
+            
+    
+
+          <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="Neutral"><a id="contents_bi__vis_6947933221112122402" href="http://www.edline.net/pages/QLMS/Athletic_Boosters" title="This Club is working to support the school's Athletic Department by raising funds to maintain and purchase sports equipment, team uniforms and pay for officials.  York County does not provide funds specifically for the sports program and it's up to us, the parents and community, to support our kids.WE NEED YOU!! PARENTS ARE NEEDED TO WORK CONCESSIONS FOR HOME GAMES FOR ALL SPORTS. WE NEED A PARENT OR TWO TO HELP COORDINATE THE BOOSTER CLUB.ADMISSION FOR ALL MIDDLE SCHOOL GAMES IS $3.00FOR MIDDLE SCHOOL AND UP  contact Susan McTheny   220-4088 smctheny@ycsd.york.va.us">Athletic Boosters</a></span></td></tr></table></div>
+
+            
+    
+
+          <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="Neutral"><a id="contents_bi__vis_6947933180867415682" href="http://www.edline.net/pages/QLMS/Athletics" title="Welcome to Athletics. FOLLOW ON TWITTER FOR GAME CANCELLATIONS AND MAKE UP GAMES.                                #qlmsathletics ADMISSION TO ALL MIDDLE SCHOOLGAMES IS $3.00 FOR MIDDLE SCHOOL AND UP ATHLETIC FEES  ARE $50.00/SPORTTWO SEASON MAXIMUM;THIRD SEASON NO FEESPRING FEES DUE BY MARCH 8,2013  ALL SCHEDULES ARE TENTATIVE AND SUBJECT TO CHANGE  GOGGLES REQUIRED FOR 2011 FIELD HOCKEY SEASON Pleas read approved list under Fall sports  Baseball players Bats cannot have a composite barrel. Must be alloy.">Athletics</a></span></td></tr></table></div>
+
+            
+     
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="/images/status/neutral.gif"><a id="contents_bi__vis_6947934255103345236" href="http://www.edline.net/pages/QLMS/School_Info/Attendance">Attendance</a></span></td></tr></table></div>
+
+
+
+ 
+
+          <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="Neutral"><a id="contents_bi__vis_6947934231814158372" href="http://www.edline.net/files/_UMBmR_/0e3affcfac5a83da3745a49013852ec4/BYOT_Policy_Agreement_Draft_081611.doc" target=" target="_blank"">BYOT Contract</a></span></td></tr></table></div>
+
+            
+     
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="/images/status/neutral.gif"><a id="contents_bi__vis_6947933335995435636" href="https://www.edline.net/pages/QLMS/School_Info/QLMS_Clinic">Clinic</a></span></td></tr></table></div>
+
+
+
+ 
+
+          <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="Neutral"><a id="contents_bi__vis_6947933855814696852" href="http://www.edline.net/pages/QLMS/Fit_to_Run__Fit_to_Dream">Fit to Run, Fit to Dream</a></span></td></tr></table></div>
+
+            
+     
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="/images/status/neutral.gif"><a id="contents_bi__vis_6947934777805046404" href="http://www.edline.net/pages/QLMS/School_Info/Guidance/Green_Zone">Green Zone</a></span></td></tr></table></div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="/images/status/neutral.gif"><a id="contents_bi__vis_6947933256834908292" href="https://www.edline.net/pages/QLMS/School_Info/Guidance">Guidance</a></span></td></tr></table></div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="/images/status/neutral.gif"><a id="contents_bi__vis_6947933424210968420" href="http://www.edline.net/pages/QLMS/Students/Library_Media_Center">Library</a></span></td></tr></table></div>
+
+
+
+ 
+
+          <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="Neutral"><a id="contents_bi__vis_6947933815715941602" href="http://www.edline.net/pages/QLMS/Literary_Arts_Magazine" title="Welcome to Literary Arts Magazine.">Literary Arts Magazine</a></span></td></tr></table></div>
+
+            
+    
+
+          <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="Neutral"><a id="contents_bi__vis_6947934985736310148" href="http://www.edline.net/pages/QLMS/LiveBinders" title="LiveBinders">LiveBinders</a></span></td></tr></table></div>
+
+            
+     
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="/images/status/neutral.gif"><a id="contents_bi__vis_6947933199103050740" href="https://www.edline.net/pages/QLMS/School_Info/mSAM">Middle School Arts Magnet</a></span></td></tr></table></div>
+
+
+
+ 
+
+          <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="Neutral"><a id="contents_bi__vis_6947933084518052498" href="http://www.edline.net/pages/QLMS/Parents">Parents</a></span></td></tr></table></div>
+
+            
+     
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="/images/status/neutral.gif"><a id="contents_bi__vis_6947933193486179780" href="http://www.edline.net/pages/QLMS/Parents/PTA">PTA</a></span></td></tr></table></div>
+
+
+
+ 
+                <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/transparent.gif" tabindex="-1" alt="" /></td><td valign="top" class="edlBoxListMoreNew"><span class="edlBoxListMore"><a href="javascript:submitEvent('showMore', 'TCNK=contentsBoxComponent')">More Contents...</a></span></td></tr></table></div>
+
+    
+    
+        </div>
+    </div>
+    
+    
+    
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+    ghPotentiallyGiveBoxPermissionForMouseOver("links.box", "");
+
+    
+
+</script>
+
+
+<div id="edlLinksBoxArea" class="edlBoxArea" style="position:relative;" >
+
+
+
+    
+
+        
+        <div id="edlLinksBoxAreaBoxTitle" class="edlBoxTitle">
+<div id="edlLinksBoxAreaBoxTitleInnerWrapper" class="edlBoxTitleInnerWrapper" style="overflow:hidden;">
+<div style="float:right;" class="edlBoxHdrIcnFloatR"><img src="http://www.edline.net/images/transparent.gif" style="margin-left:20px;" alt="" /></div>
+<a id="edlLinksBoxAreaTitleLinkScript" href="http://www.edline.net/pages/QLMS/Links" title="" onmouseover="ghTouchMenuBarForIE();" onmouseout="ghTouchMenuBarForIE();" tabindex="0">Links</a></div>
+</div>
+
+
+        
+
+    
+
+
+  <div class="edlBoxContent" id="LinkBoxContent" name="BC_edlLinksBoxArea" style="">
+    <div class="edlBoxListElement">
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="/images/status/neutral.gif"><a id="links_bi__vis_6947934681092089300" href="http://osp.osmsinc.com/yorkva/" target="_blank">Athletic Participation Fee Online Payment</a></span></td></tr></table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="/images/status/neutral.gif"><a id="links_bi__vis_6947933073433565524" href="http://yorkcountyschools.org/default.aspx" title="York County School Division Website" target="_blank">Division Website</a></span></td></tr></table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="/images/status/neutral.gif"><a id="links_bi__vis_6947934184819524260" href="http://yorkcountyschools.org/aboutUs/emergencyInfo/default.aspx" title="Emergency Information" target="_blank">Emergency Information</a></span></td></tr></table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="/images/status/neutral.gif"><a id="links_bi__vis_6947934185847666068" href="http://yorkcountyschools.org/parents/internetSafety/default.aspx" title="Internet Safety" target="_blank">Internet Safety</a></span></td></tr></table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="/images/status/neutral.gif"><a id="links_bi__vis_6947933722778757620" href="http://yorkcountyschools.org/parents/studentInfo/lunchMenu.aspx" title="Lunch &amp; Breakfast Menus" target="_blank">Lunch</a></span></td></tr></table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="/images/status/neutral.gif"><a id="links_bi__vis_6947934551435504820" href="http://queenslakemiddleschool.eventbrite.com/" target="_blank">Panther Path Parent Registration For Edline Training</a></span></td></tr></table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="/images/status/neutral.gif"><a id="links_bi__vis_6947934185814095012" href="http://yorkcountyschools.org/parents/parentResources/default.aspx" title="Parent Resources" target="_blank">Parent Resources</a></span></td></tr></table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="/images/status/neutral.gif"><a id="links_bi__vis_6947934184847738164" href="http://yorkcountyschools.org/docs/ProgramofStudies.pdf" title="Program of Studies" target="_blank">Program of Studies</a></span></td></tr></table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="/images/status/neutral.gif"><a id="links_bi__vis_6947933081449665764" href="http://yorkcountyschools.org/parents/enrollment/default.aspx" title="Student Enrollment" target="_blank">Registration</a></span></td></tr></table></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/listArrowBlack.gif" tabindex="-1" alt="" /></td><td valign="top"><span class="/images/status/neutral.gif"><a id="links_bi__vis_6947934183230410276" href="http://yorkcountyschools.org/docs/studentHandbook.pdf" title="Student Handbook" target="_blank">Student Handbook</a></span></td></tr></table></div>
+
+
+
+
+        </div>
+
+        
+
+        
+                        <div class="edlBoxListItem"><table class="edlBoxListItemTable" summary=""><tr><td valign="top" width="10"><img class="edlBoxListItemArrow" src="http://www.edline.net/images/transparent.gif" tabindex="-1" alt="" /></td><td valign="top" class="edlBoxListMoreNew"><span class="edlBoxListMore"><a href="javascript:submitEvent('showMore', 'TCNK=linkBoxComponent')">More Links...</a></span></td></tr></table></div>
+
+    
+        
+
+        
+
+    </div>
+    
+    
+    
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+    var docProps = {};
+    mmAddEmbedInfo(docProps);
+    var isDesignMode = false;
+    var isEditingMode = false;
+
+    
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="dbWidener_6947934125158996756" class="dbWidener" style="width:279px;visibility:hidden;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="edlElement_6947934125158996756_document" class="edlDocumentBox" 
+     
+>
+
+    
+
+    
+    <div id="edlDocumentBoxHeaderWrapper_6947934125158996756"
+         style="width: 279;">
+        
+
+                <div id="edlElement_6947934125158996756_documentBoxTitle" class="edlBoxTitle">
+<div id="edlElement_6947934125158996756_documentBoxTitleInnerWrapper" class="edlBoxTitleInnerWrapper" style="overflow:hidden;">
+<div style="float:right;" class="edlBoxHdrIcnFloatR"><img src="http://www.edline.net/images/transparent.gif" style="margin-left:20px;" alt="" /></div>
+<a id="edlElement_6947934125158996756_documentTitleLinkScript" href="http://www.edline.net/pages/QLMS/Design/assets/Contact_Us" title="" onmouseover="ghTouchMenuBarForIE();" onmouseout="ghTouchMenuBarForIE();" tabindex="0">Contact Us</a></div>
+</div>
+
+
+
+                
+
+    </div>
+    
+
+
+    
+    
+
+
+
+
+<iframe name="iFrame_edlElement_6947934125158996756_document" id="iFrame_edlElement_6947934125158996756_document" src="http://www.edline.net/DocViewBody.page?currentDocEntid=6947934125158996756&returnPage=%2Fpages%2FQLMS&skipSettingPreviousGetUrl=true&lastMod=1311594273350&inDocBox=true&resetCurrentGroupToEntid=6947933044216991970&overriddenWidth=279&overriddenBackgroundColor=%23ffffff&overriddenTextColor=%23000000&overriddenFont=font%3Anormal+normal+normal+9pt%2Fnormal+Arial%2C+Helvetica%2C+sans-serif%3B&boxNetWidth=263&autofitImage=true&iframeWidth=279&iframeHeight=110" style=" " frameborder="0" marginheight="0" marginwidth="0" width="279" height="110"  title="Document">
+    <p>IFRAME support required.</p>
+</iframe>
+
+    
+
+    
+
+<script type="text/javascript">
+
+    
+
+    var pinnedDocId = "Doc6947934125158996756";
+
+    var ghPinnedDocInfo = new GhPinnedDocInfo(
+            false,
+            pinnedDocId,
+            "6947934125158996756",
+            "6947934125158996756",
+            "iFrame_edlElement_6947934125158996756_document",
+            'iFrame_edlElement_6947934125158996756_document',
+            '300',
+            'edlThemeControlZoneFrame',
+            20,
+            0,
+            0.0,
+            0.0,
+            false,
+            false,
+            true,
+            false,
+            110,
+            '#ffffff',
+            false,
+            false,
+            true,
+            false,
+            '263',
+            8,
+            false,
+            false
+    );
+
+    ghPinnedDocsToLoad[pinnedDocId] = ghPinnedDocInfo;
+
+</script>
+
+
+    
+
+</div>
+
+
+
+
+   
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+</div>
+</td><td valign="top"><div id="edlThemeMainZoneFrame" style="width: 540px; height: 100%; " class="zoneNeedingHeightAdj zoneFrame mainsection zoneToApplyMinHeight">
+  <div id="edlThemeMainZonePane" align="left">
+    <div id="edlThemeMainZoneContent" align="left" style="width: 540px;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+    ghPotentiallyGiveBoxPermissionForMouseOver("6947934730732534258.folder", "");
+    ghPinnedSlideShows["6947934730732534258"] = true;
+
+    
+
+    
+
+    
+    
+    
+
+    
+
+
+    
+    
+    
+
+</script>
+
+
+<div id="edlElement_6947934730732534258_folder" class="edlBoxArea"
+     style="position:relative;"
+        
+        >
+
+
+
+    
+    
+
+            
+
+            
+
+
+
+
+
+
+  <div class="edlBoxContent" id="edlElement_6947934730732534258_folderContents" name="BC_edlElement_6947934730732534258_folder"
+       style="padding:0;"
+          >
+
+  
+
+  
+
+
+
+
+
+    <style type="text/css" id="ed-slider-common-styles">
+
+    
+
+        .ed-slider-controlbar a {
+            display: block;
+            position: absolute;
+            text-decoration: none;
+            text-indent: -999em;
+            overflow: hidden;
+            background: transparent url('http://www.edline.net/images/SlideShowControlButtonsSprite16x16.png') no-repeat 0 0;
+            height: 16px;
+            width: 16px;
+        /*	left: 0;*/
+            left: 50%;
+            top: 50%;
+            margin: -8px 0 0 -8px;
+        }
+        /*sprites begin*/
+        /*a.ed-slider-prev {
+            background-position:-10px -10px;
+        }
+
+        a.ed-slider-prev:hover {
+            background-position:-40px -10px;
+        }
+
+        a.ed-slider-prev:active {
+            background-position:-70px -10px;
+        }*/
+
+        a.ed-slider-play {
+            background-position:-10px -100px;
+        }
+
+        a.ed-slider-play.selected {
+            display: none;
+        }
+
+        a.ed-slider-play:hover {
+            background-position:-40px -100px;
+        }
+
+        a.ed-slider-play:active {
+            background-position:-70px -100px;
+        }
+
+        a.ed-slider-pause {
+            background-position:-10px -70px;
+        }
+
+        a.ed-slider-pause.selected {
+            display: none;
+        }
+
+        a.ed-slider-pause:hover {
+            background-position:-40px -70px;
+        }
+
+        a.ed-slider-pause:active {
+            background-position:-70px -70px;
+        }
+
+        /*a.ed-slider-next {
+            background-position:-10px -40px;
+            left: 32px;
+        }
+
+        a.ed-slider-next:hover {
+            background-position:-40px -40px;
+        }
+
+        a.ed-slider-next:active {
+            background-position:-70px -40px;
+        }*/
+
+        a.ed-slider-fullscreen {
+            background-position:-10px -130px;
+        }
+
+        a.ed-slider-fullscreen:hover {
+            background-position:-40px -130px;
+        }
+
+        a.ed-slider-fullscreen:active {
+            background-position:-70px -130px;
+        }
+        /*sprites end*/
+        .ed-slider-prevNext {
+            background: transparent url("http://www.edline.net/images/slideshow_prevNextArrows.png") no-repeat -100% -100%;
+            position: absolute;
+            z-index: 5;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+        }
+
+        .ed-slider-prevNext a {
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 20%;
+            height: 100%;
+            text-indent: -999em;
+            overflow: hidden;
+            outline: none;
+        }
+
+        .ed-slider-prevNext a.ed-slider-next {
+            left: auto;
+            right: 0;
+            width: 80%;
+        }
+
+        .ed-slider-prevNext div {
+            width: 100%;
+            height: 100%;
+            cursor: pointer;
+        }
+
+        .ed-slider-prevNext span {
+            background: transparent url("http://www.edline.net/images/slideshow_prevNextArrows.png") no-repeat 0 0;
+            display: block;
+            width: 25px;
+            height: 47px;
+            text-indent: -999em;
+            overflow: hidden;
+            position: absolute;
+            left: 10px;
+            top: 50%;
+            margin: -23px 0 0;
+            cursor: pointer;
+        }
+
+        .ed-slider-prevNext a.ed-slider-prev:hover span,
+        a.ed-slider-prev div.hover span {
+            background-position: 0 -60px;
+        }
+
+        .ed-slider-prevNext a.ed-slider-next span {
+            background-position: right 0;
+            left: auto;
+            right: 10px;
+        }
+
+        .ed-slider-prevNext a.ed-slider-next:hover span,
+        a.ed-slider-next div.hover span {
+            background-position: right -60px;
+        }
+
+        /*caption-controlbar container begin*/
+        ul .ed-slider-image-caption-controlbar-container {
+            display: none;
+        }
+
+        .ed-slider-image-caption-controlbar-container.ext {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            width: 85px;
+            color: #fff;
+            z-index: 10;
+            vertical-align:bottom;
+        }
+
+        .ed-slider-image-caption,
+        .ed-slider-image-caption-summary,
+        .ed-slider-image-caption-title-has-summary,
+        .ed-slider-image-caption-title-no-summary
+        {
+            color: #fff;
+        }
+
+        .ed-slider-image-caption-controlbar-container.hasCaption .ed-slider-countinfo,
+        .ed-slider-image-caption-controlbar-container.hasCaption .prevNext,
+        .ed-slider-image-caption-controlbar-container.hasCaption .fullscreen {
+            background-image: none;
+        }
+
+        /*caption-controlbar container end*/
+        /*caption begin*/
+        .ed-slider-image-caption-controlbar-container.hasCaption {
+            width: 100%;
+            min-height: 30px;
+            height: auto;
+        }
+
+        .ed-slider-image-caption-controlbar-container.hasCaption  .captionHolder {
+            background: transparent url("http://www.edline.net/images/slider-overlay_2x2_51_50pct.png") repeat 0 0;
+            float: left;
+            width: 100%;
+            position: absolute;
+            left: 0;
+            bottom: 0;
+        }
+
+        
+        /*caption end*/
+        
+        /*controlbar begin*/
+        .ed-slider-controlbar {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            min-height:31px;
+            width:105px;
+        }
+
+
+        /*.ed-slider-controlbar div{*/
+             /*padding-top:4px;*/
+             /*padding-right:2px;*/
+             /*padding-left:2px;*/
+        /*}*/
+
+        .ed-slider-controlbar .fullscreen, .ed-slider-controlbar .playPause {
+            float: right;
+            position: relative;
+            width: 30px;
+            height: 30px;
+            padding: 0;
+        }
+
+        .ed-slider-controlbar.hasNoCaption, .ed-slider-controlbar.captionHidden {
+            background: transparent url("http://www.edline.net/images/slider-overlay_2x2_51_50pct.png") repeat 0 0;
+        }
+        
+        .ed-slider-controlbar .ed-slider-countinfo {
+        	float: right;
+            padding: 8px 10px 0 6px;
+            height: 20px;
+            font-weight: bold;
+            font-size: 12px;  
+        }
+
+        /*.ed-slider-controlbar .prevNext {*/
+            /*position: absolute;*/
+            /*right: 20px;*/
+            /*width: 48px;*/
+            /*height: 16px;*/
+            /*z-index: 10;*/
+        /*}*/
+
+        /*.ed-slider-controlbar .playPause {*/
+            /*position: absolute;*/
+            /*right: 30px;*/
+            /*width: 16px;*/
+            /*height: 16px;*/
+            /*z-index: 11;*/
+        /*}*/
+
+        /*.ed-slider-controlbar .fullscreen {*/
+            /*position: absolute;*/
+            /*right: 4px;*/
+            /*width: 16px;*/
+            /*height: 16px;*/
+            /*z-index: 10;*/
+        /*}*/
+        /*controlbar end*/    
+         .ed-slider-cached-image
+        {
+            display:none;
+        }
+
+        /**********************/
+        /* thumbnail controls */
+        /**********************/
+        .ncWrap {
+            float: left;
+            width: 100%;
+            position: relative;
+            overflow: hidden;
+            margin: 10px 0;
+        }
+
+        /* round button look */
+        .ncWrap a.prev, .ncWrap a.next {
+            background: transparent url("http://www.edline.net/images/thumbnailControls.png") no-repeat 0 0;
+            position: absolute;
+            top: 50%;
+            margin-top: -18px;
+            width: 32px;
+            height: 36px;
+            overflow: hidden;
+            text-indent: -999em;
+        }
+        .ncWrap a.prev { left: 0; margin-left: 5px;}
+        .ncWrap a.prev:hover { background-position: 0 -40px; }
+        .ncWrap a.prev:active { background-position: 0 -80px; }
+
+        .ncWrap a.next { background-position: -40px 0; right: 0; margin-right: 5px; }
+        .ncWrap a.next:hover { background-position: -40px -40px; }
+        .ncWrap a.next:active { background-position: -40px -80px; }
+        /* end round button look */
+
+        /* small round button look */
+        .ncWrap a.prevSmall, .ncWrap a.nextSmall {
+            background: transparent url("http://www.edline.net/images/thumbnailControls.png") no-repeat -160px 0;
+            position: absolute;
+            top: 50%;
+            margin-top: -12px;
+            width: 24px;
+            height: 24px;
+            overflow: hidden;
+            text-indent: -999em;
+        }
+        .ncWrap a.prevSmall { left: 0; margin-left: 5px;}
+        .ncWrap a.prevSmall:hover { background-position: -160px -40px; }
+        .ncWrap a.prevSmall:active { background-position: -160px -80px; }
+
+        .ncWrap a.nextSmall { background-position: -200px 0; right: 0; margin-right: 5px; }
+        .ncWrap a.nextSmall:hover { background-position: -200px -40px; }
+        .ncWrap a.nextSmall:active { background-position: -200px -80px; }
+        /* end small round button look */
+
+        .carouselContainer {
+            position: relative;
+            overflow-x: scroll;
+            overflow-y: hidden;
+            margin: 0 0 0 30px;
+        }
+
+        .carousel {
+            width: 99999px;/* huge width prior to js set width */
+        }
+
+        .carousel li {
+            float: left;
+            margin: 0 5px;
+            background-color: #fff;
+            border: 1px solid #e3e3e3;
+            opacity: .4;
+            width: auto !important;
+            height: auto !important;
+            position: relative;
+            filter: alpha(opacity = 40);
+            filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=40);
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+            -webkit-transition: all .4s linear;
+            -moz-transition: all .4s linear;
+            -o-transition: all .4s linear;
+            -ms-transition: all .4s linear;
+            transition: all .4s linear;
+        }
+
+        /* ie8 */
+        .ie8 .carousel li img {
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+        }
+
+        .carousel li a {
+            display: block;
+            position: relative;
+            overflow: hidden;
+            border: 2px solid #fff;
+        }
+
+        .carousel li.selected, .carousel li:hover {
+            opacity: 1;
+            filter: alpha(opacity = 100);
+            filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+        }
+
+        /* ie8 */
+        .ie8 .carousel li.selected img, .ie8 .carousel li:hover img {
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+        }
+
+        .carousel li img {
+            position: relative;
+        }
+        /**************************/
+        /* end thumbnail controls */
+        /**************************/
+    </style>
+    <style type="text/css" id="ed-slider-custom-styles">
+        .ed-slider-image-caption-title-no-summary-f5c37177ae {
+            font-weight:bold;
+            font-size:16px;
+        }
+
+        .ed-slider-image-caption-title-has-summary-f5c37177ae {
+            font-weight:bold;
+            font-size:16px;
+            padding-bottom: 2px;
+        }
+
+        .ed-slider-image-caption-summary-f5c37177ae {
+            font-weight:bold;
+            font-size:10px;
+        }
+        .ed-slider-image-caption-f5c37177ae,
+        .ed-slider-image-caption-summary-f5c37177ae,
+        .ed-slider-image-caption-title-has-summary-f5c37177ae ,
+        .ed-slider-image-caption-title-no-summary-f5c37177ae
+        {
+            color: #fff;
+        }
+
+       #ed-slider-gallery-loading-f5c37177ae
+       {
+           width:540px;
+           height:309px;
+           position: absolute;
+           z-index: 999;
+       }
+
+       #ed-slider-wrap-f5c37177ae
+       {
+           overflow:hidden;
+
+           
+           width:540px;
+           height:309px;
+           position:relative;
+           
+
+           font-family:Arial, Helvetica, sans-serif;
+
+
+
+
+       }
+
+        #ed-slider-wrap-f5c37177ae .galleryWrap {
+            width: 540px;
+            height: 309px;
+            float: left;
+            overflow: hidden;
+            position: relative;
+        }
+
+       #ed-slider-wrap-f5c37177ae ul {
+           float: left;
+           width: 540px;
+           height: 309px;
+           overflow: hidden;
+       }
+
+
+       #ed-slider-wrap-f5c37177ae ul li
+       {
+           list-style-type:none;
+           overflow: hidden;
+           width: 540px;
+           height: 309px;
+           background-color: transparent;;
+       }
+
+
+       #ed-slider-wrap-f5c37177ae .group .block {
+           background-color: transparent;;
+       }
+
+
+       #ed-slider-wrap-f5c37177ae .group .block.imgTransition {
+           background-color: transparent;
+       }
+
+       .ed-slider-image-caption-controlbar-container .captionHolder .ed-slider-image-caption-f5c37177ae {
+            float: left;
+            min-height: 15px;
+            padding: 8px 8px 8px 10px;
+            position: relative;
+            width: 424px;
+        }
+
+        #ed-slider-wrap-f5c37177ae .ed-slider-prevNext {
+            height: 309px;
+        }
+   </style>
+
+    <div id="ed-slider-wrap-f5c37177ae">
+        <ul id="ed-slider-gallery-f5c37177ae" style="display:none;">
+
+    
+            <li>
+                <div class="ed-slider-image-container">
+                    <div class="ed-slider-image">
+
+                        <img style="height:309px; margin-left:154px;" src="http://www.edline.net/files/_nJCMu_/7f78f97efe2ecf663745a49013852ec4/parachutes.jpg?isPlacedWithSiteDesigner=true" alt=""/>
+
+                    </div>
+                    <div class="ed-slider-cached-image" style="" data-widthAndHeight="765x1024" data-alternateText="">
+                        
+                    </div>
+                    <div class="ed-slider-image-caption-controlbar-container">
+                    
+                    </div>
+                </div>
+            </li>
+
+            <li>
+                <div class="ed-slider-image-container">
+                    <div class="ed-slider-image">
+
+                        <img style="height:309px; margin-left:154px;" src="http://www.edline.net/files/_nJCNC_/d794f157498d01503745a49013852ec4/parachutes2.jpg?isPlacedWithSiteDesigner=true" alt=""/>
+
+                    </div>
+                    <div class="ed-slider-cached-image" style="" data-widthAndHeight="765x1024" data-alternateText="">
+                        
+                    </div>
+                    <div class="ed-slider-image-caption-controlbar-container">
+                    
+                    </div>
+                </div>
+            </li>
+
+            <li>
+                <div class="ed-slider-image-container">
+                    <div class="ed-slider-image">
+
+                    </div>
+                    <div class="ed-slider-cached-image" style="height:299px;" data-widthAndHeight="755x417" data-alternateText="">
+                        /files/_nHJGV_/027d7ba4421ad7693745a49013852ec4/SpringFest.JPG?isPlacedWithSiteDesigner=true
+                    </div>
+                    <div class="ed-slider-image-caption-controlbar-container">
+                    
+                        <span class="ed-slider-image-caption-f5c37177ae" style="">
+                            
+                            <div class="ed-slider-image-caption-title-no-summary-f5c37177ae" style="color:fff;">
+                                See the calendar below for more information.
+                            </div>
+                            
+                           
+                        </span>
+                    
+                    </div>
+                </div>
+            </li>
+
+            <li>
+                <div class="ed-slider-image-container">
+                    <div class="ed-slider-image">
+
+                    </div>
+                    <div class="ed-slider-cached-image" style="height:309px; margin-left:28px;" data-widthAndHeight="526x336" data-alternateText="Upload your own pictures for the yearbook! (See the calendar below.)">
+                        /files/_kLHdJ_/3138314e89e1f3653745a49013852ec4/yearbook-pic5.jpeg?isPlacedWithSiteDesigner=true
+                    </div>
+                    <div class="ed-slider-image-caption-controlbar-container">
+                    
+                        <span class="ed-slider-image-caption-f5c37177ae" style="">
+                            
+                            <div class="ed-slider-image-caption-title-has-summary-f5c37177ae" style="color:fff;">
+                                Yearbooks, On Sale Now!
+                            </div>
+                            
+                           
+                            <div class="ed-slider-image-caption-summary-f5c37177ae" style="color:fff;">
+                                Upload your own pictures for the yearbook! (See the calendar below.)
+                            </div>
+                            
+                        </span>
+                    
+                    </div>
+                </div>
+            </li>
+
+            <li>
+                <div class="ed-slider-image-container">
+                    <div class="ed-slider-image">
+
+                    </div>
+                    <div class="ed-slider-cached-image" style="height:323px; margin-left:11px;" data-widthAndHeight="960x573" data-alternateText="">
+                        /files/_kPAlY_/3821f4970cf379e23745a49013852ec4/QLMS_cheer_team.jpg?isPlacedWithSiteDesigner=true
+                    </div>
+                    <div class="ed-slider-image-caption-controlbar-container">
+                    
+                    </div>
+                </div>
+            </li>
+
+            <li>
+                <div class="ed-slider-image-container">
+                    <div class="ed-slider-image">
+
+                    </div>
+                    <div class="ed-slider-cached-image" style="height:275px;" data-widthAndHeight="1024x520" data-alternateText="">
+                        /files/_iaHjT_/7265ce2699332e283745a49013852ec4/Pasta_for_Pennies7.JPG?isPlacedWithSiteDesigner=true
+                    </div>
+                    <div class="ed-slider-image-caption-controlbar-container">
+                    
+                        <span class="ed-slider-image-caption-f5c37177ae" style="">
+                            
+                            <div class="ed-slider-image-caption-title-no-summary-f5c37177ae" style="color:fff;">
+                                Pasta for Pennies
+                            </div>
+                            
+                           
+                        </span>
+                    
+                    </div>
+                </div>
+            </li>
+
+            <li>
+                <div class="ed-slider-image-container">
+                    <div class="ed-slider-image">
+
+                    </div>
+                    <div class="ed-slider-cached-image" style="height:309px; margin-left:63px;" data-widthAndHeight="526x393" data-alternateText="">
+                        /files/_hLBQi_/bb5ef4fbaa5e08b43745a49013852ec4/GreenZone1.JPG?isPlacedWithSiteDesigner=true
+                    </div>
+                    <div class="ed-slider-image-caption-controlbar-container">
+                    
+                        <span class="ed-slider-image-caption-f5c37177ae" style="">
+                            
+                            <div class="ed-slider-image-caption-title-no-summary-f5c37177ae" style="color:fff;">
+                                We Are a Green Zone School
+                            </div>
+                            
+                           
+                        </span>
+                    
+                    </div>
+                </div>
+            </li>
+
+            <li>
+                <div class="ed-slider-image-container">
+                    <div class="ed-slider-image">
+
+                    </div>
+                    <div class="ed-slider-cached-image" style="height:309px; margin-left:64px;" data-widthAndHeight="640x480" data-alternateText="&quot;I am Unafraid&quot; Anti-Bullying Assembly presented by Dr. Jay Banks ">
+                        /files/_iPIlb_/ff981f2a7989a0373745a49013852ec4/Anti-Bullying_Assembly.JPG?isPlacedWithSiteDesigner=true
+                    </div>
+                    <div class="ed-slider-image-caption-controlbar-container">
+                    
+                        <span class="ed-slider-image-caption-f5c37177ae" style="">
+                            
+                           
+                            <div class="ed-slider-image-caption-summary-f5c37177ae" style="color:fff;">
+                                "I am Unafraid" Anti-Bullying Assembly presented by Dr. Jay Banks 
+                            </div>
+                            
+                        </span>
+                    
+                    </div>
+                </div>
+            </li>
+
+            <li>
+                <div class="ed-slider-image-container">
+                    <div class="ed-slider-image">
+
+                    </div>
+                    <div class="ed-slider-cached-image" style="height:309px; margin-left:52px;" data-widthAndHeight="1024x727" data-alternateText="">
+                        /files/_hLB4Q_/ac5607fbbeb471f33745a49013852ec4/AntiBullying.jpg?isPlacedWithSiteDesigner=true
+                    </div>
+                    <div class="ed-slider-image-caption-controlbar-container">
+                    
+                        <span class="ed-slider-image-caption-f5c37177ae" style="">
+                            
+                            <div class="ed-slider-image-caption-title-no-summary-f5c37177ae" style="color:fff;">
+                                Anti-Bullying Pledge
+                            </div>
+                            
+                           
+                        </span>
+                    
+                    </div>
+                </div>
+            </li>
+
+            <li>
+                <div class="ed-slider-image-container">
+                    <div class="ed-slider-image">
+
+                    </div>
+                    <div class="ed-slider-cached-image" style="height:309px; margin-left:61px;" data-widthAndHeight="470x349" data-alternateText="">
+                        /files/_hLAky_/e9f27114fc562b923745a49013852ec4/VIMS-microscope2.jpeg?isPlacedWithSiteDesigner=true
+                    </div>
+                    <div class="ed-slider-image-caption-controlbar-container">
+                    
+                        <span class="ed-slider-image-caption-f5c37177ae" style="">
+                            
+                            <div class="ed-slider-image-caption-title-no-summary-f5c37177ae" style="color:fff;">
+                                VIMS Field Trip
+                            </div>
+                            
+                           
+                        </span>
+                    
+                    </div>
+                </div>
+            </li>
+
+            <li>
+                <div class="ed-slider-image-container">
+                    <div class="ed-slider-image">
+
+                    </div>
+                    <div class="ed-slider-cached-image" style="height:326px; margin-left:13px;" data-widthAndHeight="1024x617" data-alternateText="">
+                        /files/_hLAlO_/6aa69920696d33af3745a49013852ec4/VIMS1.jpg?isPlacedWithSiteDesigner=true
+                    </div>
+                    <div class="ed-slider-image-caption-controlbar-container">
+                    
+                        <span class="ed-slider-image-caption-f5c37177ae" style="">
+                            
+                            <div class="ed-slider-image-caption-title-no-summary-f5c37177ae" style="color:fff;">
+                                VIMS Field Trip
+                            </div>
+                            
+                           
+                        </span>
+                    
+                    </div>
+                </div>
+            </li>
+
+            <li>
+                <div class="ed-slider-image-container">
+                    <div class="ed-slider-image">
+
+                        <img style="height:309px; margin-left:39px;" src="http://www.edline.net/files/_hLAk4_/2c5459fe529640823745a49013852ec4/VIMS-table1.jpg?isPlacedWithSiteDesigner=true" alt=""/>
+
+                    </div>
+                    <div class="ed-slider-cached-image" style="" data-widthAndHeight="1024x685" data-alternateText="">
+                        
+                    </div>
+                    <div class="ed-slider-image-caption-controlbar-container">
+                    
+                        <span class="ed-slider-image-caption-f5c37177ae" style="">
+                            
+                            <div class="ed-slider-image-caption-title-no-summary-f5c37177ae" style="color:fff;">
+                                VIMS Field Trip
+                            </div>
+                            
+                           
+                        </span>
+                    
+                    </div>
+                </div>
+            </li>
+
+
+        </ul>
+        <div id="ed-slider-gallery-loading-f5c37177ae">
+            
+            <div class="ed-slider-image">
+               <img style="height:309px; margin-left:154px;" src="http://www.edline.net/files/_nJCMu_/7f78f97efe2ecf663745a49013852ec4/parachutes.jpg?isPlacedWithSiteDesigner=true" alt=""/>
+            </div>
+            
+        </div>
+    </div>
+<!--code for slider-->
+    
+	<script type="text/javascript" src="http://www.edline.net/jscripts/slider/edSlider.js?version=2013b-q1-2-p29081"></script>
+    <script type="text/javascript" src="http://www.edline.net/FolderSlideShowBox.js?version=2013b-q1-2-p29081"></script>
+
+	<script type="text/javascript">
+
+        $(document).ready(function()
+        {
+            fssbOnload('f5c37177ae',
+                    5000,
+                    'hover',
+                    true,
+                    'fade',
+                    'thumbnail',
+                    'small',
+                    true,
+                    'on',
+                    '6947934730732534258',
+                    'edlElement_6947934730732534258_folderContents',
+                    'edlElement_6947934730732534258_folder',
+                    false
+            );
+		});
+
+	</script>
+
+
+
+
+  
+
+  
+
+    </div>
+
+    
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+    ghPotentiallyGiveBoxPermissionForMouseOver("news.box", "");
+
+    
+
+</script>
+
+
+<div id="edlNewsBoxArea" class="edlBoxArea" style="position:relative;" >
+
+
+
+    
+
+            
+            <div id="edlNewsBoxAreaBoxTitle" class="edlBoxTitle">
+<div id="edlNewsBoxAreaBoxTitleInnerWrapper" class="edlBoxTitleInnerWrapper" style="overflow:hidden;">
+<div style="float:right;" class="edlBoxHdrIcnFloatR"><img src="http://www.edline.net/images/transparent.gif" style="margin-left:20px;" alt="" /></div>
+<a id="edlNewsBoxAreaTitleLinkScript" href="http://www.edline.net/pages/QLMS/News" title="" onmouseover="ghTouchMenuBarForIE();" onmouseout="ghTouchMenuBarForIE();" tabindex="0">News</a></div>
+</div>
+
+
+            
+
+
+    
+
+  <div class="edlBoxContent" id="NewsBoxContent" name="BC_edlNewsBoxArea" style="">
+  
+    <div id="news_bi_0" class="edlNewsItem">
+  
+      <div class="edlNewsItemTitle"><span class="edlNewsItemTitleText"><span class="/images/status/neutral.gif">
+
+          
+
+        <a id="newsItem_6947935024298953716" style="font-weight: bold;" href="http://www.edline.net/pages/QLMS/News/6947935024298953716" >Panther Points</a>
+        </span></span></div>
+
+      <div class="edlNewsItemSummary">Week of April 8</div>
+
+    </div>
+
+      
+
+  
+    <div id="news_bi_1" class="edlNewsItem">
+  
+      <div class="edlNewsItemTitle"><span class="edlNewsItemTitleText"><span class="/images/status/neutral.gif">
+
+          
+
+        <a id="newsItem_6947935005546030484" style="font-weight: bold;" href="http://www.edline.net/pages/QLMS/News/6947935005546030484" >Panther Points</a>
+        </span></span></div>
+
+      <div class="edlNewsItemSummary">Week of March 25</div>
+
+    </div>
+
+      
+
+  
+    <div id="news_bi_2" class="edlNewsItem">
+  
+      <div class="edlNewsItemTitle"><span class="edlNewsItemTitleText"><span class="/images/status/neutral.gif">
+
+          
+
+        <a id="newsItem_6947934994864651156" style="font-weight: bold;" href="http://www.edline.net/pages/QLMS/News/6947934994864651156" >Panther Points</a>
+        </span></span></div>
+
+      <div class="edlNewsItemSummary">Week of March 18</div>
+
+    </div>
+
+      
+
+  
+    <div id="news_bi_3" class="edlNewsItem">
+  
+      <div class="edlNewsItemTitle"><span class="edlNewsItemTitleText"><span class="/images/status/neutral.gif">
+
+          
+
+        <a id="newsItem_6947934985129456196" style="font-weight: bold;" href="http://www.edline.net/pages/QLMS/News/6947934985129456196" >Panther Points</a>
+        </span></span></div>
+
+      <div class="edlNewsItemSummary">Week of March 11</div>
+
+    </div>
+
+      
+
+  
+    <div id="news_bi_4" class="edlNewsItem">
+  
+      <div class="edlNewsItemTitle"><span class="edlNewsItemTitleText"><span class="/images/status/neutral.gif">
+
+          
+
+        <a id="newsItem_6947934965706897012" style="font-weight: bold;" href="http://www.edline.net/pages/QLMS/News/6947934965706897012" >Panther Points</a>
+        </span></span></div>
+
+      <div class="edlNewsItemSummary">Week of February 25</div>
+
+    </div>
+
+      
+
+  
+      <div class="edlNewsItem">
+          
+              <div class="edlBoxListMoreNew"><span class="edlBoxListMore">
+          
+              <a style="font-weight: bold;" href="javascript:submitEvent('showMore', 'TCNK=newsBoxComponent')">More News...</a>
+          </span></div>
+      </div>
+    
+    </div>
+    
+    
+    
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+    ghPotentiallyGiveBoxPermissionForMouseOver("calendar.box", "");
+
+    
+
+</script>
+
+
+<div id="edlCalendarBoxArea" class="edlBoxArea" style="position:relative;" >
+
+
+
+    
+
+        
+        <div id="edlCalendarBoxAreaBoxTitle" class="edlBoxTitle">
+<div id="edlCalendarBoxAreaBoxTitleInnerWrapper" class="edlBoxTitleInnerWrapper" style="overflow:hidden;">
+<div style="float:right;" class="edlBoxHdrIcnFloatR"><img src="http://www.edline.net/images/transparent.gif" style="margin-left:20px;" alt="" /></div>
+<a id="edlCalendarBoxAreaTitleLinkScript" href="http://www.edline.net/pages/QLMS/Calendar" title="" onmouseover="ghTouchMenuBarForIE();" onmouseout="ghTouchMenuBarForIE();" tabindex="0">Calendar</a></div>
+</div>
+
+
+        
+
+    
+
+  <div class="edlBoxContent" id="CalendarBoxContent" name="BC_edlCalendarBoxArea" style="">
+
+  
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- begin calendar list view include-->
+<div class="edlEventDiv">
+
+    
+
+  <table class="edlEventTable">
+
+      
+
+  
+   
+
+    <tr>
+    
+      <td id="calendar_bi_0_d" class="edlEventDateCell" nowrap="nowrap">04/11/13&nbsp;Thu</td>
+      <td class="edlEventSpacerCell"><span class="notranslate">&nbsp;</span></td>
+      <td id="calendar_bi_0_c" class="edlEventContentCell">
+        <div class="edlEventTitleDiv">
+          <span class="edlEventTitleText">
+            <span class="/images/status/neutral.gif">
+
+
+
+
+              <a id="calItem_6947934552467916068" style="font-weight: bold;"
+                 href="http://www.edline.net/pages/QLMS/Calendar/8118870455584168740" >Report Cards Issued</a>
+            </span>
+          </span>
+        </div>
+
+
+
+
+      </td>
+
+        
+
+    </tr>
+  
+   
+      <tr><td colspan="3"><span class="notranslate">&nbsp;</span></td></tr>
+    
+
+    <tr>
+    
+      <td id="calendar_bi_1_d" class="edlEventDateCell" nowrap="nowrap">04/25/13&nbsp;Thu</td>
+      <td class="edlEventSpacerCell"><span class="notranslate">&nbsp;</span></td>
+      <td id="calendar_bi_1_c" class="edlEventContentCell">
+        <div class="edlEventTitleDiv">
+          <span class="edlEventTitleText">
+            <span class="/images/status/neutral.gif">
+
+
+
+
+              <a id="calItem_6947935024320234980" style="font-weight: bold;"
+                 href="http://www.edline.net/files/_nHI5s_/748139128902342e3745a49013852ec4/SpringFest.pdf"  target="_blank">QLMS Spring Fest</a>
+            </span>
+          </span>
+        </div>
+
+
+
+
+<div class="edlEventTime">6:00pm - 8:00pm</div>
+
+      </td>
+
+        
+
+    </tr>
+  
+   
+      <tr><td colspan="3"><span class="notranslate">&nbsp;</span></td></tr>
+    
+
+    <tr>
+    
+      <td id="calendar_bi_2_d" class="edlEventDateCell" nowrap="nowrap">05/10/13&nbsp;Fri</td>
+      <td class="edlEventSpacerCell"><span class="notranslate">&nbsp;</span></td>
+      <td id="calendar_bi_2_c" class="edlEventContentCell">
+        <div class="edlEventTitleDiv">
+          <span class="edlEventTitleText">
+            <span class="/images/status/neutral.gif">
+
+
+
+
+              <a id="calItem_6947934552454586900" style="font-weight: bold;"
+                 href="http://www.edline.net/pages/QLMS/Calendar/8118870455568222564" >Early Dismissal</a>
+            </span>
+          </span>
+        </div>
+
+
+
+
+      </td>
+
+        
+
+    </tr>
+  
+   
+      <tr><td colspan="3"><span class="notranslate">&nbsp;</span></td></tr>
+    
+
+    <tr>
+    
+      <td id="calendar_bi_3_d" class="edlEventDateCell" nowrap="nowrap">05/16/13&nbsp;Thu</td>
+      <td class="edlEventSpacerCell"><span class="notranslate">&nbsp;</span></td>
+      <td id="calendar_bi_3_c" class="edlEventContentCell">
+        <div class="edlEventTitleDiv">
+          <span class="edlEventTitleText">
+            <span class="/images/status/neutral.gif">
+
+
+
+
+              <a id="calItem_6947934552459575620" style="font-weight: bold;"
+                 href="http://www.edline.net/pages/QLMS/Calendar/8118870455572494228" >Interims Issued</a>
+            </span>
+          </span>
+        </div>
+
+
+
+
+      </td>
+
+        
+
+    </tr>
+  
+   
+      <tr><td colspan="3"><span class="notranslate">&nbsp;</span></td></tr>
+    
+
+    <tr>
+    
+      <td id="calendar_bi_4_d" class="edlEventDateCell" nowrap="nowrap">05/27/13&nbsp;Mon</td>
+      <td class="edlEventSpacerCell"><span class="notranslate">&nbsp;</span></td>
+      <td id="calendar_bi_4_c" class="edlEventContentCell">
+        <div class="edlEventTitleDiv">
+          <span class="edlEventTitleText">
+            <span class="/images/status/neutral.gif">
+
+
+
+
+              <a id="calItem_6947934552454243716" style="font-weight: bold;"
+                 href="http://www.edline.net/pages/QLMS/Calendar/8118870455591283092" >Memorial Day Holiday</a>
+            </span>
+          </span>
+        </div>
+
+
+
+
+      </td>
+
+        
+
+    </tr>
+  
+
+      
+    </table>
+
+    
+
+    
+    <div class="edlEventTitleDiv edlBoxListMoreNew">
+            <span class="edlBoxListMore">
+                <a style="font-weight: bold;" href="http://www.edline.net/pages/QLMS/Calendar">
+                    
+                        More Events...
+                    
+                </a>
+            </span>
+        </div>
+    
+
+</div>
+<!-- end calendar list view include -->
+
+  
+
+  </div>
+    
+    
+    
+</div>
+    </div>
+  </div>
+</div>
+</td>  </tr>
+</table>
+    </div>
+  </div>
+</div>
+<div id="edlThemeBottomsectionZoneFrame">
+  <div id="edlThemeBottomsectionZonePane" align="left">
+    <div id="edlThemeBottomsectionZoneContent" align="left" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+    var docProps = {};
+    mmAddEmbedInfo(docProps);
+    var isDesignMode = false;
+    var isEditingMode = false;
+
+    
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="dbWidener_6947933085817103492" class="dbWidener" style="width:861px;visibility:hidden;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="edlElement_6947933085817103492_document" class="edlDocumentBox" 
+     
+>
+
+    
+
+    
+    <div id="edlDocumentBoxHeaderWrapper_6947933085817103492"
+         style="width: 861;display:none;">
+        
+
+    </div>
+    
+
+
+    
+    
+
+
+
+
+<iframe name="iFrame_edlElement_6947933085817103492_document" id="iFrame_edlElement_6947933085817103492_document" src="http://www.edline.net/DocViewBody.page?currentDocEntid=6947933085817103492&returnPage=%2Fpages%2FQLMS&skipSettingPreviousGetUrl=true&lastMod=1348228835387&inDocBox=true&resetCurrentGroupToEntid=6947933044216991970&overriddenWidth=861&overriddenBackgroundColor=%23bebebe&overriddenTextColor=%23000000&overriddenFont=font%3Anormal+normal+normal+9pt%2Fnormal+Arial%2C+Helvetica%2C+sans-serif%3B&boxNetWidth=845&autofitImage=true&iframeWidth=861&iframeHeight=50" style=" " frameborder="0" marginheight="0" marginwidth="0" width="861" height="50"  title="Document">
+    <p>IFRAME support required.</p>
+</iframe>
+
+    
+
+    
+
+<script type="text/javascript">
+
+    
+
+    var pinnedDocId = "Doc6947933085817103492";
+
+    var ghPinnedDocInfo = new GhPinnedDocInfo(
+            false,
+            pinnedDocId,
+            "6947933085817103492",
+            "6947933085817103492",
+            "iFrame_edlElement_6947933085817103492_document",
+            'iFrame_edlElement_6947933085817103492_document',
+            '*',
+            'edlThemeBottomsectionZoneFrame',
+            0,
+            0,
+            0.0,
+            0.0,
+            false,
+            false,
+            true,
+            false,
+            50,
+            '#bebebe',
+            false,
+            false,
+            true,
+            false,
+            '845',
+            8,
+            false,
+            false
+    );
+
+    ghPinnedDocsToLoad[pinnedDocId] = ghPinnedDocInfo;
+
+</script>
+
+
+    
+
+</div>
+
+
+
+
+   
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+</div>
+    </td>
+  </tr>
+</table>
+
+                        </div>
+
+                    
+
+
+    </div>
+                </td>
+            </tr>
+        </table>
+
+    </td></tr></table><!-- end of edlPageAlignmentTable markup -->
+
+    </div>
+
+
+    </div>
+
+
+    </body>
+
+
+
+
+
+
+    
+
+<!-- Page Render Time:  qc 1384 db 0.6 web 1.3 = svr 2.0 Core Group: 6947933044216991970/db:1/fi:23/n:24684 -->
+</html>

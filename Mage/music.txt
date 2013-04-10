@@ -1,0 +1,89 @@
+<HTML>
+<HEAD>
+<TITLE>Music</TITLE>
+</HEAD>
+<BODY>
+<H1>
+Mood Music for Mage
+</H1>
+
+<DL>
+<DT><H2>The Technocracy</H2>
+<DD>
+
+<B>Kraftwerk</B> is the obvious choice. Cold, efficient music without excess 
+emotion, praising(?) technology. Some useful songs are:
+<DL>
+<DT><I>
+Spacelab</I><DD>			Void Engineers
+<DT><I>
+Metropolis</I><DD>			When the players have entered 		
+				Autocthonia or another Technocracy 	
+				realm, or just for depressing cityscapes.
+<DT><I>
+Homecomputer</I><DD>			Virtual Adepts ("I program my 		
+				homecomputer. Beam myself into 	
+				the Future")
+<DT><I>
+The Model</I><DD>			The Syndicate
+<DT><I>
+Man-Machine, The Robots</I><DD>		Iteration X
+<DT><I>
+Computer world</I><DD>			Virtual Adepts/ New World Order
+<DT><I>
+Radioactivity</I><DD>			When the players meet the Wyrm :-)
+</DL>
+Other useful music:<P>
+
+<B>Eurythmics, 1984</B>:		<DL><DT><I>"Doubleplusgood"</I> and <I>"Ministry of Love"</I><DD> 
+
+		are perfect for the New World Order.</DL>
+
+<B>Orchestral Maneuvers in the Dark</B>:
+<DL><DT><I>Genetic Engineering</I> <DD>
+				Progenitors/ Sons of Ether. Slightly wacky.<P></DL>
+
+<B>Jean Michel Jarre</B>:
+<DL><DT><I>Equinoxe 6</I> <DD>
+				Iteration X, Autocthonia, Digital Web or Virtual Adepts. Played in a loop it will give the impression of an ever quickening electronic process. Tends to either stress or exhillarate players.<P>
+<DT><I>Revolutions</I><DD>
+The fight between the Technocracy and Traditions. Includes chants in arabic,
+pipes and a electronic voice chanting the Technocracy part. Very suggestive.
+
+</DL>
+
+
+</DL>
+<H2>The Traditions</H2>
+<DL>
+<DT><B>
+Carmina Burana, Carl Orrf</B><DD>	Very mageish. Cult of Ecstasy. ("O 
+				Fortuna, Imperatrix Mundi" is perfect when 
+				people are using coincidental magick or 
+				Entropy).<P>
+<DT><B>Händel, The Messias</B><DD>	Celestial Chorus<P>
+<DT><B>Verdi, Requiem</B><DD>The "Dies Ire" section is quite good for dramatic scenes of total destruction, appearances of Nephandi lords etc. "Tuba Mirum" for similar dramatic appearances of Oracles, the Avatar or Ascension. Otherwise, lots of material for Celestial Chorus<P>
+
+
+<DT><B>Bach</B><DD>			Order of Hermes, Virtual Adepts<P>
+<DT><B>Holst, the planet suite</B><DD>	Theme music for the different 		
+				realms/planets. Uranus, the Magician, is 
+				perfect for big rituals.<P>
+<DT><B>Soul Manager by Front 242</B><DD>	Very Euthanatos!<P>
+<DT><B>Beethoven's 9th </B><DD>		The Ode to Joy choir <I>is</I> about the Ascension.<P>
+<DT><B>Music from "A Clockwork Orange"	</B><DD>Very mageish. "Timesteps" for the Umbra.
+				The transposed Beethoven's 9th is very
+				much the Virtual Adept/Technomancer Ascension.
+				"Country Lane" seems to symbolize Mage, 
+				clockworks, gregorian chants, rain and
+				much other...<P>
+<DT><B>Di Leva "Naked Number One"</B><DD>Odd mixture of most of the philosophies of the Traditions in a New Age form. Useful for a amusing and slightly malkavian view on them. "Everyone is Jesus" is perfect music for the young, born again Celestial Chorists, and "Starseed" manages to express a lot of the flavor of the philosophy of magick. <P>
+<DT><B>Chess by Björn Ulvaeus</B><DD>A musical, generally not very mageish except two songs. "The Opening Ceremony" is quite Technocratic, with parts fitting different fractions of the Syndicate. "Nobody's on Nobodys Side" is a good introduction of how to stay alive in the WoD. Very recomended for young mages and vampire neonates.<P>
+
+
+<hr>
+<A HREF="../mage_misc.html"><IMG ALIGN=top SRC="../bilder/upp.gif"> Back to Miscellanous Page</A><P>
+<A HREF="../main.html"><IMG ALIGN=top SRC="../bilder/topp.gif"> Anders Main Page</A>
+<address>Anders Sandberg / nv91-asa@nada.kth.se</address>
+
+

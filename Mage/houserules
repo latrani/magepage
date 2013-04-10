@@ -1,0 +1,251 @@
+From nv91-asa@nada.kth.se Thu Mar 11 14:29:35 1996
+Status: RO
+X-Status: A
+Received: from comp.uark.edu (sbabb@comp.uark.edu [130.184.253.197])
+	by mail.nada.kth.se (8.6.10/8.6.10) with ESMTP
+	id OAA19208 for <nv91-asa@nada.kth.se>;
+	Mon, 11 Mar 1996 14:29:27 +0100
+Received: (from sbabb@localhost) by comp.uark.edu (8.7.1/8.7.1) id HAA17004; Mon, 11 Mar 1996 07:29:23 -0600 (CST)
+Date: Mon, 11 Mar 1996 07:29:23 -0600 (CST)
+From: "D.J." <sbabb@comp.uark.edu>
+To: Anders Sandberg <nv91-asa@nada.kth.se>
+Subject: Tell me what you think (pt 2) (fwd)
+Message-ID: <Pine.SOL.3.91.960311072645.11697B-100000@comp.uark.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+
+	This is admittedly unbalanced when regarding the rest of the WoD 
+and ups the power level of mages quite a bit (which is how my players and I 
+like it).  All rules apply to mages and NPCs alike tho', so it does keep 
+some balance going.
+
+RULES MODIFICATIONS FOR MAGE: THE ASCENSION
+
+by:  D.J. Babb
+
+ROLLS OF 10:  Whenever a player rolls a 10 on a die, he gets to re-roll the 
+die.  If a 1 is rolled on any re-roll, it does not count against previous 
+rolls (it's not a botch).  Specialties should still be chosen in order to 
+further define the character, and chosen during character creation, but they 
+have no gaming effect.
+
+COMBAT AND DAMAGE:  In the standard rolls, whenever a target is hit a number 
+of dice are rolled to see if the attack does damage (a Damage Roll) and then a
+number of Stamina dice are rolled to see if the target resists (a Soak Roll). 
+In my games, Damage Rolls are ignored.  The target takes full damage 
+automatically, and then rolls to Soak as usual.  This makes fire combat HIGHLY
+dangerous (as any successes after the first to hit are added to the damage 
+total), and increases the threat of combat in general.
+	Also, any Vulgar magicks designed to harm another (such as a Ball of 
+Abysmal Flame) will automatically do aggravated damage.  This does not apply 
+to coincidental magicks however (but a coincidental gas explosion would still 
+burn a vampire of course).
+
+ORPHANS:  Orphans, including Hollow Ones, have two choices when dealing with 
+foci.  They may either select to be foci-using, or foci-free.  Those Orphans 
+who select to use foci must select a Specialty Sphere (for which they pay the 
+same price as other mages to increase (Sphere rating X 7)), and five dots to 
+spend on other spheres.  They must select a foci for every sphere (just as 
+other mages do), and may take unique foci as well.
+	Foci-less Orphans do not need to use foci, but also have no specialty 
+Sphere, and gain no benefits from using foci.  They pay full price for any 
+Sphere increases (Sphere rating X 8).
+
+TECHNOMANCERS:  Technomancers, such as Virtual Adepts and Progenitors, are not
+limited by the stated rules regarding Arete and foci.  For every dot of Arete 
+after the first, the Technomancer loses the need for one of his foci just as 
+other mages.
+
+BACKGROUNDS:  Allies-  For every point spent, the character may take a 
+Acolyte.  For every two points spent the character may take a Consor in place 
+of two Acolytes.  For every extra point spent, the Acolytes or Consors have 5 
+more freebie points (total.  Each individual does NOT get the 5 points).  For 
+instance, a mage with four dots in Allies may have two Acolytes and one 
+Consor.  See "Ascension's Right Hand" for more details.
+	Avatar-  At least one dot of backgrounds must be spent in Avatar.  I 
+do this partially to reflect the elevated state of a Mage's Avatar, partially 
+for game mechanics.
+	Chantry-  Each dot of Chantry purchased gives the mage 3 points to 
+develop his Chantry.  I allow this to stimulate players to develop Chantries 
+(and related sites).
+	Dream-  Dream can be "split up", so that a mage with 3 dots of dream 
+could spend one on Medicine and two on Vampire Lore.  The entire pool does not
+have to be spent on one ability.  Also, the Dream pool may be added to pools 
+the character already has.
+	Familiar Spirit-  Originally a Background in "Werewolf: Player's 
+Guide", some mages may take such a spirit as a follower.  While Dreamspeakers 
+are the most likely candidates, even the occasional Technocracy mage may have 
+such a spirit.  This background is not to be confused with Familiar or Allies 
+(but is similar to both).
+	Fetish-  Mages may also take Fetishes in place of/addition to 
+Talismans.  See "Talismans" and "Fetish Construction" below.
+	Nodes-  Each dot gives the mage 5 points of Quintessence per week, 
+total.  Also, a mage may divide the points between two or more Nodes, but this
+involves Nodes being in scattered areas and making them harder to watch over. 
+Also, mages may not meditate at a Node for additional Quintessence, but may 
+still use meditation to access the pool available (reducing the weekly 
+amount).  Quintessence from a Node can be stored, but will decay rapidly.  The
+mage removes a certain amount, and for each hour of storage the amount 
+decreases by one point.  Of course, Talismans exist with the sole function of 
+storing Quintessence for a longer amount of time.
+	Past Life-  Originally a Background in "Werewolf: the Apocalypse", 
+only certain traditions and mages may take this background (Euthanatos, 
+Akashic Brothers, and Dreamspeakers particularly, but others as well).  For 
+each dot the character spends he gets to develop a past life with its own 
+abilities and personality (personalities should not accept the character 100%,
+and are built with 13/9/5 abilities just as a beginning mage).  Skills are 
+limited to the time period of the ancestor spirit (no ancient Egyptian priests
+with Firearms for instance).  Otherwise, no changes from the Werewolf 
+background.
+	Talismans-  See "Talismans", below.
+	Totem-  Originally a Background in "Werewolf: the Apocalypse", some 
+mages (such as Dreamspeakers and occasionally Order of Hermes mages) may ally 
+themselves to a "totem" spirit in exchange for aid.  Typically, an entire 
+cabal will donate of themselves to the spirit, in exchange for its aid.  While
+the original Werewolf background implies an animalistic totem, the spirit 
+could be of any kind (perhaps a cabal of Virtual Adepts working with an 
+Artificial Intelligence they've constructed in the Digital Web).  Increases to
+the "totem's" power are up to the Storyteller to decide, however, magick can 
+not be used to directly empower the "totem" (additional dots in the background
+may be bought with 3 experience points per dot, to reflect devotion and 
+attention on the part of the mage (which should be role-played out)).  
+Otherwise, there are no changes from the Werewolf background.
+
+TALISMANS-  By putting background dots in Talisman, the mage is granted a 
+magical item that can be used by any mage for a limited number of effects.  By
+putting background points into Fetish, the mage is granted a magical item with
+free will that has more power than a Talisman, but also has a free will and 
+personality of its own.
+	Both Fetishes and Talismans have an Arete rating, and all effects used
+by the item are made using the item's Arete.  Also, both have Quintessence 
+pools which may be used to reduce the difficulty of rolls made by the mage 
+(whether the effect is from the Talisman or an effect by the mage), but each 
+use of the Fetish or Talisman costs a point of Quintessence from the item and 
+once the item is drained of Quintessence, it may no longer be used until 
+recharged (typically, a Prime 3 effect requiring a source of Quintessence to 
+recharge from).
+	The Arete of a Talisman is equal to [number of dots spent on Talisman 
+X 2], Quintessence is equal to [Arete X 5], and gives a number of Sphere 
+Levels to create effects with [1 dot gives 1 level, 2 dots give 3, 3 dots give
+6, 4 dots give 10, 5 dots give 15 levels].  Also, a Talisman is limited to 
+effects equal to, or below, the rating of the Talisman.  A Talisman may be 
+given more Sphere Levels by decreasing Arete (and also the Quintessence), with
+each dot of Arete dropped giving 2 more levels.  Also, a Talisman may be 
+infused with a particular ability, with every Sphere Level lost giving two 
+dots in a single ability, or one dot each in a pair of abilities.
+	For instance, a mage spends 3 dots on Talisman.  This automatically 
+gives him a Talisman with Arete- 6, Quintessence- 30, and 6 dots to spend on 
+Sphere Levels (however, since the Talisman is rated at 3, no effect may be 
+higher than 3).  The mage chooses to lower the Arete to 5, and this gives him 
+a total of 8 Sphere Levels.  He puts 3 levels into a Correspondence effect (it
+teleports him to Stonehenge, from anywhere in the world), and 3 in Forces and 
+the last 2 in Prime (he can create moderate sized Fireballs).  All rolls to 
+use magic are made by the mage, rolling the Talisman's Arete (of 5).  Any 
+Paradox incurred is given to the Mage.
+	While Talismans are powerful and hard to construct, Fetishes are even 
+greater and more demanding (literally!).  The Arete of a Fetish is equal to 
+[number of dots spent on Fetish X 2 +1 (maximum of 10)], Quintessence is equal
+to [Arete X 5], and gives an increased number of Sphere Levels to create 
+effects with [1 dot gives 2 levels, 2 dots give 5, 3 dots give 9, 4 dots give 
+14, 5 dots give 20 levels].  Like a Talisman, a Fetish is limited to effects 
+equal to, or below, the rating of the Fetish.  A Fetish may not be given more 
+Sphere Levels by decreasing Arete.  But, a Fetish may be infused with a 
+particular ability, with every Sphere Level lost giving two dots in a single 
+ability, or one dot each in a pair of abilities.
+	For instance, a player spends 4 dots in Fetish.  This gives him a 
+Fetish with an Arete- 9, Quintessence- 45, and 14 dots for Sphere Levels.  He 
+decides he wants a Fetish with the ability to drive people insane (a Mind 4 
+effect), destroy them with cancer (an Entropy 4 effect), create swarms of 
+flies (a Life 3, Prime 2 effect), and sense demons (Spirit 1).  All rolls are 
+made using the Fetish's Arete, IF the Fetish allows itself to be used.  Any 
+Paradox incurred is given to the Mage.
+	While Fetishes are more powerful than Talismans, they do have their 
+costs.  Also, any Fetishes a player takes during character creation are 
+automatically useable by the mage (but not necessarily friendly).  See "Fetish
+Construction" below.
+
+FETISH CONSTRUCTION:  The steps for Fetish creation for mages are much like 
+Fetish construction for Garou (as presented in "Werewolf: Storytellers 
+Handbook").  However, the Fetish created by a mage is usually much more 
+powerful than the Fetish created by a Garou, as the Garou Fetish is limited by
+the power of the spirit it contains, while the mage's Fetish is powered by the
+spirit and the mage as well.
+	Mages must plan what kind of Spirit is needed for the Fetish (usually 
+a Wits+Spirit Lore roll, with a difficulty of 7.  Each additional success 
+reduces the difficulty of the preparation by 1).
+	Then  the mage must prepare the materials for the Fetish 
+(Intelligence+Spirit Lore, Occult, Enigmas, or any other Ability the 
+Storyteller deems appropriate.  Difficulty is equal to [desired Fetish rating 
++ 3], with each additional success reducing the difficulty of the questing by 
+1).
+	Then the mage quests for the spirit itself (the mage usually summons 
+it to him using Spirit 2 or 3, but some mages have quested in the umbra using 
+Perception+Spirit Lore (difficulty equal to [Fetish rating +3])).
+	Next the mage negotiates with the spirit, trying to convince it to aid
+him and join in a Fetish.  Mages may use Mind/Spirit magicks to dominate and 
+threaten, impassioned speeches, bribes and geasa, or any of a number of other 
+means.  Once the Spirit accepts (see the chart on page 127 of "Werewolf: 
+Storytellers Handbook"), the mage must finally seal the spirit within the 
+Fetish (a Spirit 4 effect).
+	Once crafted, the Fetish has an Arete equal to the [spirit's 
+(Willpower+Rage+Gnosis)/3 rounded down to the lowest full number].  The 
+spirit's current Power is converted to Quintessence, and it may hold a total 
+of Quintessence equal to [Arete X 5] (spirits tend to favor those who do not 
+rely to heavily on their Quintessence and keep them regularly fed).  Also, 
+after creation the mage may be expected to do further favors for the Fetish to
+keep it happy.
+	The powers of the Fetish are limited to the nature of the Spirit it 
+contains, and the power of the mage.  A powerful ice elemental spirit has the 
+power to create snow storms, but not shoot shards of ice (even though such 
+effects are conceptually within the spirit's power); a mage crafts a Fetish 
+and gives the Fetish the ability to create snow storms as well as ice shards 
+(both are powered by the spirit within).  Even though ice shards aren't one of
+the spirit's powers, it fits the spirit's "paradigm".  Storytellers should be 
+generous, but not allow themselves to bullied, when determining what a spirit 
+can and can not empower within a Fetish.
+	Also, even though the term "spirit" is used above (along with a 
+shamanistic mindset), the rules are idnetical for Technomancers and 
+others.  The "flavor" of the proceedings would be quite different however.
+
+ABILITIES:  A mage may use any Talent he does not possess (except for 
+Awareness) by rolling at base Attribute level.  A mage may also use any skill 
+he does not possess (except Do) by rolling at Attribute level with a 
+difficulty increase of one.  A mage may not normally attempt to use a 
+Knowledge he does not possess (however, Dream and Past Life backgrounds, and 
+some magicks, allow a mage to overcome this).
+
+BLATANCY:  Blatancy is the skill used by mages to work their more vulgar 
+magicks in front of observers, making them coincidental.  Not only should the 
+use of this (almost mystical) ability be explained, but it should also be 
+properly role-played.
+
+DO:  The psuedo-magickal ability known as Do is limited to Akashic Brotherhood
+mages only.  It is their form of Blatancy, and as such they may not also take 
+dots in Blatancy.  Other mages may not take Do, but may take Blatancy as 
+normal.  Do combines meditation as well as martial arts, and so can be used 
+for a variety of coincidences.
+	Do users also have slightly different modifications to Energy Source 
+bonuses (see "Book of Shadows", page 123) due to the rules listed above.  
+Internal users of Do add an additional two dice to hit targets, while External
+users add two additional dice to Soak rolls.  However, Do costs twice the 
+normal price of experience to increase.
+
+ARETE:  Beginning characters may not start with more than 4 dots of Arete.
+
+		Stuff still to do.....
+
+SPECIFIC SPHERE MODIFICATIONS: Life 2-4 (Simple Patterns are everything 
+up to (ie. not including) monkeys and dolphins and humans.  Bigger, more 
+complex the critter, harder the rote).  Time 3 (if you speed up you CAN cast 
+other spells, but I may increase the difficulty a bit).
+
+TECHNOCRACY CHANGES: Clear things up a bit on the various groups and 
+their spheres.
+
+ROTE MASTERY: Spend experince/study points to master a spell, making it 
+easier.
+
+
+	
+

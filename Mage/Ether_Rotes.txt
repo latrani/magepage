@@ -1,0 +1,274 @@
+SONS OF ETHER ROTES
+by Andrew E. Larsen
+aelarsen@students.wisc.edu
+	
+	The Sons of Ether operate on the principle that science (i.e. 
+magic) must not only be correct, but also elegant and aesthetically 
+pleasing as well.  Science must be fun and exciting, and their rotes 
+often appeal to the inner child.  Many of their rotes involve creating 
+new and unheard of forces and substances with exciting and unusual 
+properties (thus most Sons have at least a 2 in Prime).  This is not to 
+say that their effects are harmless.  While most Sons conduct their 
+science along socially responsible lines (at least, as they understand 
+the concept), an enraged Son is capable of dispatching the object of 
+her wrath in any number of unpleasant and peculiar ways.
+	The Sons of Ether take their rotes very seriously, and the 
+majority of them are published, along with copious notes and test 
+results, in Paradigma.  Thus most Sons have at least an awareness of 
+the rotes invented by other members of the Tradition.  Failing to 
+publish one's rotes is generally seen as a sign of a poor scientist.  
+Despite this, most Sons hold one or two of their favorite rotes back 
+from publication, in order to be able to surprise others.  Thus, many 
+Sons have developed the same rote, and they often accuse each other 
+of stealing their ideas.
+	Another problem they frequently encounter is inter-Tradition 
+paradigm clashes.  While all Sons follow the basic principles of their 
+Tradition, there is a wider latitude of belief within this Tradition 
+than within any other.  Occasionally two Sons will discover that their 
+approach to science is so different that they count as Sleeper 
+witnesses to each other's work.  Fortunately, this is a comparatively 
+rare phenomenon.  
+
+Chemical Shortcut (Matter 1)
+
+	The Sons of Ether employ a different version of the periodic 
+table than do conventional scientists, which can only be expressed 
+with a three dimensional model.  This allows them to pay attention to 
+properties that most scientists overlook, thus enabling them to 
+produce surprising results in laboratories.
+(Each success reduces the difficulty on Science, Medicine, 
+Pharmacology, Chemistry and similar rolls by 1, to a minimum 
+difficulty of 3.)
+
+The Revised Periodic Table (Matter 2)
+
+	By following the Revised Periodic Table, a Son can subject any 
+chemical to various processes and produce any other chemical he 
+chooses, so long as he carefully monitors the reaction with his 
+scientific meter.  Students learn this as the first step in producing 
+new elements and substances.
+(This transmutes simple substances into other simple substances.  It 
+also allows desperate Sons to make do without the proper chemicals 
+in a pinch.)
+
+Crystallize Ether (Matter 2 Prime 2)
+	
+	This is one of the most basic tricks in the corpus of Etheric 
+science, but it has many uses.  By generating an electric current on 
+the proper wave band, the Ether in an area can be crystallized into a 
+hard substance which can be used as a barrier, bridge, or even a 
+prison (crystallized ether is normally gas permeable, but if the 
+bandwidth is correct, the prisoner may have trouble getting oxygen).
+(Each success gives the crystallized ether 2 'Health' levels and 1 soak 
+die.)
+
+Dr Goldburg's Fabulous Aerating Pill (Matter 3 Prime 2)
+
+	This tiny white pill, usually sold alongside the Survival Pill in 
+the Galactic Explorer's Survival Kit, provides oxygen in hostile 
+atmospheres.
+(The pill provides a 24 hour supply of oxygen to the user, time- 
+released inside the lungs, while simultaneously transforming toxic 
+gases into harmless compounds released through exhalation.)  
+
+Gratzium (Matter 5, Prime 2)
+	
+	Doctor Wilhelm Gratz became tired of creating a different new 
+substance every time he needed a different property, and thus he 
+invented Gratzium, a substance capable of demonstrating multiple 
+properties simultaneously as need arises.  Thus when his lab was 
+raided by a group of Akashic monks who disliked his research 
+methods, they first had to break down a Gratzium door with the 
+tensile strength of diamond, and then had to contend with the 
+soporific effects of gaseous Gratzium.  He was able to escape by 
+distracting them with an explosion caused when he irradiated a small 
+lump of powdered Gratzium.
+(Each success on the initial role to create the Gratzium allows it to 
+take on a single property specified by the Son at a later moment.  
+Since these properties are revealed with statements like "Did I 
+mention that liquid Gratzium is highly corrosive?", the effect is 
+normally coincidental.)
+
+Controlled Reaction (Forces 3, sometimes Prime 2)
+
+	By limiting, canceling, or directing the release of energy during 
+chemical reactions, the Son can effectively negate or expand any 
+reaction she chooses.  The practical applications of this rote are 
+endless, as the Sons are fond of demonstrating.
+(Forces 3 is necessary to limit or negate a reaction, while Prime 2 can 
+be added to increase a reaction.  Each success halves or doubles the 
+energy in the reaction.  3 successes will prevent a reaction entirely.  
+The exact effects are up to the storyteller, but greatly increasing the 
+energy in a reaction will of course produce an explosion.)
+ 
+Darklight Projection (Forces 3 Prime 2)
+
+	Professor Prion discovered that by mixing different frequencies 
+of the electromagnetic spectrum in the proper ratio, she was able to 
+generate fields of darkness that propagate the way light does.  Sadly, 
+the rote is not attributed to her, because her rival Professor Klaxon 
+saw her notes and published the effect before she did, but Prion had 
+the last laugh when she realized that he had failed to read her note 
+about the necessity of using Spectrumnal Imaging Goggles within the 
+projection field.
+(The darkness produced by the rote is complete if more than 1 
+success is scored.  Since the effect cancels out all other light waves, it 
+cannot be penetrated by viewing on infrared or ultraviolet.  But if 
+the scientist thinks to view along the wavelength of darkness, he will 
+be able to see normally.)
+
+The Silence Cannon (Forces 3 Prime 2)
+
+	Another discovery of Professor Prion, who has a fascination 
+with negative forces, the Silence Cannon emits devastating blasts of 
+countersound, which not only cause damage but also temporarily 
+render a region free of all sound.
+(The Silence Cannon does normal Forces damage, and renders an area 
+silent for one round.)
+
+The Inertia Bomb (Forces 3)
+
+	Yet another creation of Professor Prion, this device converts 
+motive energy into inertia, thus making movement impossible within 
+the bomb's area for the duration of the effect.  Among the bomb's 
+various peculiar effects, falling objects are frozen in place.
+(Each success gives the region 2 dice of Strength for the purpose of 
+immobilizing those within it.  Anything attempting to move must 
+overcome the effect's Strength with its own.  This is generally 
+vulgar.)
+
+Track Xenofauna (Spirit 1 Life 1)
+
+	The renowned xenobiologist Ferris Shu was dedicated to the 
+discovery of previously undocumented life forms, and she employed 
+this rote to help her find such creatures.
+(This allows the scientist to look through the Gauntlet into the Middle 
+Umbra, thus spotting any Umbral creatures in the vicinity.)
+
+Etheric Probe (Spirit 1 or 5 Correspondence 2)
+
+	By launching a remote probe into the Near or Deep Umbra , a 
+scientist is able to explore the Umbra without leaving the safety of 
+her laboratory.
+(This rote combines Correspondence Sensing with Umbral Sight.)
+
+Ectoplasmic Depolarization (Spirit 4 Prime 2)
+
+	The psychic researcher Prof. Ephemeris encountered many 
+strange spiritual entities during his years of active research, and he 
+eventually perfected this procedure to force disembodied 
+consciousnesses to vacate the hosts they possess.  This process 
+depolarizes the ectoplasm which makes up a spiritual entity, thus  
+reducing the entity's ability to influence human minds.
+(Each success grants the equivalent of 3 Willpower successes on an 
+exorcism roll.)
+
+Phosphorescent Marker (Life 2 Spirit 1)
+
+	To aid her search for a mysterious creature living in the sewers 
+of San Francisc, Ferris Shu released a large quantity of specially 
+treated spores into the sewer system.  These spores quickly matured 
+into a fungus that produced a ultraviolet phosphorescence if they 
+came into contact with any lifeform that was not native to the 
+Tellurian, and thus she was able to locate the kappa that had gotten 
+trapped on this side of the Gauntlet.  Ferris employed a wide variety 
+of effects based around simple lifeforms.
+(This is one example of the sort of effects that biologist Sons produce 
+on a regular basis.  They are generally tailored to one specific 
+circumstance, but the basic principle is enormously flexible.)
+
+Dr Goldburg's Wonderful Pan-Sufficient Survival Pill (Life 3 Prime 2)
+
+	Dr Goldburg specialized in Umbral exploration and discovered 
+many fascinating phenomena and strange lifeforms, until his ill-fated 
+journey to Rigel 3, when a particularly strange lifeform discovered 
+him.  But his legacy lives on in the form of his many inventions to 
+make planetary exploration easier.  This tiny blue pill provides its 
+user with complete nourishment for 1 day.
+
+Reduction to Base Components (Life 5, Matter 3)
+
+	Doctor Amino developed a process which would enable him to 
+reduce organic tissue down to its base elements, each separated out 
+into a neat mass.  He had intended to use it to smuggle endangered 
+species into the country so he could examine them in a controlled 
+setting, but the process saved his life when he was forced to use it on 
+an NWO agent who tried to apprehend him.  To this day, the agent 
+sits in a neat  row of jars on Amino's shelf.
+(The rote is an all or nothing effect.  It requires 5 successes, and if 
+successful, the person is separated out into a variety of chemicals, 
+and will remain so until the spell is reapplied.  If the effect is 
+unwoven by someone who doesn't possess the appropriately ranked 
+spheres, the target will die.)
+
+Orgonne Dilation (Mind 3)
+by Tristan Brandhorst
+	
+	The pulp hero Professor Etheric spent much of his scientific 
+energy in the study of the human body's vitalizing Orgonne energy.  
+He discovered that by dilating the metacerebelic valves through 
+which flowed he could siphon the energy out of a person, thus 
+sapping them of the will to resist.
+(This effect acts as a Mental command to surrender by devitalizing 
+the target and making them feel that resistance is pointless.)
+
+Temporary Inducement of Detangible State (Prime 2, sometimes 
+Mind 1)
+
+	Another basic effect, this involves running an electric current 
+of the proper frequency through any solid object, thus temporarily 
+disrupting the object's tangible matrix, which in laymen's terms 
+means making it desolidified briefly.  The most common use of this 
+effect is to allow a Son to escape imprisonment (a distressingly 
+common situation).  Thus Doctor Pangaea recommends to all the 
+students in his Practical Science 101 course that they carry a hidden 
+battery on their persons at all times for just such emergencies.
+(This rote is basically the same effect as Rubbing the Bones, except 
+that it takes advantage of the target's momentary lack of existence.  
+Thus restraints can be slipped out of.  Mind 1 is sometimes added to 
+enable to Son to calculate the moment of maximum detangibility, 
+thus allowing him to run through a fluxing door before it reforms.  
+Without Mind, there is a chance that the door would reform as the 
+Son was passing through it, a highly unpleasant experience for all 
+involved.
+
+Disintegration Ray (Prime 4)
+
+	A favorite of the Sons of Ether during the 1950s, this device 
+annihilates an object by draining it of all Quintessence.
+(This is identical to the Flames of Purification rote used by the 
+Celestial Chorus.  When it is complete, all that is left is a fine layer of 
+granular matter.)
+
+Etheric Flux Jamming (Correspondence 3)
+
+	This rote is widely employed by Sons to prevent rivals from 
+spying on their research.  It creates a zone of fluxed ether which 
+causes interference on remote viewing and teleportation attempts.
+(This is a standard Warding rote.)
+
+Force Field (Correspondence 3, Forces 3, Life 3, Matter 3)
+
+	This is the realization of the classic science fiction idea.  This 
+creates a barrier through which Force, Life, and Matter patterns 
+cannot pass.  Since it is resistant to Forces, it manifests as a pale gray 
+region that feels solid to the touch.  Sound, vibrations, and wave 
+phenomena cannot pass it either.
+(Each success in creating the field offers 1 die of countermagic 
+against attempts to breach the field magically.  This effect is vulgar.)
+
+Chronal Energy Generator (Time 4)
+
+	Professor Reflux is justly pleased with this invention, which has 
+enabled him to finish his experiments when his wife was demanding 
+that he sit down to dinner immediately, as well as saving his life a 
+few times.  The Chronal Energy Generator literally creates time.  He 
+has also perfected a small, hand-held version that provides a similar, 
+but less powerful effect.
+(The Chronal Energy Generator generates extra time within the field 
+of its effect.  Each success creates 1 hour of time for the scientist to 
+use as he pleases.  It is possible to cross into or out of the field, but 
+doing so will cause damage equal to the number of successes. The 
+Portable Chronal Energy Generator acts as the Time 3 effect "Time 
+Dilation".)
+

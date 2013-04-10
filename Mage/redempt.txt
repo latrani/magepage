@@ -1,0 +1,166 @@
+From owner-adashiel_bjzwod@miagra.ucs.indiana.edu  Thu Nov  7 19:13:45 1996
+Received: from roatan.ucs.indiana.edu (roatan.ucs.indiana.edu [129.79.10.65])
+	by mail.nada.kth.se (8.6.10/8.6.10) with ESMTP
+	id TAA15059 for <nv91-asa@nada.kth.se>;
+	Thu, 7 Nov 1996 19:13:34 +0100
+Received: from miagra.ucs.indiana.edu (miagra.ucs.indiana.edu [129.79.5.181]) by roatan.ucs.indiana.edu (8.7.3/8.7.3/1.12IUPO) with ESMTP id NAA05546; Thu, 7 Nov 1996 13:10:19 -0500 (EST)
+Received: (from majordom@localhost) by miagra.ucs.indiana.edu (8.7.5/8.7.3/1.1skh) id NAA25039 for adashiel_bjzwod-outgoing; Thu, 7 Nov 1996 13:10:04 -0500 (EST)
+Received: from copper.ucs.indiana.edu (adashiel@copper.ucs.indiana.edu [129.79.1.4]) by miagra.ucs.indiana.edu (8.7.5/8.7.3/1.1skh) with SMTP id NAA25027 for <adashiel_bjzwod@majordomo.ucs.indiana.edu>; Thu, 7 Nov 1996 13:10:00 -0500 (EST)
+Received: from localhost (adashiel@localhost) by copper.ucs.indiana.edu (8.6.11/8.6.11) with SMTP id NAA03588 for <adashiel_bjzwod@majordomo.ucs.indiana.edu>; Thu, 7 Nov 1996 13:10:04 -0500
+Date: Thu, 7 Nov 1996 13:10:04 -0500 (EST)
+From: Abe Dashiell <adashiel@indiana.edu>
+X-Sender: adashiel@copper.ucs.indiana.edu
+To: adashiel_bjzwod@majordomo.ucs.indiana.edu
+Subject: BJZ: (MAGE revision) Nephandi: The Redemption by Jonathan Lang
+Message-ID: <Pine.OSF.3.95.961107130918.31216A-100000@copper.ucs.indiana.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-adashiel_bjzwod@indiana.edu
+Precedence: bulk
+Status: RO
+X-Status: 
+
+                                  Nephandi
+                               The Redemption
+
+By Jonathan Lang (traveler@io.com)
+
+Introduction
+
+     This is an expansion on the background introduced in the Book of
+     Madness; it covers those rare Nephandi who have managed to resist the
+     corruption. Their souls are tainted with darkness, yet they constantly
+     fight against the corruption of their soul; they are the Repentant.
+
+Dark Avatar
+
+     Every Nephandus has a Dark Avatar against which the Repentant
+     struggles; the True Nephandi have already lost this struggle, and are
+     dominated by their dark sides.
+
+Dark Nature
+
+     Every Nephandus has three Archtypes, instead of the usual two: Nature,
+     Demeanor, and Dark Nature. The Dark Nature defines how the Nephandi's
+     Avatar attempts to control her. Following is a list of the possible
+     Dark Natures:
+
+        o The Abuser
+        o The Director
+        o The Freak
+        o The Leech
+        o The Martyr
+        o The Monster
+        o The Parent
+        o The Perfectionist
+        o The Pusher
+        o The Rationalist
+
+     For details about each Dark Nature, look up the equivelent Shadow
+     Archtype from Wraith: the Oblivion.
+
+Corruption
+
+     This trait represents the taint on the Nephandi's Avatar; as the
+     Repentant loses ground in her struggle, her Corruption increases. When
+     the mage's Permanent Corruption reaches 10, she becomes a Fallen One,
+     and loses her chance at Redemption. A Repentant Nephandi starts with
+     six points of Corruption; he can modify this with Freebie Points, as
+     below; permanent Corruption cannot start below 1 or above 10, and
+     temporary Corruption cannot start below 0 or above 9.
+
+        o +1 Permanent Corruption -- 5 point Flaw
+        o +1 Temporary Corruption -- 2 point Flaw
+        o -1 Permanent Corruption -- 5 point Merit
+        o -1 Temporary Corruption -- 2 point Merit
+
+Gaining Corruption
+
+     There are several ways the Nephandus can gain Corruption:
+
+       1. Qlippothic Dice: At any time, the Avatar can offer the Nephandus
+          extra dice on any roll he makes; each Botch on these Qlippothic
+          Dice earns the mage a point of Corruption. The Avatar can offer up
+          to five extra dice for a given roll.
+
+       2. the Hierarchy of Sins: Whenever the Nephandi does something evil
+          or corrupt, she must make a Corruption roll against a difficulty
+          found on the Hierarchy of Sins listed below (remember the rule of
+          Automatic Successes; if her Corruption equals or exceeds the
+          Difficulty of the Sin, she automatically succeeds). On a failure,
+          she gains a point of Corruption; on a botch, she gains two points.
+
+                          The Hierarchy of Sins
+
+           Difficulty Sin
+           1          Accidental Wrongdoing
+           2          Purposeful Wrongdoing
+           3          Purposeful Infliction of Injury
+           4          Theft and Robbery
+           5          Unpremeditated Murder
+           6          Wanton Destruction
+           7          Deliberate Cause of Injury
+           8          Sadism and Perversion
+           9          Premeditated Murder
+           10         Only the most depraved and immoral acts
+
+       3. Qlippothic Magick: Qlippothic Magick is the dark side of the
+          Spheres, and is used exclusively by the Nephandi; whenever
+          Qlippothic Magick botches, the Mage gains a point of Corruption.
+
+Losing Corruption
+
+     The Repentant can fight off Corruption by displays of heroism, uncommon
+     compassion, or remorse for past evil deeds. The more corrupt the mage
+     is, the greater the deed must be to recover a point of Corruption.
+
+     Removing a point of Corruption is comparable in difficulty and
+     technique to gaining a point of Arete; the Mage must go through an
+     Epiphany, in that he must confront his Avatar. However, he is
+     confronting the taint in the Avatar and purifying it, rather than being
+     tested by the Avatar.
+
+Taints
+
+     A Repentant has some additional choices for Merits and Flaws:
+
+        o Tainted Trait: cost varies -- the mage gets an extra point for use
+          in one trait, decided at character creation; however, any use of
+          the extra point earns the mage a point of Corruption. The cost
+          depends on the trait being tainted:
+
+             + Attributes -- 3 points per dot
+             + Abilities -- 1 point per dot
+             + Spheres -- 5 points per dot
+
+        o Bad Karma: 3 point Flaw -- the Avatar can spend a point of
+          Corruption to decrease the number of successes gained by the mage,
+          just as the mage can expend a point of Willpower to increase the
+          number of successes.
+
+        o Freudian Slip: 5 point Flaw -- By spending a point of temporary
+          Corruption, the Avatar can force the mage to perform one action.
+          This can be resisted by spending a point of Willpower and making a
+          Willpower roll (difficulty = Corruption, minimum of 3).
+
+        o Devil's Dare: 7 point Flaw -- The Avatar may invest a number of
+          points of temporary Corruption into a single action; before the
+          end of the session, the mage must perform that action. If she
+          doesn't, she loses a number of Willpower points equal to the
+          number of Corruption points that the Avatar expended.
+
+Redemption
+
+     If a Nephandi ever reduces her Corruption to zero, she has achieved
+     Redemption; she loses her Dark Nature and Taints completely, and is no
+     longer a Nephandi.
+
+===============================================================================
+To unsubscribe: mail "unsubcribe adashiel_bjzwod" to majordomo@indiana.edu
+---
+Under NO circumstances send mail to adashiel_bjzwod@indiana.edu
+---
+If you have any questions, comments or problems, send mail to
+adashiel@copper.ucs.indiana.edu
+===============================================================================
+

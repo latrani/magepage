@@ -1,0 +1,1198 @@
+<!doctype html>
+
+<!--[if IE 7]><html data-ytrk-page="TOPIC PAGINATED" class="no-js  lt-ie10 lt-ie9 lt-ie8 ie7" lang="en"><![endif]-->
+<!--[if IE 8]><html data-ytrk-page="TOPIC PAGINATED" class="no-js  lt-ie10 lt-ie9 ie8" lang="en"><![endif]-->
+<!--[if IE 9]><html data-ytrk-page="TOPIC PAGINATED" class="no-js  lt-ie10 ie9" lang="en"><![endif]-->
+<!--[if gt IE 9]><!--><html data-ytrk-page="TOPIC PAGINATED" class="no-js " lang="en"><!--<![endif]-->
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# ">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="American social scientist known for his contributions to a number of fields, including psychology, mathematics, statistics, and operations research, all of which he synthesized in a key theory that earned..." /><meta name="keywords" content="Herbert A. Simon (American social scientist), encyclopedia, encyclopaedia, britannica, article" /><meta name="canonical" content="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon" />
+        <link rel="canonical" href="lathropsberg.txt" />
+    <meta name="next" href="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon/545185yblinks/Year-in-Review-Links" /><meta property="og:type" content="website"/><meta property="og:title" content="Herbert A. Simon (American social scientist) -- Britannica Online Encyclopedia"/><meta property="og:description" content="American social scientist known for his contributions to a number of fields, including psychology, mathematics, statistics, and operations research, all of which he synthesized in a key theory that earned..."/><meta property="og:site_name" content="Encyclopedia Britannica" />
+
+<meta property="og:url" content="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon"/><meta property="og:image" content="http://media-3.web.britannica.com/eb-media/41/20941-003-AB80F738.jpg" />
+        <meta property="og:image:type" content="image/jpg" />
+        <meta property="og:image:width" content="100" /><meta property="og:image:height" content="85" /><meta property="fb:app_id" content="460189420663882"/>
+
+    <title>Herbert A. Simon (American social scientist) -- Britannica Online Encyclopedia</title>
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" type="text/css" href="http://www.britannica.com/resources/css/libs/bootstrap/min-bootstrap.css?v=1.11.21" />
+	<link rel="stylesheet" type="text/css" href="http://www.britannica.com/resources/css/libs/min-ui.css?v=1.11.21" />
+    <link rel="stylesheet" type="text/css" href="http://www.britannica.com/resources/css/min-mendel.css?v=1.11.21" />
+
+    <script type="text/javascript">
+	Mendel = {};
+    Mendel.analytics = {};
+	Mendel.config = {
+        page: 'Topic',
+        testVersion: 'D',
+		server: 'http://www.britannica.com',
+		currentUrl: 'http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon',
+        sharedUrl: 'http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon',
+		resourceServer: 'http://www.britannica.com',
+		resourcePath: '/resources',
+        userType: 'ANONYMOUS',
+        userInfo: { statId: '', userId: '', currency: 'USD', country: 'US' },
+		isLoggedInAsUser: false,
+        hasAds: true,
+        logGoogleGTP: false,
+        isMobile: true,
+        analytics: [
+            
+            { type: 'google', id: 'UA-6636134-11', click: true, page: true }
+            
+        ],
+        logAnalytics: false,
+        facebookAppId: '460189420663882'
+        
+        ,topicGratis: 'SESSION'
+        
+        ,channel: 'HISTORY_AND_SOCIETY'
+        ,contentType: 'PAGINATED'
+        ,topicId: 545185
+        ,topicTitle: 'Herbert A. Simon'
+        ,isIndexEntry: false
+        ,hasOnlyOneSection: true
+        ,hasBibliography: false
+        ,sectionId: '545185main'
+        
+    };
+
+    navigator.geolocation = null;
+
+    </script>
+
+    <script src="http://www.britannica.com/resources/js/libs/modernizr-2.6.2.min.js"></script>
+
+    <script type="text/javascript">
+        var _qevents = _qevents || [];
+
+        (function() {
+            var scpt = document.getElementsByTagName('script')[0];
+
+            var elem = document.createElement('script');
+            elem.src = "http://edge.quantserve.com/quant.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            scpt.parentNode.insertBefore(elem, scpt);
+
+            elem = document.createElement('script');
+            elem.src = "http://pixel.quantserve.com/seg/p-fePJXh17dNmkk.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            scpt.parentNode.insertBefore(elem, scpt);
+        })();
+    </script><!-- Start: GPT Async -->
+
+<script type="text/javascript">
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function(){ var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
+<script type="text/javascript">
+
+    
+            var googleGTP_slot1;
+        
+            var googleGTP_slot2;
+        
+            var googleGTP_slot3;
+        
+            var googleGTP_slot4;
+        
+            var googleGTP_slot5;
+        
+
+    function googleGTPAsync() {
+
+        googletag.cmd.push(function() {
+
+        googleGTP_slot1 = googletag.defineSlot( '/34444486/EB_D/ARTICLES_FREE', [[300,250]],'div-gpt-ad-8ca5985b-e51e-4e41-ac20-d36f9a91759c').setTargeting('POS',['TOP']).addService(googletag.pubads());
+                    googleGTP_slot2 = googletag.defineSlot( '/34444486/EB_D/ARTICLES_FREE', [[300,250]],'div-gpt-ad-647b5812-dbb9-4562-9b96-5a624f03d778').setTargeting('POS',['BOT']).addService(googletag.pubads());
+                    googleGTP_slot3 = googletag.defineSlot( '/34444486/EB_D/ARTICLES_FREE', [[300,250]],'div-gpt-ad-8e7f0452-009d-400b-91d9-c826f2575fcb').setTargeting('POS',['BOT2']).addService(googletag.pubads());
+                    googleGTP_slot4 = googletag.defineSlot( '/34444486/EB_D/ARTICLES_FREE', [[728,90]],'div-gpt-ad-2d000e9b-fb0e-4576-a89d-84fe5fa0e47c').setTargeting('POS',['TOP']).addService(googletag.pubads());
+                    googleGTP_slot5 = googletag.defineSlot( '/34444486/EB_D/ARTICLES_FREE', [[728,90]],'div-gpt-ad-04c5cbc3-ec07-4e66-9027-e15810f0f080').setTargeting('POS',['BOT']).addService(googletag.pubads());
+                    
+
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().setTargeting('QSEGS',[ Mendel.Ads.getQuantcastInfo() ]);
+            
+            googletag.pubads().setTargeting('ARTICLE',['545185']);
+            
+            googletag.pubads().setTargeting('CAT',['history society,social sciences']);
+            
+            googletag.pubads().enableAsyncRendering();
+            googletag.enableServices();
+            Mendel.Ads.displayGoogleGTPLog('After Init Google GTP');
+            Mendel.Ads.clearGoogleGTPLog();
+        });
+    }
+
+</script>
+
+<!-- End: GPT --></head>
+
+<body class="topicPage ui-noshift-on-modal user-ANONYMOUS">
+
+    <div class="md-page-wrapper has-footer-ad">
+
+        <nav class="header-nav">
+    <ul>
+        <li><a data-ytrk="128" href="http://corporate.britannica.com/ads">About Our Ads</a>&bull;</li>
+        <li><a data-ytrk="26" href="http://corporate.britannica.com/about">About Us</a>&bull;</li>
+        <li><a data-ytrk="23" href="http://advocacy.britannica.com">Advocacy</a>&bull;</li>
+        <li><a data-ytrk="24" href="http://www.britannica.com/blogs">Blog</a>&bull;</li>
+        <li><a data-ytrk="127" href="http://help.eb.com/premium2/index.htm" target="_blank">Help</a>&bull;</li>
+        <li><a data-ytrk="27" href="http://info.eb.com">School & Library Products</a>&bull;</li>
+        <li>
+                <a data-ytrk="/25" href="http://store.britannica.com" target="_blank">SHOP</a><ul class="header-nav-submenu">
+                        <li><a href="http://www.britannica.com/store/educational-learning-books.html" target="_blank">Books</a></li>
+                        <li><a href="http://www.britannica.com/store/reference-software.html" target="_blank">Software</a></li>
+                        <li><a href="http://www.britannica.com/store/dvd-documentaries.html" target="_blank">DVDs</a></li>
+                        <li><a href="http://www.britannica.com/store/puzzles-games.html" target="_blank">Toys & Games</a></li>
+                        <li><a href="http://www.britannica.com/store/foreign-language-learning.html" target="_blank">Foreign Language</a></li>
+                        <li><a href="http://www.britannica.com/store/student-child.html" target="_blank">Kids</a></li>
+                    </ul>
+                </li>
+        </ul>
+</nav>
+
+
+<header>
+
+    <div class="header-ad hide-on-edit">
+            
+
+
+
+
+<div id="div-gpt-ad-2d000e9b-fb0e-4576-a89d-84fe5fa0e47c" class="google-ad-iframe ui-hide-on-modal google-ad-iframe-728-90" style="width: 728px; height: 90px"></div></div>
+    <div class="header-content">
+
+        <a class="logo-homepage" href="http://www.britannica.com/"></a>
+
+        <form action="http://www.britannica.com/search" id="searchCriteria" method="get" class="header search-form">
+	<input type="text" id="header-query" name="query" placeholder="Search Articles" class="query font-sans"  />
+    <input data-ytrk="21" type="submit" class="search-submit" value=""/>
+</form><div class="header-login not-logged-in">
+                            <div class="header-login-links"><a data-ytrk="17" href="lathropsberg.txt#" id="md-header-login-link">Login</a>
+                            &nbsp;&#124;&nbsp;<a data-ytrk="/19" href="https://safe1.britannica.com/registrations/signup.do?partnerCode=EBOPPGSUB_MDL">Subscribe</a></div>
+                        </div>
+                    <div style="clear: both"></div>
+
+    </div>
+
+</header><div id="content" class="md-content">
+
+            <div class="md-page-toolbar">
+
+    <div id="tt-toolbar" class="toolbar-small-buttons font-sans">
+            <ul>
+                <li data-ytrk="69" id="tt-contributors"><span>Contributors</span></li>
+                <li data-ytrk="70" id="tt-history"><span>History</span></li>
+				<li data-ytrk="117" id="tt-citations"><span>Citations</span></li>
+                </ul>
+        </div><div class="toolbar-small-buttons font-sans" id="page-toolbar">
+        <ul>
+            <li data-ytrk="111" id="pt-print" class="t-print"><a href="lathropsberg.txt#" target="_blank" rel="nofollow"><span>Print</span></a></li>
+            <li data-ytrk="112" id="pt-email" class="t-email"><span>Email</span></li>
+            <li data-ytrk="113" id="pt-share" class="t-share"><span>Share</span></li>
+            <li data-ytrk="118" id="pt-fontp"><span>A<sup>+</sup></span></li>
+            <li data-ytrk="119" id="pt-fontm"><span>A<sup>-</sup></span></li>
+        </ul>
+    </div>
+
+    <div style="clear:both;"></div>
+</div>
+
+<div id="page-socialbar">
+    <div data-ytrk="116" class="page-socialbar-google"><g:plusone size="medium"></g:plusone></div><div data-ytrk="115" class="page-socialbar-twitter"><a href="https://twitter.com/share" class="twitter-share-button"  data-url="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon" data-via="Britannica" data-counturl="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon">Tweet</a></div>
+    <div data-ytrk="114" class="page-socialbar-facebook"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.britannica.com%2FEBchecked%2Ftopic%2F545185%2FHerbert-A-Simon&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe></div></div>
+<div class="topic-content-wrapper">
+
+        <div id="topic-wrapper" class="font-serif hascarousel">
+
+            <div id="md-topic-title">
+
+                <h1>Herbert A. Simon</h1>
+
+                <span class="md-free-pass-article font-sans" title="Enjoy your free sample of subscription article content"><span>Article Free Pass</span></span>
+                        <div id="md-help-contribution" class="hide-on-edit font-sans">
+						<span id="md-help-contribution-i" class="font-serif" title="Submit modifications or new content for review to help us expand this topic.<br/>Our editors will review, and accepted updates will be published to the site.">i</span> Help us expand this topic. <div data-ytrk="68" id="md-edit-article"><span>Submit Contribution</span></div>
+					</div>
+				</div>
+
+			<div class="md-carousel-wrapper hide-on-edit">
+
+    <div id="md-slideshow" class="hide-on-edit font-sans">
+
+        <ul id="md-slideshow-tabs" class="md-green-tabs has-media">
+
+            <li id="md-slideshow-tab-image">
+                        <a data-ytrk="87" href="lathropsberg.txt#md-slideshow-tab-image-content">Images</a>
+                    </li>
+                <li id="md-slideshow-tab-lists">
+                        <a data-ytrk="178" href="lathropsberg.txt#md-slideshow-tab-lists-content">Lists & More</a>
+                    </li><li id="md-slideshow-tab-quizzes">
+                        <a data-ytrk="177" href="lathropsberg.txt#md-slideshow-tab-quizzes-content">Quizzes</a>
+                    </li></ul>
+
+        <div class="ui-tabs-content">
+
+            <div class="md-slideshow-content" id="md-slideshow-tab-image-content">
+                       <div class="md-slideshow-wrapper">
+                       <ul id="md-slideshow-tab-list-image">
+                       <li class="show-alt show-alt-below">
+                               <a data-ytrk="77" data-type="image" href="http://www.britannica.com/EBchecked/media/18105/Herbert-A-Simon-1978" class="media-overlay-link">
+                                            <img class="md-slideshow-tmb" width="100" height="85" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-1.web.britannica.com/eb-media/41/20941-003-AB80F738.jpg" alt="Simon, Herbert A. [Credit: &#x00a9; Bettmann/Corbis]" />
+                                            <noscript>
+                                                <img width="100" height="85" src="http://media-1.web.britannica.com/eb-media/41/20941-003-AB80F738.jpg" alt="Simon, Herbert A. [Credit: &#x00a9; Bettmann/Corbis]" />
+                                            </noscript>
+                                        </a>
+                                   </li>
+                       </ul>
+                       </div>
+                   </div>
+               <div class="md-slideshow-content md-slideshow-wide-tiles" id="md-slideshow-tab-quizzes-content">
+                    <div class="md-slideshow-wrapper">
+                        <ul id="md-slideshow-tab-list-quizzes">
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/quiz/40/history-fact-or-fiction" data-ytrk="/199">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-2.web.britannica.com/eb-media/mendel/quizzes100/40_quiz_100x100_153528.jpg" alt="History: Fact or Fiction?"/>
+                                    <noscript>
+                                        <img src="http://media-2.web.britannica.com/eb-media/mendel/quizzes100/40_quiz_100x100_153528.jpg" width="100" height="100" alt="History: Fact or Fiction?" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/quiz/2/history-buff-quiz" data-ytrk="/199">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-2.web.britannica.com/eb-media/mendel/quizzes100/2_quiz_100x100_153419.jpg" alt="History Buff Quiz"/>
+                                    <noscript>
+                                        <img src="http://media-2.web.britannica.com/eb-media/mendel/quizzes100/2_quiz_100x100_153419.jpg" width="100" height="100" alt="History Buff Quiz" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/quiz/17/european-history-quiz" data-ytrk="/199">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-3.web.britannica.com/eb-media/mendel/quizzes100/17_quiz_100x100_99617.jpg" alt="European History Quiz"/>
+                                    <noscript>
+                                        <img src="http://media-3.web.britannica.com/eb-media/mendel/quizzes100/17_quiz_100x100_99617.jpg" width="100" height="100" alt="European History Quiz" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/quiz/16/world-wars-" data-ytrk="/199">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-1.web.britannica.com/eb-media/mendel/quizzes100/16_quiz_100x100_159669.jpg" alt="World Wars "/>
+                                    <noscript>
+                                        <img src="http://media-1.web.britannica.com/eb-media/mendel/quizzes100/16_quiz_100x100_159669.jpg" width="100" height="100" alt="World Wars " />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/quiz/14/all-american-history-quiz" data-ytrk="/199">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-3.web.britannica.com/eb-media/mendel/quizzes100/14_quiz_100x100_153009.jpg" alt="All-American History Quiz"/>
+                                    <noscript>
+                                        <img src="http://media-3.web.britannica.com/eb-media/mendel/quizzes100/14_quiz_100x100_153009.jpg" width="100" height="100" alt="All-American History Quiz" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/quiz/3/word-nerd-quiz" data-ytrk="/199">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-3.web.britannica.com/eb-media/mendel/quizzes100/3_quiz_100x100_157609.jpg" alt="Word Nerd Quiz"/>
+                                    <noscript>
+                                        <img src="http://media-3.web.britannica.com/eb-media/mendel/quizzes100/3_quiz_100x100_157609.jpg" width="100" height="100" alt="Word Nerd Quiz" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/quiz/20/languages-alphabets" data-ytrk="/199">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-1.web.britannica.com/eb-media/mendel/quizzes100/20_quiz_100x100_129562.jpg" alt="Languages & Alphabets"/>
+                                    <noscript>
+                                        <img src="http://media-1.web.britannica.com/eb-media/mendel/quizzes100/20_quiz_100x100_129562.jpg" width="100" height="100" alt="Languages & Alphabets" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/quiz/31/word-nerd-fact-or-fiction" data-ytrk="/199">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-2.web.britannica.com/eb-media/mendel/quizzes100/31_quiz_100x100_94024.jpg" alt="Word Nerd: Fact or Fiction?"/>
+                                    <noscript>
+                                        <img src="http://media-2.web.britannica.com/eb-media/mendel/quizzes100/31_quiz_100x100_94024.jpg" width="100" height="100" alt="Word Nerd: Fact or Fiction?" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/quiz/21/the-literary-world-authors-poets" data-ytrk="/199">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-1.web.britannica.com/eb-media/mendel/quizzes100/21_quiz_100x100_154652.jpg" alt="The Literary World (Authors & Poets)"/>
+                                    <noscript>
+                                        <img src="http://media-1.web.britannica.com/eb-media/mendel/quizzes100/21_quiz_100x100_154652.jpg" width="100" height="100" alt="The Literary World (Authors & Poets)" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/quiz/22/the-literary-world-characters-quiz" data-ytrk="/199">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-1.web.britannica.com/eb-media/mendel/quizzes100/22_quiz_100x100_129373.jpg" alt="The Literary World (Characters Quiz)"/>
+                                    <noscript>
+                                        <img src="http://media-1.web.britannica.com/eb-media/mendel/quizzes100/22_quiz_100x100_129373.jpg" width="100" height="100" alt="The Literary World (Characters Quiz)" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/quiz/23/the-literary-world" data-ytrk="/199">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-3.web.britannica.com/eb-media/mendel/quizzes100/23_quiz_100x100_142356.jpg" alt="The Literary World"/>
+                                    <noscript>
+                                        <img src="http://media-3.web.britannica.com/eb-media/mendel/quizzes100/23_quiz_100x100_142356.jpg" width="100" height="100" alt="The Literary World" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/quiz/4/the-literary-world-famous-novels" data-ytrk="/199">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-2.web.britannica.com/eb-media/mendel/quizzes100/4_quiz_100x100_129404.jpg" alt="The Literary World (Famous Novels)"/>
+                                    <noscript>
+                                        <img src="http://media-2.web.britannica.com/eb-media/mendel/quizzes100/4_quiz_100x100_129404.jpg" width="100" height="100" alt="The Literary World (Famous Novels)" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/quiz/32/literary-favorites-fact-or-fiction" data-ytrk="/199">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-3.web.britannica.com/eb-media/mendel/quizzes100/32_quiz_100x100_130817.jpg" alt="Literary Favorites: Fact or Fiction?"/>
+                                    <noscript>
+                                        <img src="http://media-3.web.britannica.com/eb-media/mendel/quizzes100/32_quiz_100x100_130817.jpg" width="100" height="100" alt="Literary Favorites: Fact or Fiction?" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            <div class="md-slideshow-content" id="md-slideshow-tab-lists-content">
+                    <div class="md-slideshow-wrapper">
+                        <ul id="md-slideshow-tab-list-lists">
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/list/11/6-signs-its-already-the-future" data-ytrk="/200">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-3.web.britannica.com/eb-media/mendel/lists100/list-11-163096-100x100.jpg" alt="6 Signs It's Already the Future"/>
+                                    <noscript>
+                                        <img src="http://media-3.web.britannica.com/eb-media/mendel/lists100/list-11-163096-100x100.jpg" width="100" height="100" alt="6 Signs It's Already the Future" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/list/3/7-drugs-that-changed-the-world" data-ytrk="/200">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-2.web.britannica.com/eb-media/mendel/lists100/list-3-143753-100x100.jpg" alt="7 Drugs that Changed the World"/>
+                                    <noscript>
+                                        <img src="http://media-2.web.britannica.com/eb-media/mendel/lists100/list-3-143753-100x100.jpg" width="100" height="100" alt="7 Drugs that Changed the World" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/list/5/9-love-stories-with-tragic-endings" data-ytrk="/200">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-3.web.britannica.com/eb-media/mendel/lists100/list-5-284485-100x100.jpg" alt="9 Love Stories with Tragic Endings"/>
+                                    <noscript>
+                                        <img src="http://media-3.web.britannica.com/eb-media/mendel/lists100/list-5-284485-100x100.jpg" width="100" height="100" alt="9 Love Stories with Tragic Endings" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/list/4/10-deadly-animals-that-could-fit-in-your-breadbox" data-ytrk="/200">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-1.web.britannica.com/eb-media/mendel/lists100/list-4-157817-100x100.jpg" alt="10 Deadly Animals that Could Fit in Your Breadbox"/>
+                                    <noscript>
+                                        <img src="http://media-1.web.britannica.com/eb-media/mendel/lists100/list-4-157817-100x100.jpg" width="100" height="100" alt="10 Deadly Animals that Could Fit in Your Breadbox" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/list/10/8-of-the-worlds-deadliest-snakes" data-ytrk="/200">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-2.web.britannica.com/eb-media/mendel/lists100/list-10-152568-100x100.jpg" alt="8 of the World's Deadliest Snakes"/>
+                                    <noscript>
+                                        <img src="http://media-2.web.britannica.com/eb-media/mendel/lists100/list-10-152568-100x100.jpg" width="100" height="100" alt="8 of the World's Deadliest Snakes" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/list/7/10-places-to-visit-in-the-solar-system" data-ytrk="/200">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-3.web.britannica.com/eb-media/mendel/lists100/list-7-145481-100x100.jpg" alt="10 Places to Visit in the Solar System"/>
+                                    <noscript>
+                                        <img src="http://media-3.web.britannica.com/eb-media/mendel/lists100/list-7-145481-100x100.jpg" width="100" height="100" alt="10 Places to Visit in the Solar System" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/list/1/11-famous-movie-monsters" data-ytrk="/200">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-2.web.britannica.com/eb-media/mendel/lists100/list-1-90592-100x100.jpg" alt="11 Famous Movie Monsters"/>
+                                    <noscript>
+                                        <img src="http://media-2.web.britannica.com/eb-media/mendel/lists100/list-1-90592-100x100.jpg" width="100" height="100" alt="11 Famous Movie Monsters" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/list/8/9-hotly-disputed-borders-of-the-world" data-ytrk="/200">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-3.web.britannica.com/eb-media/mendel/lists100/list-8-151339-100x100.jpg" alt="9 Hotly Disputed Borders of the World"/>
+                                    <noscript>
+                                        <img src="http://media-3.web.britannica.com/eb-media/mendel/lists100/list-8-151339-100x100.jpg" width="100" height="100" alt="9 Hotly Disputed Borders of the World" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/list/9/11-historical-head-turners" data-ytrk="/200">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-3.web.britannica.com/eb-media/mendel/lists100/list-9-121095-100x100.jpg" alt="11 Historical Head Turners"/>
+                                    <noscript>
+                                        <img src="http://media-3.web.britannica.com/eb-media/mendel/lists100/list-9-121095-100x100.jpg" width="100" height="100" alt="11 Historical Head Turners" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/list/6/13-ways-of-looking-at-a-blackbird" data-ytrk="/200">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-3.web.britannica.com/eb-media/mendel/lists100/list-6-42760094-100x100.jpg" alt="13 Ways of Looking at a Blackbird"/>
+                                    <noscript>
+                                        <img src="http://media-3.web.britannica.com/eb-media/mendel/lists100/list-6-42760094-100x100.jpg" width="100" height="100" alt="13 Ways of Looking at a Blackbird" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        <li class="show-alt show-alt-below">
+                                <a href="http://www.britannica.com/list/2/10-musical-acts-that-scored-10-number-one-hits" data-ytrk="/200">
+                                    <img class="md-slideshow-tmb" width="100" height="100" src="http://www.britannica.com/resources/images/shared/blank.gif" data-ui-src="http://media-2.web.britannica.com/eb-media/mendel/lists100/list-2-153237-100x100.jpg" alt="10 Musical Acts That Scored 10 Number-One Hits"/>
+                                    <noscript>
+                                        <img src="http://media-2.web.britannica.com/eb-media/mendel/lists100/list-2-153237-100x100.jpg" width="100" height="100" alt="10 Musical Acts That Scored 10 Number-One Hits" />
+                                    </noscript>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+    </div>
+
+</div><div class="topic-content resizable-content">
+                <section id="toc545185main" class="eb-topic-section" print-toc="toc-545185main-545185main"><a href="http://www.britannica.com/EBchecked/media/18105/Herbert-A-Simon-1978" class="bps-assembly-container media-overlay-link" media_id="18105" data-type="image" data-ytrk="76"><img class="show-alt" alt="Simon, Herbert A. [Credit: © Bettmann/Corbis]" src="http://www.britannica.com/resources/images/shared/blank.gif" data-src="http://media-1.web.britannica.com/eb-media/41/20941-003-AB80F738.jpg" width="100" height="85"><noscript><img alt="Simon, Herbert A. [Credit: © Bettmann/Corbis]" src="http://media-1.web.britannica.com/eb-media/41/20941-003-AB80F738.jpg" width="100" height="85"></noscript></a><p><b><span class="srTitle">Herbert A. Simon</span></b><b>,</b>&nbsp;in full<span class="alternate"> Herbert Alexander Simon</span>&nbsp;
+    &nbsp;(born June 15, 1916,&nbsp;Milwaukee, Wis., U.S.—died Feb. 9, 2001,&nbsp;Pittsburgh, Pa.),&nbsp;American social scientist known for his contributions to a number of fields, including <a href="http://www.britannica.com/EBchecked/topic/481700/psychology">psychology</a>, mathematics, <a href="http://www.britannica.com/EBchecked/topic/564172/statistics">statistics</a>, and <a href="http://www.britannica.com/EBchecked/topic/682073/operations-research">operations research</a>, all of which he synthesized in a key theory that earned him the 1978 Nobel Prize for Economics. Simon and his longtime collaborator <a href="http://www.britannica.com/EBchecked/topic/412915/Allen-Newell">Allen Newell</a> won the 1975 <a href="http://www.britannica.com/EBchecked/topic/738752/Turing-Award">A.M. Turing Award</a>, the highest honour in <a href="http://www.britannica.com/EBchecked/topic/130675/computer-science">computer science</a>, for their “basic contributions to <a href="http://www.britannica.com/EBchecked/topic/37146/artificial-intelligence-AI">artificial intelligence</a>, the psychology of human cognition, and list processing.”</p><!--[END-FIRST-PARAGRAPH]--><p>Simon graduated from the University of Chicago in 1936 and earned a doctorate in political science there in 1943. After holding various posts in political science, he became a professor of administration and psychology at the Carnegie Institute of Technology (now Carnegie Mellon University) in 1949, later becoming the Richard King Mellon University Professor of Computer Science and Psychology there.</p><p>He is best known for his work on the theory of corporate decision making known as “<a name="ref652030" id="ref652030"></a><a href="http://www.britannica.com/EBchecked/topic/58702/behaviourism">behaviourism</a>.” In his influential book <em><a name="ref166742" id="ref166742"></a><a href="http://www.britannica.com/EBchecked/topic/6099/Administrative-Behavior">Administrative Behavior</a></em> (1947), Simon sought to replace the highly simplified classical approach to economic modeling—based on a concept of the single decision-making, profit-maximizing entrepreneur—with an approach that recognized multiple factors that contribute to decision making. According to Simon, this theoretical framework provides a more realistic understanding of a world in which decision making can affect prices and outputs.</p><p>Crucial to this theory is the concept of “<a name="ref736135" id="ref736135"></a>satisficing” behaviour—achieving acceptable economic objectives while minimizing complications and risks—as contrasted with the traditional emphasis on maximizing profits. Simon’s theory thus offers a way to consider the psychological aspects of decision making that classical economists have tended to ignore.</p><p>Later in his career, Simon pursued means of creating artificial intelligence through computer technology. He wrote several books on computers, economics, and management, and in 1986 he won the U.S. National Medal of Science.</p></section><!--[END-FIRST-SECTION]--></div>
+
+			<div id="topic-pagination" class="pagination hide-on-edit font-sans">
+    <ul>
+        <li class="active">
+                <a data-ytrk="/75" href="lathropsberg.txt" title="Introduction">1</a>
+            </li>            
+        <li >
+                <a data-ytrk="/75" href="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon/545185yblinks/Year-in-Review-Links" title="Year in Review Links">2</a>
+            </li>            
+        <li >
+                <a data-ytrk="/75" href="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon/545185suppinfo/Supplemental-Information" title="Supplemental Information">3</a>
+            </li>            
+        <span class="pagination-next-previous"><a id="topic-pagination-next" data-ytrk="/130" href="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon/545185yblinks/Year-in-Review-Links" title="Year in Review Links">Next Page</a> &gt;</span>
+        </ul>
+</div>
+<div class="google-ad-block">
+
+    <script type="text/javascript">
+        google_ad_client = "ca-pub-0081271244777268";
+        google_ad_slot = "1985271456";
+        google_ad_width = 468;
+        google_ad_height = 60;
+    </script>
+
+    <div class="small-ad-header">ADS BY GOOGLE</div>
+    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="md-content-box font-sans promo-box md-topic-promo-box">
+    <div class="md-content-box-title">You May Also Like...</div>
+    <div class="md-content-box-content">
+        <ul>
+        
+            
+            
+            <li>
+                
+                <a  alt="You love words. You adore alliteration. And you chortle at the thought of nailing this quiz." class="show-alt show-alt-above" data-ytrk="/154" href="http://www.britannica.com/quiz/31/word-nerd-fact-or-fiction">
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+        <div class="md-square-image-wrapper">
+            
+            
+            
+                
+                
+                    <img class="md-sidebar-box-content-list-img" src="http://media-3.web.britannica.com/eb-media/mendel/quizzes100/31_quiz_100x100_94024.jpg" style=" " />
+                
+            
+        </div>
+
+    
+ 
+                <span>Quiz: Word Nerd: Fact or Fiction?</span></a>
+            </li>
+            
+        
+            
+            
+            <li>
+                
+                <a  alt="Click here to see images of Aristotle, one of the greatest minds of all time." class="show-alt show-alt-above" data-ytrk="/155" href="http://www.britannica.com/EBchecked/media/2917">
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+        <div class="md-square-image-wrapper">
+            
+            
+            
+                
+                
+                    <img class="md-sidebar-box-content-list-img" src="http://media-2.web.britannica.com/eb-media/mendel/galleries100/igallery-aristotle-142279-100x100.jpg" style=" " />
+                
+            
+        </div>
+
+    
+ 
+                <span>Image Gallery: Aristotle</span></a>
+            </li>
+            
+        
+            
+            
+            <li>
+                
+                <a  alt="Part of Europe's appeal is its old buildings and ancient streets. Just how much do you really know about the continent's fascinating past?" class="show-alt show-alt-above" data-ytrk="/156" href="http://www.britannica.com/quiz/17/european-history-quiz">
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+        <div class="md-square-image-wrapper">
+            
+            
+            
+                
+                
+                    <img class="md-sidebar-box-content-list-img" src="http://media-3.web.britannica.com/eb-media/mendel/quizzes100/17_quiz_100x100_99617.jpg" style=" " />
+                
+            
+        </div>
+
+    
+ 
+                <span>European History Quiz</span></a>
+            </li>
+            
+        
+            
+            
+            <li>
+                
+                <a  alt="One of pop music's most exclusive clubs contains some of its biggest stars." class="show-alt show-alt-above" data-ytrk="/157" href="http://www.britannica.com/list/2/10-musical-acts-that-scored-10-number-one-hits">
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+        <div class="md-square-image-wrapper">
+            
+            
+            
+                
+                
+                    <img class="md-sidebar-box-content-list-img" src="http://media-3.web.britannica.com/eb-media/mendel/lists100/list-2-153237-100x100.jpg" style=" " />
+                
+            
+        </div>
+
+    
+ 
+                <span>List: 10 Musical Acts That Scored 10 Number-One Hits</span></a>
+            </li>
+            
+        
+            
+            
+            <li>
+                
+                <a  alt="Roses are red, violets are blue, this poem is bad, but our quiz will challenge you!" class="show-alt show-alt-above" data-ytrk="/158" href="http://www.britannica.com/quiz/21/the-literary-world-authors-poets">
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+        <div class="md-square-image-wrapper">
+            
+            
+            
+                
+                
+                    <img class="md-sidebar-box-content-list-img" src="http://media-3.web.britannica.com/eb-media/mendel/quizzes100/21_quiz_100x100_154652.jpg" style=" " />
+                
+            
+        </div>
+
+    
+ 
+                <span>Quiz: The Literary World (Authors & Poets)</span></a>
+            </li>
+            
+        
+        </ul>
+    </div>
+</div>
+<div class="md-fb-comments hide-on-edit">
+                    <div id="didnt-know" class="font-sans" >
+                        <div class="title"><span class="quote font-serif">&#8220;</span>I Didn't Know That...<span class="quote font-serif">&#8221;</span></div>
+                        <p>What made you want to look up "<i>Herbert A. Simon</i>"? Please share what surprised you most...</p>
+                    </div>
+                        <div id="fb-comments" class="fb-comments" data-href="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon" data-num-posts="10"></div>
+                </div>
+			</div>
+
+            <div class="md-sidebar-background"></div>
+            <div id="sidebar-desktop-placeholder"></div>  <aside id="topic-sidebar" class="md-sidebar">
+
+    <div class="md-sidebar-upsell hide-on-edit">
+               <a href="https://safe1.britannica.com/registrations/signup.do?partnerCode=EBOPTPCPGDHDR_MDL"><img src="http://safe.britannica.com/safeimages/sidebar_sub_upsell2.jpg" /></a></div>
+   	<div class="md-sidebar-box md-sidebar-toc-one-section-true font-sans" id="md-sidebar-toc">
+            <div class="md-sidebar-box-title md-green-gradient"><span>TABLE OF CONTENTS</span>
+            <div data-ytrk="81" class="md-sidebar-box-title-button" id="md-sidebar-toc-expand">Expand</div>
+            </div>
+            <div class="md-sidebar-box-content">
+                <div id="topic-toc" class="topic-toc"><div class="toc-box"><ul class="toc-ul"><li class="lv1" data-section="545185main" data-toc="545185main"><a href="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon/545185main/Article">Top of article</a></li><li class="lv1" data-section="545185yblinks" data-toc="545185yblinks"><a href="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon/545185yblinks/Year-in-Review-Links">Year in Review Links</a></li><li class="lv1 toc-no-edit" data-section="545185suppinfo" data-toc="545185suppinfo"><a href="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon/545185suppinfo/Supplemental-Information">Supplemental Information</a><ul><li class="lv2" data-section="545185suppinfo" data-toc="545185spotlights"><a href="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon/545185suppinfo/Supplemental-Information#toc545185spotlights">Spotlights</a></li></ul></li><li class="lv1 toc-no-edit" id="et-biblio"><a href="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon/545185suppinfo/Supplemental-Information#tocBiblio">Bibliography</a></li><li class="lv1 toc-no-edit" id="et-websites"><a href="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon/545185suppinfo/Supplemental-Information#tocWebsites">Websites</a></li></ul></div></div>
+            </div>
+        </div>
+    <div class="hide-on-edit">
+
+        <div id="div-gpt-ad-8ca5985b-e51e-4e41-ac20-d36f9a91759c" class="google-ad-iframe ui-hide-on-modal google-ad-iframe-300-250" style="width: 300px; height: 250px"></div><div class="md-sidebar-box font-sans sidebar-quiz-box">
+
+    <div class="md-sidebar-box-title md-green-gradient">
+        <span>POPULAR QUIZZES</span>
+    </div>
+
+    <div class="md-sidebar-box-content md-sidebar-box-content-list">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul>
+    
+        
+        <li class="show-alt show-alt-left  with-numbers">
+            <a data-ytrk="/135" href="http://www.britannica.com/quiz/41/science-quiz"  alt="Put your science smarts under the microscope and see how much you know about bloodstones, biomes, buoyancy, and more! " >
+                
+
+                    
+                        <div class="md-sidebar-list-item-number">1</div>
+                        <div class="md-sidebar-list-item-title"><span>Science Quiz</span></div>
+                        
+                            
+                                
+                                
+                                <img src="http://media-1.web.britannica.com/eb-media/mendel/quizzes/41_quiz_150x80_142335.jpg" />
+                            
+                        
+                    
+
+                    
+
+                
+            </a>
+        </li>
+    
+        
+        <li class="show-alt show-alt-left  with-numbers">
+            <a data-ytrk="/135" href="http://www.britannica.com/quiz/40/history-fact-or-fiction"  alt="Get hooked on history as this quiz sorts out the past. Find out who really invented movable type, who Winston Churchill called "Mum," and when the first sonic boom was heard." >
+                
+
+                    
+                        <div class="md-sidebar-list-item-number">2</div>
+                        <div class="md-sidebar-list-item-title"><span>History: Fact or Fiction?</span></div>
+                        
+                            
+                                
+                                
+                                <img src="http://media-1.web.britannica.com/eb-media/mendel/quizzes/40_quiz_150x80_153528.jpg" />
+                            
+                        
+                    
+
+                    
+
+                
+            </a>
+        </li>
+    
+        
+        <li class="show-alt show-alt-left  with-numbers last">
+            <a data-ytrk="/135" href="http://www.britannica.com/quiz/42/science-fact-or-fiction"  alt="Do you get fired up about physics? Giddy about geology? Sort out science fact from fiction with these questions." >
+                
+
+                    
+                        <div class="md-sidebar-list-item-number">3</div>
+                        <div class="md-sidebar-list-item-title"><span>Science: Fact or Fiction?</span></div>
+                        
+                            
+                                
+                                
+                                <img src="http://media-2.web.britannica.com/eb-media/mendel/quizzes/42_quiz_150x80_129565.jpg" />
+                            
+                        
+                    
+
+                    
+
+                
+            </a>
+        </li>
+    
+</ul>
+        
+            <a data-ytrk="/85" href="http://www.britannica.com/quiz/browse/all" data-title="POPULAR QUIZZES" data-redirect="true" class="md-sidebar-list-all">See More...</a>
+        
+    </div>
+</div><div id="div-gpt-ad-647b5812-dbb9-4562-9b96-5a624f03d778" class="google-ad-iframe ui-hide-on-modal google-ad-iframe-300-250" style="width: 300px; height: 250px"></div><div class="md-sidebar-box font-sans ">
+
+    <div class="md-sidebar-box-title md-green-gradient">
+        <span>related people</span>
+    </div>
+
+    <div class="md-sidebar-box-content md-sidebar-box-content-list">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul>
+    
+        
+        <li class="show-alt show-alt-left  last">
+            <a data-ytrk="/82" href="http://www.britannica.com/EBchecked/topic/412915/Allen-Newell"  alt="American computer scientist and one of the pioneers of the science of artificial intelligence (AI)." >
+                
+
+                    
+
+                    
+                        
+                            
+                                <div class="md-default-topic-image"></div>
+                                
+                                
+                            
+                        
+                        <div class="md-sidebar-list-item-title"><span>Allen Newell <em>(American computer scientist)</em></span></div>
+                    
+
+                
+            </a>
+        </li>
+    
+</ul>
+        
+    </div>
+</div><div id="div-gpt-ad-8e7f0452-009d-400b-91d9-c826f2575fcb" class="google-ad-iframe ui-hide-on-modal google-ad-iframe-300-250" style="width: 300px; height: 250px"></div></div>
+
+</aside>
+<div style="clear:both"></div>
+
+        </div>
+
+    <div class="md-footer-filler hide-on-edit has-footer-ad"></div>
+
+        </div>
+
+    </div>
+
+    <footer id="md-footer" class="footer-wrapper hide-on-edit has-footer-ad">
+
+    <div class="footer-ad">
+            
+
+
+
+
+<div id="div-gpt-ad-04c5cbc3-ec07-4e66-9027-e15810f0f080" class="google-ad-iframe ui-hide-on-modal google-ad-iframe-728-90" style="width: 728px; height: 90px"></div></div>
+    <div class="footer font-sans ui-noshift-on-modal">
+        <div class="footer-links">
+            <dl>
+                <dt>Our Sites</dt>
+                <dd><a data-ytrk="28" href="http://kids.britannica.com" target="_blank">Britannica Kids</a></dd>
+                <dd><a data-ytrk="29" href="http://www.merriam-webster.com" target="_blank">Merriam-Webster</a></dd>
+                <dd><a data-ytrk="30" href="http://britannicasmartmath.com" target="_blank">Britannica SmartMath</a></dd>
+                <dd><a data-ytrk="31" href="http://info.eb.com" target="_blank">School & Library</a></dd>
+                <dd><a data-ytrk="33" href="http://store.britannica.com" target="_blank">Britannica Store</a></dd>
+                <dd><a href="http://advocacy.britannica.com" target="_blank">Advocacy for Animals</a></dd>
+                <dd><a data-ytrk="/175" href="http://www.britannica.com/quiz/browse">Quizzes</a></dd>
+                <dd><a data-ytrk="/176" href="http://www.britannica.com/gallery/browse">Image Galleries</a></dd>
+                <dd><a data-ytrk="/201" href="http://www.britannica.com/qa/topic/545185">Q & As</a></dd>
+        </dl>
+
+            <dl>
+                <dt>Mobile</dt>
+                <dd><a data-ytrk="34" href="http://itunes.apple.com/us/app/id447919187?mt=8" target="_blank">iPhone App</a></dd>
+                <dd><a data-ytrk="35" href="http://itunes.apple.com/us/app/id447919187?mt=8" target="_blank">iPad App</a></dd>
+                <dd><a data-ytrk="36" href="http://corporate.eb.com/apps/" target="_blank">Britannica Kids Apps</a></dd>
+            </dl>
+
+            <dl>
+                <dt>Stay Connected</dt>
+                <dd><a data-ytrk="37" href="http://corporate.britannica.com/contact/consumer/" target="_blank">Contact Us</a></dd>
+                <dd><a data-ytrk="38" href="http://www.facebook.com/britannica" target="_blank">Facebook</a></dd>
+                <dd><a data-ytrk="39" href="http://www.twitter.com/britannica" target="_blank">Twitter</a></dd>
+                <dd><a data-ytrk="40" href="http://www.youtube.com/britannica" target="_blank">YouTube</a></dd>
+                <dd><a data-ytrk="41" href="https://safe.britannica.com/customer/mailinglist/" target="_blank">Newsletters</a></dd>
+                <dd><a data-ytrk="42" href="http://www.britannica.com/feeds" target="_blank">RSS</a></dd>
+                <dd><a data-ytrk="43" href="http://www.britannica.com/widgets" target="_blank">Widgets</a></dd>
+            </dl>
+
+            <dl>
+                <dt>International</dt>
+                <dd><a data-ytrk="44" href="http://www.britannica.com.au" target="_blank">Australia</a></dd>
+                <dd><a data-ytrk="45" href="http://www.britannica.com.br" target="_blank">Brazil</a></dd>
+                <dd><a data-ytrk="123" href="http://www.china.eb.com" target="_blank">China</a></dd>
+                <dd><a data-ytrk="47" href="http://www.britannicaindia.com" target="_blank">India</a></dd>
+                <dd><a data-ytrk="124" href="http://www.britannica.co.jp" target="_blank">Japan</a></dd>
+                <dd><a data-ytrk="48" href="http://www.britannica.co.kr" target="_blank">Korea</a></dd>
+                <dd><a data-ytrk="49" href="http://www.britannica.es" target="_blank">Latin America</a></dd>
+                <dd><a data-ytrk="51" href="http://www.britannica.co.uk" target="_blank">United Kingdom</a></dd>
+            </dl>
+
+            <dl class="md-footer-ce">
+                <dt>Content & Editorial</dt>
+                <dd><a data-ytrk="132" href="http://corporate.britannica.com/publishing-partner-program" target="_blank">Publishing Partner Program</a></dd>
+                <dd><a data-ytrk="52" href="http://corporate.britannica.com/syndication" target="_blank">Syndication</a></dd>
+                <dd><a data-ytrk="53" href="http://corporate.britannica.com/intl_publishing.html" target="_blank">International Publishing</a></dd>
+                <dd><a data-ytrk="54" href="http://corporate.britannica.com/bps/reftools.html" target="_blank">Webmaster</a></dd>
+                <dd><a data-ytrk="56" href="http://www.britannica.com/blogs/calendar" target="_blank">Blog Archive</a></dd>
+                <dd><a data-ytrk="57" href="http://www.britannica.com/sitemap" >Site Map</a></dd>
+            </dl>
+
+            <dl class="md-footer-corporate">
+                <dt>Corporate</dt>
+                <dd><a data-ytrk="59" href="http://corporate.britannica.com" target="_blank">About Us</a></dd>
+                <dd><a data-ytrk="129" href="http://corporate.britannica.com/ads" target="_blank">About Our Ads</a></dd>
+                <dd><a data-ytrk="60" href="http://corporate.britannica.com/privacy.html" target="_blank">Privacy Policy</a></dd>
+                <dd><a data-ytrk="61" href="http://corporate.britannica.com/termsofuse.html" target="_blank">Terms of Use</a></dd>
+            </dl>
+
+            <div class="footer-copyright">&copy;2013 Encyclop&aelig;dia Britannica, Inc. </div>
+       </div>
+    </div>
+</footer>
+<div id="topic-toc2" class="topic-toc">
+            <div class="topic-toc-popup-title md-green-gradient">Table Of Contents<span id="topic-toc-popup-close">×</span></div>
+            <div class="topic-toc-popup-wrapper">
+                <div class="toc-box"><ul class="toc-ul"><li class="lv1" data-section="545185main" data-toc="545185main"><a href="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon/545185main/Article">Top of article</a></li><li class="lv1" data-section="545185yblinks" data-toc="545185yblinks"><a href="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon/545185yblinks/Year-in-Review-Links">Year in Review Links</a></li><li class="lv1 toc-no-edit" data-section="545185suppinfo" data-toc="545185suppinfo"><a href="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon/545185suppinfo/Supplemental-Information">Supplemental Information</a><ul><li class="lv2" data-section="545185suppinfo" data-toc="545185spotlights"><a href="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon/545185suppinfo/Supplemental-Information#toc545185spotlights">Spotlights</a></li></ul></li><li class="lv1 toc-no-edit" id="et-biblio"><a href="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon/545185suppinfo/Supplemental-Information#tocBiblio">Bibliography</a></li><li class="lv1 toc-no-edit" id="et-websites"><a href="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon/545185suppinfo/Supplemental-Information#tocWebsites">Websites</a></li></ul></div></div>
+        </div>
+
+        <div id="md-media-overlay" class="ui-hidden"></div>
+        <div id="md-media-overlay-ad" class="ui-hidden">
+                <iframe id="media-overlay-ad-iframe" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" width="160" height="600" data-src="/googleiframe/ajax/MEDIA_OVERLAY/D" ></iframe>
+                </div>
+        <div id="md-edit-toolbar">
+	<div class="edit-main">
+		<div class="edit-desc">
+            You are now in edit mode. You may directly modify any part of this article.<br/>
+            Once you are finished, click on the <b>Submit</b> button to send your modifications to our editors for review.<br/>
+            Please note: If you submit anonymously and your work is accepted for publication upon review by the editors,<br/>
+            then your updates will be credited as "The Editors of Encyclopaedia Britannica".
+		</div>
+		<div class="edit-buttons">
+			<button class="btn small" id="md-edit-submit">Submit Contribution</button>
+			<button class="btn small" id="md-edit-cancel">Leave Edit Mode</button>
+		</div>
+	</div>
+	<div class="edit-styles">
+		<ul>
+			<li><button id="edit-bold" title="Bold" data-ui-editor-action="bold"></button></li>
+			<li><button id="edit-italic" title="Italic" data-ui-editor-action="italic"></button></li>
+			<li><button id="edit-underline" title="Underline" data-ui-editor-action="underline"></button></li>
+			<li><button id="edit-strikethrough" title="Strike Through" data-ui-editor-action="strikethrough"></button></li>
+			<li><button id="edit-sup" title="Superscript" data-ui-editor-action="superscript"></button></li>
+			<li><button id="edit-sub" title="Subscript" data-ui-editor-action="subscript"></button></li>
+			<li><button id="edit-indent" title="Increase Indent" data-ui-editor-action="indent"></button></li>
+			<li><button id="edit-dindent" title="Decrease Indent" data-ui-editor-action="outdent"></button></li>
+			<li><button id="edit-ul" title="Bulleted List" data-ui-editor-action="insertunorderedlist"></button></li>
+			<li><button id="edit-ol" title="Ordered List" data-ui-editor-action="insertorderedlist"></button></li>
+			<li><button id="edit-table" title="Insert Table" data-ui-editor-action="insert-table"></button></li>
+			<li><button id="edit-link" title="Insert Link" data-ui-editor-action="link"></button></li>
+            <li><button id="edit-special-char" title="Insert Special Character" data-ui-editor-action="special-characters"></button></li>
+		</ul>
+	</div>
+</div>
+
+<form method="POST" action="http://www.britannica.com/print/topic/545185" id="md-print-dialog" title="Create printer friendly version" class="ui-hidden" target="_blank">
+    <div class="md-print-desc">Please select the sections you want to print<div class="btn small" id="md-print-dialog-all">Select All</div></div>
+    <div id="md-print-dialog-toc">
+        <input type="checkbox" id="md-toc-print-toc" name="section[]" value="toc"/><label for="md-toc-print-toc" class="ui-form-label-right">Table of contents</label>
+    </div>
+    <input type="hidden" name="citations" id="md-print-dialog-citations" />
+    <input type="submit" value="Print" id="md-print-dialog-submit" disabled="true"/><button>Cancel</button>
+</form>
+<div id="md-citations" class="md-overlay-citations ui-hidden" title="Citations">
+
+    <form method="post" action="http://www.britannica.com/exportCitations/ajax">
+        <input type="hidden" name="fullurl" value="http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon" />
+        <input type="hidden" name="title" value="Herbert A. Simon" />
+        <input type="hidden" name="reftype" value="Encyclop&aelig;dia Britannica" />
+        <input type="hidden" name="sitename" value="Encyclop&aelig;dia Britannica Online" />
+        <input type="submit" id="export-citations" value="Export" class="btn" title="This feature allows you to export a Britannica citation in the RIS format used by many citation management software programs." />
+    </form>
+
+    <dl>
+        <dt>MLA style:</dt>
+        <dd>"Herbert A. Simon".&nbsp;<em>Encyclop&aelig;dia Britannica. Encyclop&aelig;dia Britannica Online.</em><br/>Encyclop&aelig;dia Britannica Inc., 2013. Web. 09 Apr. 2013<br/>&lt;<a href="lathropsberg.txt">http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon</a>&gt;.</dd>
+        <dt>APA style:</dt>
+        <dd>Herbert A. Simon.&nbsp;(2013). In <em>Encyclop&aelig;dia Britannica</em>. Retrieved from <a href="lathropsberg.txt">http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon</a></dd>
+        <dt>Harvard style:</dt>
+        <dd>Herbert A. Simon.&nbsp;2013. <em>Encyclop&aelig;dia Britannica Online</em>. Retrieved 09 April, 2013, from <a href="lathropsberg.txt">http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon</a></dd>
+        <dt>Chicago Manual of Style:</dt>
+        <dd><em>Encyclop&aelig;dia Britannica Online</em>, s. v. "Herbert A. Simon", accessed April 09, 2013, <a href="lathropsberg.txt">http://www.britannica.com/EBchecked/topic/545185/Herbert-A-Simon</a>.</dd>
+    </dl>
+
+    <p class="md-citations-warning">
+        While every effort has been made to follow citation style rules, there may be some discrepancies.<br/>Please refer to the appropriate style manual or other sources if you have any questions.
+    </p>
+
+</div>
+
+
+<div id="md-topic-dictionary-arrow"></div><div id="md-topic-dictionary"><div id="md-topic-dictionary-title" ></div><div id="md-topic-dictionary-close">&times;</div><div id="md-topic-dictionary-content"></div></div>
+
+	    <div id="md-share-dialog" class="ui-hidden">
+    <div class="md-share-dialog-desc">
+        Share this page with your friends, associates, or readers by linking to it from your web site or social networking page.
+    </div>
+    <div class="md-share-dialog-permalink">
+        Permalink
+    </div>
+    <input type="text" id="md-share-dialog-url"  readonly="readonly" />
+    <ul id="bps-share-links">
+         <li><a data-href="http://www.facebook.com/share.php?u=[url]&amp;t=[pageTitle]" title="Add Facebook bookmark" target="_blank" id="md-share-dialog-facebook"><span>Facebook</span></a></li>
+         <li><a data-href="http://twitter.com/share?url=[url]l&amp;text=[pageTitle]" title="Send a Tweet" target="_blank" id="md-share-dialog-tweeter"><span>Tweeter</span></a></li>
+         <li><a data-href="http://www.linkedin.com/shareArticle?mini=true&amp;url=[url]&amp;title=[pageTitle]&amp;source=Encyclopedia+Britannica" title="Share on LinkedIn" target="_blank" id="md-share-dialog-linkedin"><span>LinkedIn</span></a></li>
+         <li><a data-href="http://del.icio.us/post?url=[url]&amp;title=[pageTitle]"  title="Add del.icio.us bookmark" target="_blank" id="md-share-dialog-delicious"><span>Del.icio.us</span></a></li>
+         <li><a data-href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=[url]&amp;title=[pageTitle]"  title="Add Google bookmark" target="_blank" id="md-share-dialog-google"><span>Google Bookmark</span></a></li>
+         <li><a data-href="http://reddit.com/submit?url=[url]&amp;title=[pageTitle]" title="Submit to Reddit" target="_blank" id="md-share-dialog-reddit"><span>Reddit</span></a></li>
+         <li><a data-href="http://www.stumbleupon.com/submit?url=[url]&amp;t=[pageTitle]" title="Add StumbleUpon bookmark" target="_blank" id="md-share-dialog-stumbleupon"><span>StumbleUpon</span></a></li>
+         <li><a data-href="http://digg.com/submit?phase=2&amp;url=[url]" title="Digg it" target="_blank" id="md-share-dialog-diggit"><span>Digg it</span></a></li>
+    </ul>
+    <button id="md-share-copy" class="btn-primary">Copy Link</button><button class="cancel-button">Cancel</button>
+</div><form method="POST" action="http://www.britannica.com/email/ajax" id="md-email-dialog" class="ui-hidden">
+    <label for="md-email-dialog-form-to">To</label><input class="span6" type="text" name="to" data-validation="email" required="true" id="md-email-dialog-form-to" />
+    <label for="md-email-dialog-form-from">From</label><input class="span6" type="text" name="from" data-validation="email" required="true" id="md-email-dialog-form-from" />
+    <label for="md-email-dialog-form-subject">Subject</label><input class="span6" type="text" name="subject" id="md-email-dialog-form-subject"  />
+    <label for="md-email-dialog-form-comments">Comments</label><textarea class="span6" name="comments" id="md-email-dialog-form-comments" maxlength="900" ></textarea>
+    <div class="md-email-dialog-form-msg">(Please limit to 900 characters)</div>
+    <input type="hidden" name="url" id="md-email-dialog-url" />
+    <input type="hidden" name="title" id="md-email-dialog-title" />
+    <input type="submit" value="Send"/><button>Cancel</button>
+</form><div id="loginbox-dialog" class="ui-hidden">
+    <div id="loginbox-dialog-iframe-container"></div>
+    <div class="btn loginbox-btn" id="loginbox-cancel">Cancel</div>
+    <div class="btn loginbox-btn" id="loginbox-continue">Continue</div>
+</div><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
+	<script type="text/javascript">window.jQuery || document.write('<script src="http://www.britannica.com/resources/js/libs/jquery-1.9.1.min.js"><\/script>');</script>
+    <script src="http://www.britannica.com/resources/js/libs/min-ui.js?v=1.11.21"></script>
+    <script src="http://www.britannica.com/resources/js/min-mendel.js?v=1.11.21"></script>
+
+    <script type="text/javascript" src="http://www.britannica.com/resources/js/libs/jwplayer-510.js?v=1.11.21"></script>
+	<script type="text/javascript">
+        $( function() {
+            Mendel.Page.init();
+            Mendel.Header.init();
+            Mendel.Footer.init();
+            Mendel.PageToolbar.init();
+            if ($.isDefined(Mendel.TopicPage)) { Mendel.TopicPage.init(); }
+        });
+
+    </script>
+
+    <script type="text/javascript" id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script>
+        <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+        <div id="fb-root"></div>
+        	<script>(function(d, s, id) {
+        	  var js, fjs = d.getElementsByTagName(s)[0];
+        	  if (d.getElementById(id)) return;
+        	  js = d.createElement(s); js.id = id;
+        	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=460189420663882";
+        	  fjs.parentNode.insertBefore(js, fjs);
+        	}(document, 'script', 'facebook-jssdk'));</script>
+    <!--[if lt IE 7 ]>
+    	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    	<script type="text/javascript">window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+    <![endif]-->
+
+    <script type="text/javascript">
+        _qevents.push( { qacct:"p-fePJXh17dNmkk"} );
+    </script>
+    <noscript>
+        <div style="display: none;"><img src="http://pixel.quantserve.com/pixel/p-fePJXh17dNmkk.gif" height="1" width="1" alt="Quantcast"/></div>
+    </noscript><script type="text/javascript">
+        var _gaq = _gaq || [];
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+<script type="text/javascript">
+        function CE_READY() {
+            CE2.set( 1, 'ANONYMOUS' );
+            CE2.set( 2, 'D' );
+            CE2.set( 3, 'TOPIC PAGINATED' );
+            
+        }
+    </script>
+    <script type="text/javascript">
+        setTimeout(function(){
+            var a=document.createElement("script");
+            var b=document.getElementsByTagName("script")[0];
+            a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/3876.js?"+Math.floor(new Date().getTime()/3600000);
+            a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)
+        }, 1);
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="http://www.britannica.com/webstats/stats.js"></script>
+<script>var EBStat={accountId:-1,host:'www.britannica.com',domain:'www.britannica.com'};try{writeStat(null,{accountId:-1,hostnameOverride:'www.britannica.com',domain:'www.britannica.com'});}catch(err){}</script><script type="text/javascript">
+        $(function() {
+            $(document).bind("ajaxComplete", function(event,request, settings){
+                try {
+                    writeStat("", {
+                        hostnameOverride: 'www.britannica.com',
+                        hitCount: 2,
+                        accountId:  EBStat.accountId,
+                        requestUrl: 'http://www.britannica.com' + settings.url,
+                        referrerUrl: document.location.href,
+                        domain: EBStat.domain
+                    });
+                } catch(err) {}
+            });
+        });
+    </script>
+</body>
+</html>

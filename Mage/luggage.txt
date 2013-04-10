@@ -1,0 +1,147 @@
+From owner-adashiel_bjzwod@miagra.ucs.indiana.edu  Wed Dec  4 19:26:22 1996
+Received: from cayman.ucs.indiana.edu (cayman.ucs.indiana.edu [129.79.10.63])
+	by mail.nada.kth.se (8.6.10/8.6.10) with ESMTP
+	id TAA11868 for <nv91-asa@nada.kth.se>;
+	Wed, 4 Dec 1996 19:26:17 +0100
+Received: from miagra.ucs.indiana.edu (miagra.ucs.indiana.edu [129.79.5.181]) by cayman.ucs.indiana.edu (8.7.3/8.7.3/1.12IUPO) with ESMTP id NAA30153; Wed, 4 Dec 1996 13:24:23 -0500 (EST)
+Received: (from majordom@localhost) by miagra.ucs.indiana.edu (8.7.5/8.7.3/1.1skh) id NAA00287 for adashiel_bjzwod-outgoing; Wed, 4 Dec 1996 13:24:13 -0500 (EST)
+Received: from copper.ucs.indiana.edu (adashiel@copper.ucs.indiana.edu [129.79.1.4]) by miagra.ucs.indiana.edu (8.7.5/8.7.3/1.1skh) with ESMTP id NAA00279 for <adashiel_bjzwod@majordomo.ucs.indiana.edu>; Wed, 4 Dec 1996 13:24:09 -0500 (EST)
+Received: from localhost (adashiel@localhost) by copper.ucs.indiana.edu (8.7.6/8.6.11) with SMTP id NAA22326 for <adashiel_bjzwod@majordomo.ucs.indiana.edu>; Wed, 4 Dec 1996 13:24:33 -0500 (EST)
+Date: Wed, 4 Dec 1996 13:24:32 -0500 (EST)
+From: Abe Dashiell <adashiel@indiana.edu>
+X-Sender: adashiel@copper.ucs.indiana.edu
+To: adashiel_bjzwod@majordomo.ucs.indiana.edu
+Subject: BJZ: (MAGE) The Luggage by Andrew Weitzman
+Message-ID: <Pine.OSF.3.95.961204132406.27270C-100000@copper.ucs.indiana.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-adashiel_bjzwod@indiana.edu
+Precedence: bulk
+Status: RO
+X-Status: 
+
+                                 The Luggage
+
+By Andrew Weitzman (aweitz@cam.org)
+
+Nature
+
+     Fanatic
+
+Demeanor
+
+     Curmudgeon
+
+Attributes
+
+     Strength 5, Dexterity 2, Stamina 5, Charisma 1, Manipulation 1,
+     Appearance 2, Perception 3, Intelligence 1, Wits 3
+
+Abilities
+
+     Alertness 3, Brawl 5, Dodge 1, Intimidation 4, Tracking 5, Stealth 2
+
+Willpower
+
+     9
+
+Innate Countermagick
+
+     3 dice
+
+Health Levels
+
+     OK x 3, -1 x 3, -2 x 3, -4 x 2, Incapacitated
+
+Attacks
+
+     Crush (similar to body slam, but Luggage suffers no Health Level
+     damage); bite (Strength+2, difficulty 6); Snap (similar to grapple, but
+     if Luggage scores three more successes than opponent, opponent has been
+     swallowed whole by Luggage).
+
+Powers
+
+     Infinite internal volume: Some sort of natural Correspondence Effect
+     inherent to the Luggages' nature allows them near-unlimited internal
+     storage space within their bodies. Assume a Luggage can store anything
+     that can be fit through its opening, and can store any number of things
+     without penalty.
+
+     Umbral travel: Luggages possess an innate ability to break through
+     Gauntlets, Horizons, and Pericarps. "Bash through", actually; a Luggage
+     shifting to the spirit worlds literally smashes its way through the
+     barriers. Luggages cannot botch this sort of roll.
+
+     Owner link: The Luggage always knows which direction its master is, no
+     matter how far away she is. At worst, the Luggage with have a general
+     sense in which direction to go to rejoin its owner.
+
+Description
+
+     The Luggages are among the most coveted trade goods among merchants
+     plying the Deep Umbra. Fashioned in some far-off Realm, the method of
+     their construction and even their true nature remain mysteries.
+     Mysticks who have attempted to classify them label the Luggages as
+     "part talisman, part fetish, part familiar, and completely homicidal."
+
+     At rest, a Luggage appears to be an ordinary steamer trunk made from a
+     blondish wood that resembles pine. The sole indication of its unusual
+     characteristics is a tendency to stare; though they have no eyes,
+     Luggages have a peculiar ability to give one the sense that they are
+     regarding you with the same attention a pin has for a butterfly. Their
+     bizarre qualities make themselves clear when the Luggage begins to
+     move. Stubby wooden legs, like those of a centipede, sprout from the
+     base. These allow it to trot -- or, if angry, charge -- across almost
+     any terrain imaginable. When in battle, Luggages have a disconcerting
+     habit of licking their chops with a tongue the color of mahogany.
+
+     These abilities stem from the material Luggages are made from: sapient
+     pearwood. This plant grows in areas left unstable by magickal Effects;
+     as far as can be determined, they "solidify" the reality of areas of
+     their native Realm that have become too chaotic for any other form of
+     life to colonize. Sapient pearwood has been likened to Primium in the
+     way it can shrug off magickal interference. Sapient pearwood also has a
+     primitive intelligence that prefers stable situations -- a "rootedness"
+     if you will.
+
+     This trait carries over into goods constructed of sapient pearwood.
+     Curious mages who have used Mind to delve into the alien psychology of
+     the Luggages have discovered that they form a close bond with their
+     owners. To serve its owner is the reason for a Luggage's existence; the
+     absence of the owner from its life causes a Luggage great mental
+     distress. In the usual run of events this simply means that a Luggage
+     will always trail on the heels of its master unless specifically
+     ordered not to. This does not mean that a Luggage likes its owner,
+     merely that it is supremely loyal. Luggage owners have likened the
+     experience to owning a rather grumpy dog.
+
+     The notorious reputation of Luggages stems from their fanatical
+     devotion to their masters. A Luggage will follow its master to
+     Hell...literally. Nothing will stop a Luggage from finding a lost
+     owner. The longer it misses its owner, the angrier and more stubborn it
+     will get. Anything that gets in its way -- people, Umbrood, mountains,
+     continents -- with be summarily trampled over if the obstacle even
+     hints at getting in the Luggage's way. Luggages have trouble with the
+     concepts of "over," "under," and "around." The meaning of "through" is
+     crystal-clear.
+
+     Luggage combat is pretty forthright, involving a frontal assault that
+     leaves its opponent in small pieces. They are capable of low cunning
+     when the situation demands it; most Luggages simply don't go to the
+     trouble. One nasty trick is their use of their vast internal volume
+     to...well...eat their enemies. Opponents gulped down by a Luggage are
+     never seen again. No one knows where they go -- presumably they are
+     banished to a far region of the Luggage's innards. Attempts to find
+     them end in failure as the Luggage innocently shows the owner's clean
+     underwear instead.
+
+===============================================================================
+To unsubscribe: mail "unsubcribe adashiel_bjzwod" to majordomo@indiana.edu
+---
+Under NO circumstances send mail to adashiel_bjzwod@indiana.edu
+---
+If you have any questions, comments or problems, send mail to
+adashiel@copper.ucs.indiana.edu
+===============================================================================
+

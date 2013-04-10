@@ -1,0 +1,152 @@
+From nv91-asa@nada.kth.se Wed Apr 20 01:06:56 1997
+Status: RO
+X-Status: 
+Received: from guilder.ucdavis.edu (root@guilder.ucdavis.edu [128.120.8.181])
+	by mail.nada.kth.se (8.8.4/8.8.4) with ESMTP
+	id BAA17546 for <nv91-asa@nada.kth.se>;
+	Sun, 20 Apr 1997 01:06:52 +0200 (MET DST)
+Received: from rosarita.engr.ucdavis.edu by guilder.ucdavis.edu (8.8.5/UCD3.8.7)
+	id QAA08302; Sat, 19 Apr 1997 16:06:48 -0700 (PDT)
+Received: from broccoli.engr.ucdavis.edu by rosarita.engr.ucdavis.edu (4.1/EACS-2.1)
+	id AA16567; Sat, 19 Apr 97 16:06:47 PDT
+From: zkarcher@rosarita.engr.ucdavis.edu (Zach Archer)
+Received: by broccoli.engr.ucdavis.edu
+	(1.39.111.2/16.2) id AA194231205; Sat, 19 Apr 1997 16:06:45 -0700
+Date: Sat, 19 Apr 1997 16:06:45 -0700 (PDT)
+To: nv91-asa@nada.kth.se
+Subject: Mage ASCII Char. Sheets
+Message-Id: <Pine.HPP.3.91.970419160526.19416F-100000@broccoli.engr.ucdavis.edu>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+Hey, I took the ASCII character sheets for Mage and tried to make them 
+more useful.. The first one is "Mage Banal", the second is "Mage Ornate".
+Enjoy!
+-- Zach Archer
+zkarcher@engr.ucdavis.edu
+
+======================================================================
+
+                                      MAGE
+			       -= The Ascension =-
+
+NAME:                       Essence:                    Tradition:
+
+Player:                     Nature:                     Mentor:
+
+Chronicle:                  Demeanor:                   Cabal:
+
+===============================================================================
+
+        PHYSICAL                     SOCIAL                     MENTAL
+Strength__________@OOOO     Charisma__________@OOOO     Perception________@OOOO
+Dexterity_________@OOOO     Manipulation______@OOOO     Intelligence______@OOOO
+Stamina___________@OOOO     Appearance________@OOOO     Wits______________@OOOO
+
+===============================================================================
+
+        TALENTS                      SKILLS                   KNOWLEDGES    
+Alertness_________OOOOO     Acrobatics________OOOOO     Computer__________OOOOO
+Athletics_________OOOOO     Drive_____________OOOOO     Cosmology_________OOOOO
+Awareness_________OOOOO     Etiquette_________OOOOO     Culture___________OOOOO
+Brawl_____________OOOOO     Firearms__________OOOOO     Enigmas___________OOOOO
+Dodge_____________OOOOO     Leadership________OOOOO     Investigation_____OOOOO
+Expression________OOOOO     Meditation________OOOOO     Law_______________OOOOO
+Instruction_______OOOOO     Melee_____________OOOOO     Linguist._________OOOOO
+Intimidation______OOOOO     Repair____________OOOOO     Medicine__________OOOOO
+Streetwise________OOOOO     Stealth___________OOOOO     Occult____________OOOOO
+Subterfuge________OOOOO     Survival__________OOOOO     Science___________OOOOO
+__________________OOOOO     __________________OOOOO     __________________OOOOO
+__________________OOOOO     __________________OOOOO     __________________OOOOO
+__________________OOOOO     __________________OOOOO     __________________OOOOO
+__________________OOOOO     __________________OOOOO     __________________OOOOO
+__________________OOOOO     __________________OOOOO     __________________OOOOO
+__________________OOOOO     __________________OOOOO     __________________OOOOO
+__________________OOOOO     __________________OOOOO     __________________OOOOO
+__________________OOOOO     __________________OOOOO     __________________OOOOO
+
+
+     BACKGROUNDS		    SPHERES + FOCI		     HEALTH
+__________________OOOOO     Correspondence___________OOOOO
+__________________OOOOO     Entropy__________________OOOOO     Bruised  -0  [ ]
+__________________OOOOO     Forces___________________OOOOO     Hurt     -1  [ ]
+__________________OOOOO     Life_____________________OOOOO     Injured  -1  [ ]
+__________________OOOOO     Matter___________________OOOOO     Wounded  -2  [ ]
+__________________OOOOO     Mind_____________________OOOOO     Mauled   -3  [ ]
+__________________OOOOO     Prime____________________OOOOO     Crippled -5  [ ]
+__________________OOOOO     Spirit___________________OOOOO     Incapac. -X  [ ]
+__________________OOOOO     Time_____________________OOOOO
+
+   				     ARETE:  {  }
+    MERITS + FLAWS					 Weapon     |Diff|Damg.
+_______________________	      WILLPOWER:  <  >	    ________________|____|_____
+_______________________	    O O O O O O O O O O	    ________________|____|_____
+_______________________				    ________________|____|_____	
+_______________________				    ________________|____|_____
+_______________________	      O O O O O O O O
+_______________________	    _O_ Quintessence O
+_______________________	     O    paradoX    O		       EXPERIENCE
+			      O O O O O O O O		 [____________________]
+
+==================================================================
+
+                                      MAGE
+			       -= The Ascension =-
+
+NAME:                       Essence:                    Tradition:
+
+Player:                     Nature:                     Mentor:
+
+Chronicle:                  Demeanor:                   Cabal:
+
+===============================================================================
+
+~~~~~~~ PHYSICAL ~~~~~~     ~~~~~~~~ SOCIAL ~~~~~~~     ~~~~~~~~ MENTAL ~~~~~~~
+Strength__________@OOOO     Charisma__________@OOOO     Perception________@OOOO
+Dexterity_________@OOOO     Manipulation______@OOOO     Intelligence______@OOOO
+Stamina___________@OOOO     Appearance________@OOOO     Wits______________@OOOO
+
+
+~~~~~~~ TALENTS ~~~~~~~     ~~~~~~~ SKILLS ~~~~~~~~     ~~~~~~ KNOWLEDGES ~~~~~
+Alertness_________OOOOO     Acrobatics________OOOOO     Computer__________OOOOO
+Athletics_________OOOOO     Drive_____________OOOOO     Cosmology_________OOOOO
+Awareness_________OOOOO     Etiquette_________OOOOO     Culture___________OOOOO
+Brawl_____________OOOOO     Firearms__________OOOOO     Enigmas___________OOOOO
+Dodge_____________OOOOO     Leadership________OOOOO     Investigation_____OOOOO
+Expression________OOOOO     Meditation________OOOOO     Law_______________OOOOO
+Instruction_______OOOOO     Melee_____________OOOOO     Linguist._________OOOOO
+Intimidation______OOOOO     Repair____________OOOOO     Medicine__________OOOOO
+Streetwise________OOOOO     Stealth___________OOOOO     Occult____________OOOOO
+Subterfuge________OOOOO     Survival__________OOOOO     Science___________OOOOO
+__________________OOOOO     __________________OOOOO     __________________OOOOO
+__________________OOOOO     __________________OOOOO     __________________OOOOO
+__________________OOOOO     __________________OOOOO     __________________OOOOO
+__________________OOOOO     __________________OOOOO     __________________OOOOO
+__________________OOOOO     __________________OOOOO     __________________OOOOO
+__________________OOOOO     __________________OOOOO     __________________OOOOO
+__________________OOOOO     __________________OOOOO     __________________OOOOO
+__________________OOOOO     __________________OOOOO     __________________OOOOO
+
+
+~~~~~ BACKGROUNDS ~~~~~	    ~~~~~~~ SPHERES + FOCI ~~~~~~~
+__________________OOOOO     Correspondence___________OOOOO     ~~~~ HEALTH ~~~~
+__________________OOOOO     Entropy__________________OOOOO     Bruised  -0  [ ]
+__________________OOOOO     Forces___________________OOOOO     Hurt     -1  [ ]
+__________________OOOOO     Life_____________________OOOOO     Injured  -1  [ ]
+__________________OOOOO     Matter___________________OOOOO     Wounded  -2  [ ]
+__________________OOOOO     Mind_____________________OOOOO     Mauled   -3  [ ]
+__________________OOOOO     Prime____________________OOOOO     Crippled -5  [ ]
+__________________OOOOO     Spirit___________________OOOOO     Incapac. -X  [ ]
+__________________OOOOO     Time_____________________OOOOO
+			    ~~~~~~~~ ARETE:  {  } ~~~~~~~~
+
+~~~~ MERITS + FLAWS ~~~
+_______________________	      WILLPOWER:  <  >	    	 Weapon     |Diff|Damg.
+_______________________	    O O O O O O O O O O	    ________________|____|_____
+_______________________				    ________________|____|_____	
+_______________________				    ________________|____|_____
+_______________________	      O O O O O O O O	    ________________|____|_____
+_______________________	    _O_ Quintessence O
+_______________________	     O    paradoX    O		       EXPERIENCE
+			      O O O O O O O O		 [____________________]
+

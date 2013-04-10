@@ -1,0 +1,290 @@
+From nv91-asa@nada.kth.se Fri Dec 31 19:38:02 1996
+Status: RO
+X-Status: 
+Received: from ll.mit.edu (root@LL.MIT.EDU [129.55.12.3])
+	by mail.nada.kth.se (8.6.10/8.6.10) with SMTP
+	id TAA00689 for <nv91-asa@nada.kth.se>;
+	Tue, 31 Dec 1996 19:37:59 +0100
+Received: by ll.mit.edu (4.1/LL-1.3) id AA08316; Tue, 31 Dec 96 13:34:24 EST
+Mime-Version: 1.0
+Date: Tue, 31 Dec 96 13:27:40 -0500
+Message-Id: <9612311327.AA16848@LL.MIT.EDU>
+From: sven@ll.mit.edu (Sven Skoog)
+Subject: Re: Rotes, Rotes, Rotes!
+To: nv91-asa@nada.kth.se
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Content-Description: cc:Mail note part
+
+     
+     Hi Anders --
+     
+     
+     Love your page.  Love _Mage_ in general, in fact.
+     
+     Here are a handful of rotes I've been toying around with;
+     feel free to post/modify/comment on them as suits your interest(s).
+     
+     Take care, Anders, and keep up the good work! 
+     
+              
+                                     Sven Skoog
+     
+                    (whose terminal, unfortunately, has no umlauts)
+     
+     ------------------------------------------------------------------
+     
+     (Mind oo)    THE LUNATIC IS ON THE GRASS
+     
+                In many ways the opposite of 'Be Cool' (see _BoS_),
+                this Rote instills the vague yet certain surety in
+                observers that everything the target does is odd,
+                awkward, unfashionable, ill-at-ease, graceless, and
+                similarly inept.  
+     
+                Obviously, the exact effects of this are variable
+                on the individual -- teenyboppers will find the
+                victim's choice of clothing/jewelry offensive, while
+                socialites and members of haute couture will find
+                his/her manners boorish and rude, etc., etc., etc.
+     
+                Because the lack of fashion/etiquette/manners is
+                perceived in the observers' minds, not in anything
+                the victim actually wears/says/does, this effect, if
+                successful, is nearly impossible to resist or shrug
+                off until it has run its course.    
+     
+                A variant of this effect (still Mind oo) can be 
+                placed on the victim him/herself, causing him/her to
+                feel awkward, unfashionable, ill-mannered, and otherwise
+                ill at ease in any social environment, whether or not
+                he/she really is.
+     
+                I call this variant 'YOU FORGOT TO WIPE.'  ;)   
+     
+     ----------------------------------------------------------------------
+     
+     (Entropy o/oo, Forces oo, Mind o) MIDAS.EXE
+     
+                This rote, which depends rather heavily on the
+                scientific paradigm (specifically, electronics and
+                digital hardware design), is a favorite of malicious-
+                minded Virtual Adepts (and maybe Sons of Ether)
+                everywhere in need of cold, hard cash, and a longtime
+                bane to the Technocracy's financial affiliates...
+                particularly the Syndicate.
+     
+                The caster approaches an ATM (Automatic Teller Machine),
+                using Forces oo to simulate a (nonexistent) magnetic
+                signature on the metallic strip of an ATM card.  From
+                there, he/she can directly interface a series of personal
+                identification numbers at an alarming rate until he/she
+                gets lucky (Mind o), pick a lucky number on the first or
+                second try (Entropy oo), or perhaps even cause the ATM's
+                security software (backed up by hardware (namely, fuses))
+                to spontaneously jump states from 'authenticate' to
+                'accept.' (Forces oo, Mind o)
+     
+                Once inside the system, the caster can, through 'random
+                computer error' (Entropy oo, Forces oo), cause some 
+                exorbitant sum to be deposited in his/her fictitious 
+                account (this sum can be created from thin air or siphoned
+                from a number of other (random) bank accounts), withdrawing
+                some/all of it as needed (the ATM's daily limit can be
+                surpassed using the same 'jump states' effect as above,
+                although this will leave a record somewhere of an abnormal
+                withdrawal).
+     
+                Most Adepts add insult to injury when finished with their
+                'transaction,' burning out (Entropy o, Forces oo) a vital
+                component of the system, or simply power-spiking it,
+                shutting it down until reboot/repairs are made.  Sufficient
+                degrees of control (i.e., high successes/Computer ability)
+                may enable the Adept to wipe, head-crash, or otherwise
+                efface the portion of memory containing the ATM's log file. 
+     
+                Note that the Technocracy really _hates_ this one, and may,
+                depending on the level of paranoia in your Storyteller's
+                world, implement tempest-hardened systems, technomagickal
+                safeguards (recorders/countermagick), or even spiritual
+                watchdogs (Pattern spiders and the like) to watch over any
+                suspicious modifications to their electronic holdings.
+     
+     ----------------------------------------------------------------------
+     
+     (Life o, Mind o) HEIGHTENED SENSE(S)
+     
+          ...spelled like it sounds.  If more than one sense is augmented
+             at a time with this effect, successes should be split between
+             the two/three/however many senses --
+     
+                1 success     musician/refined human        (+1 Perception)
+                2 successes   upper limits of human senses  (+2 Perception)
+                3 successes   potentially vulgar extremes   (+3 Perception)
+                4 successes   clearly superhuman senses     (+4 Perception)
+                5 successes   rivals advanced technology    (+5 Perception)
+     
+          Extreme augmentation that lasts more than a few scenes should be
+          subject to Pattern Bleed in a manner similar to Better Body, at
+          the Storyteller's discretion.
+     
+          Note that, unless some explanation can be concocted, acting on
+          preternaturally heightened senses could result in Paradox.  (Yes,
+          there are supposedly a few people whose senses naturally extend 
+          outside the human norm, although only they know for sure -- I've
+          been able to hear the high-pitched KHz 'whine' most US television
+          sets give off, for instance, since I was a kid, but have only 
+          just learned that most people can't.  So maybe, once in a while,
+          the mage might get away with something of the sort.)
+     
+     ----------------------------------------------------------------------
+     
+     (Forces ooo, Life ooo, Prime oo)   RIDE THE LIGHTNING
+     
+          Well, really, this rote is named for one specific (but useful)
+          application -- the mage is able to transform his/her Pattern
+          into electricity (or light, shadow, fire, frost, sound waves,
+          neutrinos, or anything else his/her paradigm accepts as a 
+          'Force')... which, of course, offers him/her several new and
+          exciting opportunities for mobility and perhaps modes of attack.
+          
+          (Now, nothing extravagant here -- mages changing themselves into
+           explosions, or pinprick gravitic wells, or some such, are all 
+           the province of Forces oooo and beyond.  But something along the 
+           lines of, say, that Glass Walker gift 'Surf Telephone Lines'
+           ought to be possible...)
+     
+           Some forms, obviously, won't be too harmful to touch/be around,
+           although even light might blind or be focussed into a laser.
+           Various Storytellers may rule that Prime is not necessary,
+           although, allowing for the grossness of Pattern transformation
+           and Quintessence demands of a new (energy) Pattern, I'd require
+           it.  A Life oooo variant allows the mage to affect others...)
+     
+     ----------------------------------------------------------------------
+     
+     (Correspondence oo, Mind ooo, Time oo) THE MIRROR HAS TWO FACES
+     
+          This seemingly innocent rote, like many such Time magicks, 
+          can be both very useful and very, very dangerous.
+     
+          The mage links with his/her consciousness sometime in the future
+          (via a sort of 'mind-meld') and, for a _very_ brief moment, can
+          ask his/her future self the answer to a question, perhaps two.
+          These questions can concern a probable outcome ('I'm about to
+          invest $50,000 in Advanced Micro Devices.  What will happen?'),
+          a future fact which is unlikely to change ('Who's the governor
+          of Massachusetts in 2007?'), or various personal matters ('Is
+          my marriage with Elizabeth going to work?  How much do you weigh
+          in the future?  Did I/we test HIV-positive at that clinic?').
+     
+          Now, keep in mind that the time-space continuum (or 'fabric' or
+          'stream,' depending on which Tradition you ask) is hardly 
+          engraved in stone;  the powerhungry Adept who, learning that Paul 
+          Celucci will win the Massachusetts gubernatorial election in 
+          2000, decides to bankroll (and privately blackmail) him may 
+          inadvertently find that his clandestine financial activities have 
+          come to public attention, causing Celucci to withdraw from the 
+          election.  In general, the less the mage attempts to interfere, 
+          the better.  Also, past-selves popping forward in time may 
+          unwittingly endanger their future-selves by distracting them at a 
+          crucial time, or even call unwanted attention (Zigg'ra'laur, 
+          Marauder, Technocracy, etc).
+          
+          It is said that the archmage Seer of Chronos, Zak Wells, after
+          his infamous borrow-Quintessence-from-his-future-self stunts,
+          knew of his death years in advance, and prepared his estate
+          and affairs accordingly;  using this rote, months after the
+          original Quintessence-borrowing effect, to ask his future self
+          about the best course of action in an alliance he was pursuing,
+          he found that he no longer existed there... his future self
+          had been/would be killed by the Technocracy. 
+     
+         [The Correspondence Sphere is not required at all if the mage can
+          make an educated guess (and be correct) about PRECISELY where
+          he/she will be at the moment in the future he/she wants to reach.
+          Similarly, no amount of Correspondence will be sufficient if the
+          mage literally has no idea where he/she will be in the future
+          (e.g., out of a job and forced to move to the Midwest, etc.), 
+          although Filter All Time-Space (Correspondence ooo, Time oo) 
+          might be tried, for a _very_ long time...]
+     
+         [Various bells and whistles can be affixed to this rote, including
+          a Correspondence oooo tie-in that allows the mage to co-locate to
+          the period in space-time where his/her future self resides, and
+          even some Forces (oo) effects which enable visual interaction --
+          but they are all unfailingly vulgar, some extremely so.]
+     
+     ----------------------------------------------------------------------
+     
+     (Correspondence ooo, Time oo)  FILTER ALL TIME-SPACE
+     
+          Similar to Filter All-Space, except, with sufficient successes,
+          this effect can narrow down with some certainty where a subject/
+          object will be, WHEN it will be there.  (Generally, the mage has
+          to specify either a fixed location, or a fixed time;  filtering
+          through time-space to find an unknown in both time and space is
+          so daunting as to be virtually impossible (hundreds and hundreds
+          of successes).)   
+     
+          This rote is very useful with temporal scrying or consultation,
+          such as THE MIRROR HAS TWO FACES (above).  
+     
+     ----------------------------------------------------------------------
+     
+     (Life oooo, Time ooooo, Prime oo) TIME IN A BOTTLE
+     
+          Sort of a last-ditch longevity rote (and somewhat cheaper than
+          the _Horizon_ immortality rotes), this effect actually retrieves
+          a mage's physical/mental condition from the past, superimposing
+          it onto his/her Pattern in the present... in effect, making 
+          him/herself that much younger (exact amount success-dependent).
+     
+          Note that, because Mind is in no way involved here, the mage,
+          unfortunately, will retain NONE of the knowledge, skills, and/or
+          talents he/she has acquired since that far-off point in the past;
+          he/she is, in fact, directly pulling a copy of his/her past self,
+          _exactly_ as it appeared and thought back then, and assuming its
+          identity in the present, losing all that has transpired since.
+          Sometimes, however, even this fate is preferable to death -- 
+          there is always the chance, however slim, that the mage will 
+          'relearn' his present knowledge and personality, after all.
+     
+          This, potentially, is a very confusing and mentally turbulent 
+          rote -- many who are not well-versed in the Sphere of Time boggle
+          at the thought of a present self merging with a past self, and
+          the potentials for Paradox this joining could trigger.  As such,
+          the caster often leaves at least a short description of what has
+          just occurred, cognizant of the fact that their past selves may
+          be rather confused -- even though the past personality is the
+          mage's own, this 'future self' he/she has become will seem like a
+          mysterious, distant stranger.
+     
+          ('Dear Me:  At the ripe old age of 87, unsuccessful in my quest
+                      to perfect the Phoenix Elixir, I have begun to fear
+                      Death's coming, and have assumed a younger, stronger
+                      (past) 47-year old version of myself in the present.
+     
+                      Unfortunately, this means that the past forty years
+                      of My work are now gone from my/your mind -- but I
+                      have meticulously catalogued My findings on the
+                      shelves to your right.  Hopefully, over the next 
+                      decade or so, you/I will read and familiarize your/
+                      myself with My research.  It is My hope that, once 
+                      you/I have grown into My present knowledge, you/I 
+                      will expand upon the foundations I have laid herein,
+                      perhaps even succeeding where I have failed.  
+                      Failing this, at least (re)achieve Mastery in the 
+                      Sphere of Time, in order to once again enact this 
+                      past-present transfer and give the next iteration of 
+                      Me another chance.
+     
+                      Good luck, and remember -- take care of yourself.
+     
+                                        -- Doc Eon, Man of Many Tomorrows')
+     
+          NOTE:  Much like Tim Toner's "Better Death," this rote should be
+                 SACRILEGE to Euthanatos and similar cycle-minded mages...  
+             
+     ----------------------------------------------------------------------
+

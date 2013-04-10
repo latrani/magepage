@@ -1,0 +1,153 @@
+From: Abe Dashiell <adashiel@copper.ucs.indiana.edu>
+Subject: BJZ: (Potpourri) Martial Swords skill by Landon C. Darkwood
+To: adashiel_potpourri@majordomo.ucs.indiana.edu,
+        adashiel_bjzwod@majordomo.ucs.indiana.edu
+Date: Fri, 8 May 1998 14:15:38 -0400
+Reply-To: Abe Dashiell <adashiel@copper.ucs.indiana.edu>
+Return-Path: owner-adashiel_bjzwod@miagra.ucs.indiana.edu
+Received: from mx.nada.kth.se (mx.nada.kth.se [130.237.222.161])
+	by mail.nada.kth.se (8.8.7/8.8.7) with ESMTP id UAA27240
+	for <nv91-asa@sub00.nada.kth.se>; Fri, 8 May 1998 20:22:44 +0200 (MET DST)
+Received: from miagra.ucs.indiana.edu (miagra.ucs.indiana.edu [129.79.5.181])
+	by mx.nada.kth.se (8.8.7/8.8.7) with ESMTP id UAA21288
+	for <nv91-asa@nada.kth.se>; Fri, 8 May 1998 20:22:39 +0200 (MET DST)
+Received: (from majordom@localhost)
+	by miagra.ucs.indiana.edu (8.8.8/8.8.5/1.2skh) id NAA24688
+	for adashiel_bjzwod-outgoing; Fri, 8 May 1998 13:20:37 -0500 (EST)
+Received: from indiana.edu (belize.ucs.indiana.edu [129.79.5.188])
+	by miagra.ucs.indiana.edu (8.8.8/8.8.5/1.2skh) with ESMTP id NAA24670;
+	Fri, 8 May 1998 13:20:19 -0500 (EST)
+Received: from mail3.wilmington.net (root@mail3.wilmington.net [208.227.145.2])
+	by indiana.edu (8.8.8/8.8.8/1.16IUPO) with ESMTP id NAA06163;
+	Fri, 8 May 1998 13:18:30 -0500 (EST)
+Received: from [199.72.97.90] (wdx2-2-90.wisedial.wilmington.net [199.72.97.90])
+	by mail3.wilmington.net (8.9.0.Beta5/8.9.0.Beta5) with ESMTP id OAA12777;
+	Fri, 8 May 1998 14:18:23 -0400
+Message-Id: <v04003a02b178fc239f56@[199.72.97.90]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Sender: owner-adashiel_bjzwod@indiana.edu
+Precedence: bulk
+Lines: 120
+Xref: void.nada.kth.se misc:6077
+
+                Martial Sword Skill for the World of Darkness
+
+By Landon C. Darkwood (darkwood@bellsouth.net), inspired by Kindred of the
+East
+
+Martial Swords Skill
+
+     Martial Swords is a Skill that replaces Melee, much as the Martial Arts
+     Skill replaces Brawl. It exists as a separate skill unto itself because
+     of the emphasis in Japanese culture placed on arts that concentrate on
+     wielding the sword alone (examples of which include Batto-Jutsu and
+     Iaijutsu, offshoot of the all-encompassing Kenjutsu). It is the
+     representation of a lifelong study and discipline. Like the Martial
+     Arts skill, it costs 2 Ability Points per dot to purchase during
+     character creation, 3 Freebie Points, and 150% normal Experience cost
+     to raise.
+
+      *     Novice: Beginner
+      **    Practiced: Student
+      ***   Competent: Swordsman
+      ****  Expert: Ranking Dan
+      ***** Master: Miyamoto Musashi, one would hope...
+
+Basic Maneuvers
+
+     The following maneuvers are extrapolated and in some cases modified
+     from the Klaive Dueling rules in the Werewolf Player's Guide. The
+     Martial Arts Skill differentiates between 'hard' and 'soft' styles of
+     combat, but there is no such basic division with Martial Swords.
+     Instead, the divisions between styles are seen in the special maneuvers
+     available.
+
+     For these purposes, the basic maneuvers are as follows (all rolls Dex +
+     Martial Swords unless stated otherwise):
+
+     Strike: Weapon Difficulty
+
+     Parry: Diff. 6
+
+     Great Blow: Weap. Diff. +2, Damage x2, cannot be parried, +2 to all
+     Parry difficulties next round, must spend an action recovering, even if
+     attack fails. Disarm: opposed Dex + MS (or Melee) rolls, three
+     successes over opponent required to disarm.
+
+Special Maneuvers
+
+     The special maneuvers for Martial Swords can be taken at one per dot
+     after the first.
+
+     Draw-Strike: Practitioners of Iaijutsu place a great emphasis on
+     slaying an opponent with one sword stroke immediately after unsheathing
+     it, then returning it to its scabbard. It was designed as a method of
+     countering surprise attacks. When the swordsman declares a draw-strike,
+     roll his Wits + Martial Swords against the opponent's Wits + Alertness,
+     both Difficulty 4 (in essence, a modified Initiative roll). If the
+     swordsman rolls more successes, the margin of victory is added to an
+     immediately rolled attack, representing the surprise that the swordsman
+     gains from using the draw-strike, and makes such attacks more
+     difficult, but not impossible, to parry. Losing the opposed roll allows
+     the opponent to act first and subtracts the margin of loss from the
+     swordsman's Parry dice pool, reflecting the need to recover, draw, and
+     ready the sword to parry from a badly timed attack.
+
+     Example: Katsuo declares a draw-strike on Hama. He rolls his Wits +
+     Martial Swords and gains three successes. On the opposed roll, Hama
+     comes up with four successes. Katsuo mistimes his draw, giving himself
+     away to Hama, who flies in with an attack of his own. Katsuo, should he
+     fumble to parry, would do so at a one-dice penalty.
+
+     Target Blow: Extremely precise strikes at sensitive areas of the body
+     is a hallmark of martial swordsmanship. Roll Perception + Martial
+     Swords at a difficulty of the opponent's Dexterity + Dodge. The number
+     of successes on the attack after dodge or parry add to the number of
+     damage dice delivered by the sword.
+
+     Draw-Parry: Like the draw-strike, the draw-parry counters a sudden
+     attack from nowhere with a near-simultaneous unsheathe and deflecting
+     motion. Roll the modified opposed Initiative above, as for draw-strike.
+     If the swordsman wins, the successes are added to his Parry dice pool.
+     If he loses, the successes left are added to the attacker's attack dice
+     pool, who capitalizes on the swordsman's awkward position.
+
+     Counterstrike: The swordsman uses the attacker's own strength and
+     momentum against him, combining defense and attack into one maneuver.
+     Roll Dexterity + Martial Swords against the opponent's Dexterity +
+     Melee or Martial Swords. If the swordsman scores three more successes
+     than his opponent, he deflects the incoming attack and also inflicts
+     damage equal to the weapon modifier in dice to his opponent (i.e., if a
+     katana does Str+5 damage, he would roll five dice damage).
+
+     Deflecting Parry: The swordsman not only seeks to keep his opponent
+     from causing harm, but he also seeks to jar his opponent's weapon and
+     put him off balance. Roll a standard Parry. If the swordsman rolls more
+     successes than the opponent, the margin of victory subtracts from the
+     opponent's Initiative dice pool next turn, due to the moments he must
+     spend bringing his weapon back to bear.
+
+     Feint: Roll Manipulation + MS at the weapon's difficulty +3. This
+     fake-out attack cannot be parried, only dodged.
+
+     Riposte: A counterattack only usable after a successful Parry. Roll
+     Strength + MS at the weapon's difficulty +1. This maneuver's advantage
+     is that if an opponent has any dice or actions left in a turn, he can
+     declare a Riposte at any time after Parrying.
+
+     Blade Grapple: The swordsman attempts to trap an opponent's blade and
+     keep him from using it. Treat this as a Grapple maneuver, replacing the
+     attack roll with Dex + MS at Weapon Difficulty. The winner of the
+     Strength contest can immobilize the other's sword, preventing him from
+     any action with it. Of course, this does occupy your own blade as well,
+     but it's a great move if you're in a pinch.
+
+
+===============================================================================
+To unsubscribe: mail "unsubscribe adashiel_bjzwod" (in the body, NOT the
+subject line of the message) to majordomo@indiana.edu. Under NO circumstances
+send mail to adashiel_bjzwod@indiana.edu. If you have any questions, comments
+or problems, send mail to adashiel@copper.ucs.indiana.edu.
+===============================================================================
+

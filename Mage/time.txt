@@ -1,0 +1,475 @@
+From nv91-asa@tigris.nada.kth.se Tue Sep  6 12:33:10 1994
+Date: Tue, 6 Sep 1994 12:10:25 +0200 (MET DST)
+From: Anders Sandberg <nv91-asa@tigris.nada.kth.se>
+Subject: Time Rotes
+To: mage-l@wizards.com
+Message-ID: <Pine.3.87.9409061225.B11450-0100000@tigris.nada.kth.se>
+
+Time Rotes
+
+
+Scent of the Hounds of Tindalos (Time 1)
+
+The mage concentrates himself and try to feel when
+something happened (or will happen) by imagining it and
+different times it might have happened at. The mage will
+feel when he gets closer to the right time as the "scent"
+gets stronger. This can for example be used to find out
+when a building was built or when a clock stopped.  It
+cannot tell why or where something happened. This rote is
+named for the legendary paradox beings the Hounds of
+Tindalos, which ruthlessly hunt down mages who interfere
+with Time. They have the ability to find the mage
+regardless of the time he exists in, and will appear out
+of nearby corners to destroy him. 
+
+
+Sense Angled Time (Time 1 Entropy 1)
+
+Time does not always flow smoothly, sometimes there are
+corners and discontinuities in it for unknown reasons.
+These corners are dangerous times, since the defences of
+reality and casualty are briefly removed. Powerful beings
+of the Deep Umbra and dangerous weirdness may appear, and
+many momentous events occur at these times. This makes it
+especially important to know them beforehand.  The
+Technocracy calls the "Bifurcation Points", and spend
+much energy neutralizing them or manipulating events
+around them. 
+
+
+Find Connection (Time 1 Correspondence 1)
+
+This rote is used by mages to find the secret links
+between seemingly disparate events. A mage can read a
+newspaper, and realise that the current conflicts on
+Balkan are linked to the disappearance of several
+prominent engineers in England, or that the fluctuations
+of the stock market have been strongly influenced by the
+person in the border of that picture. He might not know
+how or why, but he will see the links. 
+
+
+What Time is it? (Time 1 Mind 2)
+
+The mage disturbs the sense of time of a person, so he
+will think that more or less time have passed. He can
+make the victim think that its still four or that its
+already six, until the victim watches his watch (which
+clever mages can manipulate using Matter). 
+
+
+Follow Blood (Life 1 Time 2) <Order of the Eternal Dawn>
+
+The mage touches some blood from someone. The result is
+that the mage gains physiological knowledge about the
+owner, his age, condition, appearance, sicknesses,
+markings and so on. By tracing the blood backwards, the
+mage can learn how the owner was when he was younger. The
+mage may also continue the tracing back to the owners
+parents, and their parents, and so on. A single trait may
+be followed back to its source. 
+
+
+Astrological Prediction (Time 2 Prime 1 Spirit 1)
+
+The Order of Hermes is the master among the traditions in
+matters of astrology and planning. One major use of
+astrology has been to find the most suitable time to
+perform magick, by studying the conjunctions of the
+planets and stars. The astrologer analyses the act of
+magick, determines which planets rule it (for example,
+Prime is ruled by the Sun while Spirit is ruled by the
+Moon) and then tries to find the best conjunctions.
+Magick of the right type performed then will be more
+powerful and safe. 
+
+[ The number of successes determine how powerful
+conjunctions the mage has found (a conjunction with 4
+successes will decrease the difficulty for that type of
+magick with 4). However, the more powerful conjunctions
+are much more rare, so the mage may have to wait for an
+inordinate amount of time before the right moment, or use
+lesser conjunctions (by removing extraneous successes).
+One success means the astrologer has found a minor event,
+occurring within a day (generally a suitable planetary
+hour). 2 successes occur within a week (generally a
+suitable planetary day). 3 successes occur within a month
+(often influenced by moon-phase). 4 within a year and 5
+within a decade (and so on).  ]
+
+
+Summon Timekeeper (Time 2 Spirit 2)
+
+One of the more unusual kind of elementals is the
+time-elementals, known in the Cult of Ecstasy as
+timekeepers. They seems to be the spirits which keep
+track of everything, making sure things happen at the
+right time for the right reasons. They seldom manifest
+physically, preferring to communicate through
+coincidences and physical phenomena like the sound of a
+ticking clock. The timekeepers know everything about what
+has happened and will happen, and may give information to
+the mage as long as it will not cause any disturbances of
+time. If the mage disrupts time too much, they might
+become very dangerous servants of paradox. Persistent
+rumours tell that they have a lord known as Chronos, the
+Master Timekeeper. Some mages speculate that Chronos may
+be Wrinkle. 
+
+
+Peer into the beyond (Time 2 Entropy 2) 
+<Necromancers, by Robert Kirkpatrick>
+
+The Necromancers use this rote in order to see the
+outcome of very specific actions.  What the rote does is
+allow the caster to look into the future, but be able to
+filter out any unnecesary random future events, so that
+he can see one specific outcome. 
+
+The Necromancer essentially asks a specific question
+about the future, and gets a yes or no answer.  Common
+questions include, "Oh, mighty spirits, I beseech you, is
+a page of the Necromicon behind this door?" or "If I get
+into a fight with this Mage, will I die?" The outcomes
+always occur, but not necessarily the way the Mage
+thought.  For instance, in the first example, a page may
+be behind the door, but it could be buried under 3,000
+feet of sand, or in the second example, the Mage may not
+die, but may be teleported in a Paradox dimension. 
+
+Correspondence Magick must be combined with this rote, in
+order to ask questions about a place the Necromancer
+currently is not, like "will I die if I go to Egypt
+tomorrow?"
+
+[The number of successes on the Magickal effect roll is
+the number of questions the Mage can ask about a
+particular scene.  The Mage cannot recast the spell to
+gather any information that might be beneficial to him
+for that same scene.  For instance, before a battle, the
+Necromancer asks a few questions about it's outcome: 
+will i die, will this particular attack kill him, etc. 
+He cannot later ask "will my friend die," if it's about
+the same battle.  Also, the Mage cannot ask anything that
+is philosophically vague, such as "is there a God?" This
+will occur in one aggravated wound per number of
+successes, plus Paradox.]
+
+
+Detect Pattern (Correspondence 3 Entropy 1 Time 2)
+<Forecasters>
+
+By comparing events with each other and running
+sophisticated algorithms, the Forecasters of the
+Technocracy can detect patterns which normally would seem
+random. They can predict how the patterns will develop,
+trace their history and often discover who is behind it. 
+Typical applications are scanning for Tradition activity
+or crime. 
+
+
+Track Manipulations (Time 2 Entropy 2) <Forecasters>
+
+This is continuously done by the Technocracy to see if
+other groups attempt to manipulate the trends. The
+Forecasters carefully analyse events to see if they have
+been manipulated by someone, using their computers to
+search for patterns. The difficulty lies in the fact that
+most manipulators are very careful, and the results are
+seldom apparent until years later. 
+
+
+Keening of the Banshee (Time 2 Entropy 1)
+
+This rote (also known as the Sight of the Valkyries) is
+surprisingly simple, but still very rarely used. By
+following the threads of fate forward, the mage can feel
+where they end. This can be used to predict how long
+anything will remain in existence; inanimate objects,
+living beings, people and even love itself. Most mages
+prefer not to use this rote at all. The only exceptions
+are (of course) the Euthanatos, who simply regard it as a
+useful tool or a very powerful demonstration of the total
+power of Entropy. They cast the bones and interpret their
+patterns. 
+
+[ The rote has some limitations. It cannot predict
+exactly where something will end, just a time of great
+entropy. Sometimes people survive just barely, and go on
+living. Awakened beings also automatically disturb the
+predictions by their actions, especially if they have
+Time or Entropy themselves (increase difficulty). If the
+rote is used on a mage, he will automatically try to
+subconsciously countermagick it. ]
+
+
+MASTER NINJA TIME ROTE (Time 3, Mind 1, Entropy 1) 
+<Sons of Jupiter, by Jack Dracula>
+
+Just the thing for the clever coyote, this Rote can turn
+anyone into a Master Ninja. It was first used by Glen
+Manning, a Mystery Science Theatre fan, who wanted to
+fight just like the ninjas in bad martial arts flicks. 
+
+[Time slows down for the Mage, who then can use the Dim
+Mak effect to his the best possible spot on the enemy.
+Also, absurdly silly but effective dodges are possible,
+since the attacker is moving in slow motion; -2 to all
+dodge target numbers.]
+
+
+Temple of Love (Time 3 Correspondence 2)
+
+While the mage uses tantric sex-magick with a partner
+inside a circle of lit incense-sticks, the time outside
+the participants slow down while their own time
+accelerates. The result is a zone of relative safety
+around the mage for a short while. The difference in the
+passage of time is so abrupt it creates a kind of
+barrier, which seeks to delay passing objects or
+personas. Most such effects are coincidental, like having
+enterers stumble, doors getting stuck or shoelaces
+suddenly appearing untied. The mage will also
+instinctively know well before when somebody will try to
+enter, and have ample time to prepare. 
+
+
+Resting (Life 3 Time 3)
+
+The mage speeds up sleep for somebody, so he will awake
+rested sooner. A pleasurable side-effect is that dreams
+will be very beautiful and intense. Very popular among
+members of the Cult of Ecstasy. 
+
+
+Prolong Life (Life 3 Time 3)
+
+By selectively slowing down the processes of ageing, many
+Cultists remain young and healthy despite their hectic
+lives. In fact, most users of this rote perform it by
+simply living as pleasurably as possible. 
+
+
+Faint (Life 2 Time 3)
+
+The Cult of Ecstasy don't like to hurt people, but
+sometimes they have to. This rote was perfected by a Lady
+de Joen during the 18th century, who sometimes had the
+problem of being surprised in embarrassing circumstances
+by the appearance of the wives of her lovers. However, by
+slowing down the blood supply to their brains, she could
+easily make them coincidentally faint. And people often
+forget what the saw just before fainting... 
+
+
+Preserve (Time 3 Entropy 3 Prime 2 Matter 1/Life 1)
+
+A recurring problem for pattern-mages is that many of
+their creations don't last well or begin to dissolve.
+This is especially the problem with the creation of
+living beings. One solution is to seek to restore their
+patterns and slow down their ageing. Some mages have even
+begun using it on all their creation to perfect them once
+they are created. 
+
+[ The successes of this rote will be added to the
+original successes to determine the new duration of the
+pattern, if there are more than five the pattern will
+exist indefinitely. The rote must involve the relevant
+sphere to 1 to work.]
+
+
+Waste Time (Time 3 Entropy 3/4)
+
+Sometimes nothing seems to get done, regardless of how
+much you work or plan noting worthwhile comes out of it.
+This effect can be created by a judicious use of Entropy
+to make time less "fresh" and useful to people. Some
+Cultists use it to sabotage the workings of bureaucracies
+or other organisations by making the employees
+ineffective and slow. By using even more powerful Entropy
+magick time can even be destroyed; the victims will
+notice that a certain period has passed but cannot
+remember anything of it, and nothing seems to have been
+done either. 
+
+
+Tantric Meditation (Time 3 Prime 2)
+
+One of the more important methods of tantric yoga is to
+have intercourse, but avoid orgasm. This is continued as
+long as possible, resulting in a powerfully altered state
+of mind. The main use is of course theurgical, to
+experience the true White Light, but some cultists have
+found a more practical, theurgical use of the practice. 
+The tantric Masters of course disapprove of it, but its
+useful nevertheless. During the state of no-time which
+develop, the mage(s) can weave new magickal effects but
+just as orgasm is delayed, delay their expression until
+the final moment. This gives them the ability to create
+extremely complex magick which is released in a single
+instant, or strengthen magick greatly. 
+
+[ In order to work, the participants must succeed in
+reaching tantric trance, using stamina + meditation with
+a difficulty of 6. The successes can be used to lower
+difficulties for magick in this state as described in the
+Book of Shadows. The rote requires prime to sustain the
+etheric patterns of the magick even when the mage directs
+his or her will to other purposes in the ceremony. ]
+
+
+Time is of the Essence (Time 3 Mind 1)
+
+One problem many people have is that they become stressed
+or feel they don't have enough time to think in tense
+situations. The Cult of Ecstasy has a reputation of
+having many great improvisers or wits, and this rote is
+one of the reasons. By simply focusing on the present,
+the mage can speed his own thoughts to great speed while
+appearing to be acting normal. 
+
+[ The rote will not give the mage any increased speed in
+movement or other physical actions (like looking at
+something else). For practical purposes, the world seems
+to have slowed down into slow- motion. Time is slowed at
+the rate normal for Time 3. Alternatively, in a
+live-roleplaying situation, each success will give the
+mage a minute extra to think over his actions, solve
+problems or use magick. ]
+
+
+Delay Paradox (Time 3/4 Prime 2)
+
+Paradox Backlashes are so great disturbances in reality
+that any mage with Prime and Time will feel them
+approaching well in advance. So far nobody has ever been
+able to avert them, but they can be delayed, giving the
+mage a chance at least to prepare himself. He simply
+twists the time around the approaching backlash, delaying
+it. This is of course utterly vulgar, and will fuel it
+even more. Powerful mages have experimented with Time 4 to
+freeze Paradox completely, but it will inevitably escape
+and become a Time-backlash of almost mythical strength. [
+Botches are *very* nasty. Handling Paradox is inherently
+paradoxical, and this rote may even disturb the flow of
+Time.  Caution is advised. The number of turns the mage
+can delay the Paradox is equal to his successes if he uses
+Time 3. If Time 4 is used, double the strength of the
+Backlash and use the normal duration table. ]
+
+
+Compile Virtual Computer (Time 4 Correspondence 2 Prime 2
+Forces 1)
+
+The Virtual Adepts have always been interested in
+applying the ideas of technology and science to magick.
+One early development was the discovery that magickal
+effects could be delayed until certain conditions had
+been fulfilled. Since this is essentially the same
+principle as the transistor, they began to develop
+magickal electronics. By joining together many separate
+"transistors" and using magickal events instead of
+electricity, they were able to first build immaterial
+digital devices and finally the virtual computers.  These
+computers are built out of magickal patterns, which
+interact in complex ways. They require no electricity,
+since they use causality itself as their building
+material (some Adepts claim that space-time really is
+built out of a network of information processing units,
+and the virtual computers just are man-made imitations). 
+
+They have no limitations on speed, size or processing
+power except paradox and the skill of their creators.
+This turned out to be the greatest obstacle, since the
+creation of the ultracomplex patterns requires extremely
+skilled programmers. It was however somewhat simplified
+when a team of Adepts developed the first compiler, which
+could compile sourcecode in electronic form into a
+running virtual program-pattern. These compilers are
+major feats of magick and programming, and still require
+extremely skilled adepts, but its no longer a feat worthy
+an AI to create a virtual computer. 
+
+[ Virtual computers are compiled into extremely complex
+patterns of causal connections, which interface with the
+normal world through the Digital Web. The patterns has to
+be very exact, otherwise the system will quickly unravel.
+Interfacing with the physical world has proven to be too
+prone to paradox, which wrecks the intricate patterns in
+a matter of minutes. However, one elegant application
+which works is expanding the capacity of a normal Adept
+computer, which is often coincidental or at least doesn't
+attract attention. Virtual memory can hold unlimited
+information and virtual processors can process nearly
+infinite amounts of data. There are persistent rumours
+that several experimental virtual computers have achieved
+consciousness and Ascended. ]
+
+
+Petrify (Time 4 Life 4 Matter 2)
+
+This is the classic petrifaction rote, a staple of the
+Verbena and also rather popular among some of the more
+drastic Cultists. The victim is literally turned into
+stone, lasting forever (or at least a long time). Some
+Sons of Ether have a stasis rote, based on Forces
+instead, locking victims inside fields of no-time, but
+the function is the same. These rotes can be supplied
+with conditions which will dispel them, as a kiss from
+prince charming or a pre-set time. 
+
+[ The rote can be used without Time, but then it won't
+last as long as when the Avatar of the victim is frozen
+into stasis. ]
+
+
+Weather Conserves (Time 4 Forces 2/4)
+
+An ancient Verbena rote. The mage boils together a broth
+during a thunderstorm, hurricane or sunny day and lets it
+absorb the weather, which is stored in a jar, bottle or
+sack. If it is opened, the weather will come streaming
+out again. This can prove useful as a weapon, as in the
+case of Mother Huntington's Pickled Lightening or
+practical as a diversion (like her Fog Preserves or Hail
+with Cinnamon). 
+
+
+Strengthen Destiny (Time 5 Prime 2 Entropy 2
+Correspondence 2)
+
+Some of the most powerful cultists are not content merely
+to watch the flow of history, they want to direct it.
+When they see a tendency they like, they perform
+elaborate ecstatic rituals to fuel the causal chains
+supporting it and increase the chance it will grow.  This
+will help the development through random events and "the
+flow of history". Some cultists claim that Woodstock was
+such and ritual to fuel the whole of the 60's. Others
+whisper that the Technocracy is doing the same thing on a
+global scale, to ensure their total victory. 
+
+
+Time Loop (Correspondence 2, Spirit 4, Time 5) 
+<Time Lords, by Mark Kinney>
+
+This rote is used when something so disruptive to the
+timeline is being used or created.  This rote separates
+their world from the rest of the timeline, so that their
+influence will not effect the flow of history. 
+
+[This rote raises the Gauntlet of a target Realm to 10,
+essentially cutting it off from the Umbra.  There is
+presently no way to actually destroy
+
+
+-----------------------------------------------------------------------
+Anders Sandberg			 	  	     Towards Ascension!
+nv91-asa@hemul.nada.kth.se   http://www.nada.kth.se/~nv91-asa/main.html
+GCS/M/S/O d++ -p+ c++++ !l u+ e++ m++ s+/+ n--- h+/* f+ g+ w++ t+ r+ !y
+
+
+
+

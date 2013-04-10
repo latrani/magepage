@@ -1,0 +1,199 @@
+Primal Field Theory with Applications
+by Vladimir K. Bougazov and Grant H. Thomson
+Fourth Edition, BMI Press 1993.
+
+Preface 
+This textbook is intended primarily for the graduate course in 
+practical primal field theory for students majoring in physics, 
+practical paradigm alteration or potential engineering. It is assumed 
+that the student has some general experience with primal effects 
+and a solid grounding in unified field theory (later than the October 
+1991 revision, which introduced category theory). It is highly 
+recommended that a post-general relativity course in metaphysics 
+that includes the theory of Wiener matrices and elementary reality 
+morphology be taken prior or concurrently with this course in 
+primal field theory.
+
+This fourth edition is basically the same in its general outline and 
+content as the previous edition. Some new material has been added 
+after the July 1993 symposium, which modified the Rogers-Fowler 
+equation to take semi-primal effects into account. The general 
+theory of nodal phenomena has been moved into a own chapter, 
+and the quasiperiodic perturbation method has been removed after 
+the decision of the symposium. 
+
+This book is deliberately written using many of the standard terms 
+from the Traditions, of several reasons. We have found that many 
+of our students find it hard to understand traditional literature or 
+mages on the subject, as they are unfamiliar with the arcane jargon. 
+This is a handicap, as students may some day have to understand 
+the ideas of traditional prime alteration theory. Another reason for 
+the inclusion of traditional terms is the new re-education program 
+of the Recruitment Division, which will use this series of textbooks 
+in its courses. We have done our best to use the traditional terms 
+and definitions in parallel to the stringent treatment of the theory. 
+When the terms are conflicting, we have used the correct 
+mathematical term, and noted the conflict in the sidebar. 
+
+We have used metric units (SI-5) in numerical examples and 
+problems. In some places older unit systems (SI 3-4) are used due 
+to their greater every day use. Worked examples of problems are 
+included at the end of nearly all sections, and problems to be 
+worked out by the student are provided at the end of the chapter. 
+Some problems are important theorems for which the student is 
+asked to devise a proof. The authors have always felt that the 
+student should participate in the development of the subject, rather 
+than merely substitute numbers into equations or perform 
+experiments already derived in the text. Answers to odd numbered 
+theorems are given at the end of the book. A list of physical and 
+mathematical helps and formulae is also included in the 
+appendixes.
+
+The practical exercises, albeit limited due to practical reasons both 
+include observation of the in the text mentioned  phenomena 
+(where possible) and practical experiments. Due to the nature of 
+primal field theory, these may not be possible in all courses 
+(Especially some of the more advanced or drastic effects can only 
+be replicated at larger laboratories). Wherever an exercise requires 
+a paradigm with non-standard parameters this is marked by a star 
+(*). Dangerous or highly energetic experiments are marked with 
+two stars (**). A few exercises of a highly interesting nature, which 
+cannot be replicated inside a laboratory are provided, marked with 
+three stars (***). The authors would be very grateful if the student 
+(or teacher) would report his or her findings, should the necessary 
+preconditions for the experiments arise.
+
+The authors wishes to express his gratitude to the users of the 
+previous edition for the errata lists and many constructive 
+suggestions they have provided. The following reviewers offered 
+many valuable suggestions, and the authors are deeply grateful for 
+their help: Charles C. Faughn, Iteration X, Education Central 5, 
+Autocthonia; Raymond T. Harrison Jr, Void Engineer Long Range 
+Correlation Study Team; Karl Kramer, Void Engineer Postgraduate 
+School;  Anders Sandberg, University of Stockholm; James K. O’Brien, 
+New World Order, London; Takata Sahashiro, Iteration X Tokyo. Don 
+E. Weil, Massachusetts Institute of Technology; Miriam S. Winkel 
+New World Order Military Academy; 
+
+Vladimir K. Bougazov, Moscow Central
+Grant H. Thomson, Void Engineer Postgraduate School
+
+Overview of this textbook:
+This textbook is divided in three sections: first a theoretical 
+derivation of the Rogers-Fowler equations in n-dimensional space, 
+and their numerical solution. Then comes the main part, 
+demonstrating the morphology of primal fields and flows, and then 
+the final part, containing outlooks towards current research and 
+definition.
+
+The text begins with a brief introduction to the essentials of 
+Wiener-matrices and unified field theory. This leads naturally to 
+the concepts of unified energy and primal energy, which are 
+compared with the historical model of ”quintessence” it replaces. 
+After this preparation, the one-dimensional Rogers-Fowler 
+equations are derived, and compared to experiments. 
+
+In chapter 2, the general Rogers-Fowler equations are derived 
+using both category theory and morphological calculus. The 
+emphasis is on the practical use, and their utility is demonstrated in 
+several examples. Note the absence of quasiperiodic perturbation 
+theory, removed by the July 1993 symposium. This has been 
+replaced with standard methods. 
+
+In chapter 3, the equations are used to derive the standard field 
+configurations, especially when coupled with matter. Several of the 
+more common configurations, like ”ley-lines”, nodes and vortices 
+are discussed at length.
+
+Chapter 4 is devoted completely to the general theory of nodal 
+phenomena. First the standard fields are discussed, then perturbed 
+fields and finally the Gordon-Klein category of nodal disturbances. 
+Applications to paradigm alteration and potential engineering are 
+discussed. 
+
+Part two begins with chapter 5, which discusses the main flows of 
+prime in the Universe. These follow fixed paths, which form an 
+interconnecting network throughout reality. From the main lines 
+smaller lines branch off, in a Levy-Mandelbrot network which is 
+crucial to the formation of matter and energy. 
+
+Chapter 6 discusses the interconnecting points of this network, the 
+nodes. Uses for the build-up of potential are manifold, and different 
+methods (both large scale and personal) for extraction of primal 
+energy are evaluated. Different scales are compared, from 
+macronodes down to the micronodes and the quantum nodes which 
+couple to the Schroedinger fields. Nodes with morphological 
+imprints. Negative nodes. Methods of detection.
+
+Chapter 7 discusses primal vortices on different scales, primarily on 
+the subnanometer scale. Since the rotating primal field reinforces 
+itself, the vortices are very stable. They are compared to the 
+standard model of elementary particles. Macroscopic vortices are 
+discussed, and methods of detection and neutralisation with 
+minimum damage are described.
+
+Chapter 8: Primal waves and spatio-temporal evolution of primal 
+fields under stress. Standing waves. Uses of primal vibrations, and 
+their detection. Interaction with matter and other primal 
+phenomena. Practical uses for interference. Interactions with 
+negative nodes, and the use of the primal low-flux interferometer.
+
+Chapter 9 discusses cataclysmic changes in the primal field and 
+their causes and effects. The most common, ley-shifts and vorticical 
+disruption are described at length. Primal shockwaves and their 
+effects on matter and life are discussed, and methods of protection 
+are compared. Large scale field reorientation is studied from 
+historical data, and compared to current research. 
+
+Chapter 10 discusses the effects of ”paradox”, self sustaining 
+patterns in the primal field. Causes of self organisation. Paradox 
+domains and methods of their construction. Spontaneous symmetry 
+breaking with energy release, ”Paradox Backlash”, and 
+corresponding effects on the environment. Morphic field 
+degeneration. ”Paradox nodes”. General information theory of 
+primal patterns.
+
+Chapter 11 deals with areas of low ambient field strength and their 
+properties. Their uses, and methods of detecting them. Methods of 
+neutralisation.
+
+Chapter 12 discusses areas with strong ambient prime fields, and 
+their properties. Phenomena at high ambient primal levels. Field 
+negentropy. The Takayama model of hard reality. Methods of 
+creating, sustaining and dissipating fields. 
+
+Chapter 13: the interaction between living beings and the primal 
+field. Special attention is given to conscious manipulation of the 
+field. Effects of changes in the field in living beings are discussed. 
+Medical care of primal damage. Methods of detecting primal fields 
+in living beings.
+
+Part three discusses the more advanced problems in primal field 
+theory. Chapter 14 discusses methods of redirecting primal flows on 
+the macroscopic scale. As an example, the use of a freeway in 
+France to dam a ley line is discussed at length. Practical problems 
+with primal reservoirs and artificial nodes are studied, along with 
+methods of neutralising their effects. Protective shielding of primal 
+patterns, and Rayleigh-type defences are briefly covered.
+
+Chapter 15 is about global scale primal reengineering. The current 
+state (including the protective near-space shielding) is discussed at 
+length. Several detailed examples are given of global scale projects, 
+like the Deep Ocean Redevelopment Initiative of Iteration X and the 
+World-wide Primal Redirection Program. Some outlooks on future 
+projects, and the planned final phase 2012.  
+
+Chapter 16 analyses the by the Void Engineers proposed topological 
+model of the primal field, and its implications. Its current political 
+status is unsure, but it gives the student a clear insight in state of 
+the art paradigm modelling. Its development is compared to the 
+Helmholz model of paradigm introduction.
+
+Chapter 17 concludes this textbook by discussing the uses of the 
+proposed Controlled Primal Disruption Method on small scales to 
+create controlled small scale shockwaves, local topology changes 
+and meso-scale vortices. Their potential uses are weighed against 
+their disadvantages. Alternative models, should the proposal fail on 
+the Mars 1994 symposium. 
+
+(500 pages of pure technobabble and mathematics follows.)

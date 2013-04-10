@@ -1,0 +1,107 @@
+From: Peter Jackson <Peter@pjackson.demon.co.uk>
+Subject: Hiding from the Technocracy
+Newsgroups: rec.games.frp.storyteller
+Date: Sat, 30 Nov 1996 16:03:18 +0000 (GMT)
+Organization: Organisation name, location. Telephone/Fax?
+Path: news.kth.se!tybalt.admin.kth.se!celsiustech.se!seunet!news2.swip.net!mn6.swip.net!newsfeed.sunet.se!news99.sunet.se!nntp-oslo.UNINETT.no!nntp-trd.UNINETT.no!nntp.uio.no!news-feed.inet.tele.dk!enews.sgi.com!EU.net!usenet2.news.uk.psi.net!uknet!usenet1.news.uk.psi.net!uknet!dispatch.news.demon.net!demon!Peter
+Lines: 93
+Message-ID: <ant301618345Ec#G@pjackson.demon.co.uk>
+NNTP-Posting-Host: pjackson.demon.co.uk
+X-NNTP-Posting-Host: pjackson.demon.co.uk
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; CHARSET=ISO-8859-1
+X-Newsreader: ANT RISCOS Marcel [ver 1.09]
+
+Some thoughts on how Tradition mages can hide from the Technocracy.
+
+Arcane and Sanctum are obvious and easy for the Mages who have them.
+
+Most searching will be done using Correspondence, since that allows
+one mage to cover a wide area, but correspondence alone is insufficient
+since mages are appear identical to sleepers to normal senses.
+
+Technocrats always need foci. For searching surveilance devices such
+as cameras and airport metal detectors are obvious. Have you noticed
+the increasing use of cameras monitoring public areas? In the WoD this
+has to be a Technocracy plot. Another type of focus would be records -
+the technocrat uses a computer to search medical, social security,
+employment records, etc. looking for someone who fits the pattern of
+being a mage.
+
+A search using a surveilance device close to the mage, may be detected
+by a mage using a perception + awareness roll. Awareness 1 would just
+a feeling of magic being used on the mage. Awareness 2 would let him
+know that it was some kind of scrying. Awareness 3 would locate the
+device being used. A Correspondence 1 effect could warn the mage when
+the device focussed on him.
+
+If he senses it the mage can use countermagick to try to stop it finding
+him. Fully countermagicked the Technocrat would detect only a 'glitch'
+in the system (which he would probably deduce was caused by a mage).
+Partially countermagiced the Technocrat would detect the presence of a
+mage but not get a complete identification. Offensive countermagic would
+reveal the Technocrat doing the searching, allowing a mage with
+sufficient Correspondence and other spheres to attack him, discouraging
+further searches. Sphere vs Sphere countermagic could be done with any
+of Correspondence 2 (close window), Entropy 3 (slay machine), Forces 2
+(system havoc), Matter 2 (broken wire), or Mind 2 (don't notice - but
+this would leave a record). These are all localised effects, they 
+would not completely stop the search. Anti-Magick would do so (the
+system crashes) forcing the Technocrat to restart the search (reboot
+the system). An indirect search (through the records) would give less
+information, but could not be countermagicked.
+
+Correspondence 2 can create wards which can be built up over time
+until they are almost impossible to penetrate. A mage who is entering 
+an area he knows is likely to be monitored could create a temporary
+ward over himself. Since it would almost always be coincidental he 
+could even do so on a routine basis. This would not stop local
+monitoring (unless the mage really believed that cameras are magickal)
+but would prevent the magickal collection and filtering by the
+technocracy. So records would normally be left.
+
+Entropy 2 could be used if there is a (chaotic) crowd of people around
+to make sure there is always someone between the mage and the camera.
+Entropy 3 could cause the camera to fail.
+
+Forces 2 could blow a fuse in the camera, or to bend light around mage
+to make him invisible, though this is likely to be vulgar.
+
+Life 3 can be used to disguise a mage, though Life 5 (Perfect
+Metamorphosis) would be needed to completely fool someone using Life 1.
+
+Matter 2 can be used to stop a camera working.
+
+Mind 1 can block mental probes, and disguise the mage's aura. Mind 2
+in conjunction with Correspondence can stop any observer, even a remote
+one from noticing the mage. With Mind 3 he can also get him to turn off 
+the recording equipment, or even erase it, and make it seem accidental.
+
+Prime 4 could be used to supress the flow of prime within a mage, to
+make appear to be a sleeper, even to magickal senses (except mind
+reading). This effect would automatically as soon as the mage attempted to use any magick.
+
+Spirit 4 could be used to channel a spirit within an appropiate gift.
+
+None of the above would stop a search of existing records, but 
+Correspondence 2 could be used to find them, and then several spheres
+could be used to destroy or alter them. Warding would prevent this,
+but the VAs would have had to them before they left the Technocracy
+and would have scrambled most of the records held on computer, just
+before they left. Some of them may still have access codes for
+getting through the wards. Probably it is routine for a mentor to
+arrange for an initiates records to be destroyed. The old records could
+still be search using Time 2 (backups), but it will be more difficult.
+
+Talismans could be created which duplicate one or more of the effects
+above.
+
+Overall it seems that it is possible for the Technocracy to find any 
+mage, but it is not easy if the mage is experienced, and there is some
+risk to it. Beginning mages may need protection if they don't have the
+spheres to protect themselves.
+
+-- 
+Peter Jackson - work address pjackson@uk.oracle.com
+Everything I write is my own opinion
+
